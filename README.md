@@ -136,8 +136,8 @@ Below is the summary of the LSTM model:
 ## Results
 
 The model achieved:
-- **Training MSE**: 0.0078
-- **Validation MSE**: 0.0115
+- **Training MSE**: 0.0011
+- **Validation MSE**: 0.0018
 
 These metrics indicate the model's accuracy in predicting both target variables.
 
