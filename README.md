@@ -31,9 +31,14 @@
 
 ## Introduction
 
-This project focuses on developing advanced predictive analytics for **Non-Hodgkin Lymphoma (NHL)** by utilizing a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two key health metrics: **Crude Mortality Rate** (number of deaths per 100,000 individuals in a given year) and **Survival Rate** (likelihood of survival as a percentage). By leveraging demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes.
+**Non-Hodgkin Lymphoma (NHL)** represents a diverse group of blood cancers that vary significantly in their progression, treatment responses, and outcomes. Understanding the trends and disparities in mortality and survival rates associated with NHL is crucial for guiding public health interventions, advancing oncology research, and improving patient care.
 
-Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Non-Hodgkin Lymphoma** outcomes. The project emphasizes precision and temporal modeling to support informed decision-making in public health and oncology.
+This project aims to bridge this gap by developing a state-of-the-art predictive analytics framework tailored for NHL. Leveraging the power of Long Short-Term Memory (LSTM) neural networks, the model is designed to accurately forecast two pivotal health metrics:
+**Crude Mortality Rate:** Number of deaths per 100,000 individuals annually.
+**Survival Rate:** The probability of survival expressed as a percentage.
+The predictive framework integrates demographic factors **(age, sex, ethnicity, race)** with temporal elements (yearly trends) to model and analyze long-term dependencies and complex temporal patterns in the data. These insights enable researchers and healthcare professionals to assess trends, identify disparities, and inform decisions.
+
+To enhance usability and accessibility, the project features an **interactive diagnostic tool**, enabling users to input specific demographic and temporal details to receive tailored predictions. This practical application underscores the model's potential to serve as a decision-support system in **public health** and **clinical oncology**
 
 ---
 
