@@ -1,0 +1,1824 @@
+﻿Sex,Year,AgeGroup,Ethnicity,Race,Deaths,Population,Crude Rate,Survival Rate scaled,Survival Rate
+Female,1999,20-24 years,Non-Hispanic,White,17,5764304,0.3,0.999541104,0.999997051
+Female,1999,25-29 years,Non-Hispanic,White,26,6211495,0.4,0.998509685,0.999995814
+Female,1999,30-34 years,Non-Hispanic,White,39,6833145,0.6,0.997240484,0.999994293
+Female,1999,35-39 years,Non-Hispanic,Black or African American,26,1507328,1.7,0.987613932,0.999982751
+Female,1999,35-39 years,Non-Hispanic,White,84,8063922,1,0.993312581,0.999989583
+Female,1999,40-44 years,Hispanic,White,17,1001375,1.7,0.987841141,0.999983023
+Female,1999,40-44 years,Non-Hispanic,Black or African American,23,1420696,1.6,0.988497899,0.999983811
+Female,1999,40-44 years,Non-Hispanic,White,113,8131895,1.4,0.990410724,0.999986104
+Female,1999,45-49 years,Hispanic,White,22,784645,2.8,0.978615021,0.999971962
+Female,1999,45-49 years,Non-Hispanic,Black or African American,34,1192724,2.9,0.978224658,0.999971494
+Female,1999,45-49 years,Non-Hispanic,White,173,7453748,2.3,0.982642233,0.99997679
+Female,1999,50-54 years,Hispanic,White,25,615108,4.1,0.968101413,0.999959357
+Female,1999,50-54 years,Non-Hispanic,Black or African American,35,930401,3.8,0.970624557,0.999962382
+Female,1999,50-54 years,Non-Hispanic,White,320,6654988,4.8,0.96189509,0.999951916
+Female,1999,55-59 years,Hispanic,White,24,450395,5.3,0.957555961,0.999946713
+Female,1999,55-59 years,Non-Hispanic,Black or African American,57,703574,8.1,0.934428419,0.999918985
+Female,1999,55-59 years,Non-Hispanic,White,475,5303245,9,0.927294684,0.999910432
+Female,1999,60-64 years ,Hispanic,White,35,366955,9.5,0.922447257,0.99990462
+Female,1999,60-64 years ,Non-Hispanic,Black or African American,49,585855,8.4,0.932240214,0.999916362
+Female,1999,60-64 years ,Non-Hispanic,White,638,4417398,14.4,0.881536404,0.999855571
+Female,1999,65-69 years,Hispanic,White,59,302415,19.5,0.839276137,0.999804904
+Female,1999,65-69 years,Non-Hispanic,Asian or Pacific Islander,17,159821,10.6,0.913281226,0.999893631
+Female,1999,65-69 years,Non-Hispanic,Black or African American,63,507961,12.4,0.898554573,0.999875975
+Female,1999,65-69 years,Non-Hispanic,White,939,4128898,22.7,0.812314402,0.999772579
+Female,1999,70-74 years,Hispanic,White,75,247623,30.3,0.749376503,0.99969712
+Female,1999,70-74 years,Non-Hispanic,Asian or Pacific Islander,24,129115,18.6,0.846962421,0.999814119
+Female,1999,70-74 years,Non-Hispanic,Black or African American,93,435255,21.4,0.823785941,0.999786332
+Female,1999,70-74 years,Non-Hispanic,White,1384,4138635,33.4,0.723078124,0.99966559
+Female,1999,75-79 years,Hispanic,White,57,172699,33,0.726711147,0.999669946
+Female,1999,75-79 years,Non-Hispanic,Asian or Pacific Islander,29,89163,32.5,0.730720549,0.999674753
+Female,1999,75-79 years,Non-Hispanic,Black or African American,80,343390,23.3,0.807685453,0.999767029
+Female,1999,75-79 years,Non-Hispanic,White,1785,3702781,48.2,0.599918346,0.99951793
+Female,1999,80-84 years,Hispanic,White,54,101663,53.1,0.558968101,0.999468833
+Female,1999,80-84 years,Non-Hispanic,Asian or Pacific Islander,17,50833,33.4,0.723062571,0.999665572
+Female,1999,80-84 years,Non-Hispanic,Black or African American,75,227780,32.9,0.727369185,0.999670735
+Female,1999,80-84 years,Non-Hispanic,White,1848,2686067,68.8,0.428161747,0.999312005
+Female,1999,85+ years,Hispanic,White,51,91836,55.5,0.53880761,0.999444662
+Female,1999,85+ years,Non-Hispanic,Black or African American,75,225142,33.3,0.724151312,0.999666877
+Female,1999,85+ years,Non-Hispanic,White,1837,2594673,70.8,0.411485027,0.999292011
+Female,2000,20-24 years,Non-Hispanic,White,23,5872407,0.4,0.998734189,0.999996083
+Female,2000,25-29 years,Non-Hispanic,Black or African American,18,1339179,1.3,0.990790085,0.999986559
+Female,2000,25-29 years,Non-Hispanic,White,31,5982898,0.5,0.99767924,0.999994819
+Female,2000,30-34 years,Non-Hispanic,White,41,6716409,0.6,0.996909375,0.999993896
+Female,2000,35-39 years,Non-Hispanic,Black or African American,19,1504513,1.3,0.991467687,0.999987371
+Female,2000,35-39 years,Non-Hispanic,White,66,7876392,0.8,0.995011839,0.999991621
+Female,2000,40-44 years,Hispanic,White,21,1058741,2,0.98545717,0.999980165
+Female,2000,40-44 years,Non-Hispanic,Black or African American,31,1449861,2.1,0.984167289,0.999978619
+Female,2000,40-44 years,Non-Hispanic,White,112,8173725,1.4,0.990572081,0.999986298
+Female,2000,45-49 years,Hispanic,White,16,835035,1.9,0.986019341,0.999980839
+Female,2000,45-49 years,Non-Hispanic,Black or African American,38,1234409,3.1,0.976324814,0.999969216
+Female,2000,45-49 years,Non-Hispanic,White,198,7610259,2.6,0.980300391,0.999973982
+Female,2000,50-54 years,Hispanic,White,24,661117,3.6,0.971722192,0.999963698
+Female,2000,50-54 years,Non-Hispanic,Black or African American,35,995024,3.5,0.972662333,0.999964825
+Female,2000,50-54 years,Non-Hispanic,White,299,6934457,4.3,0.966037292,0.999956882
+Female,2000,55-59 years,Hispanic,White,30,479045,6.3,0.949767337,0.999937375
+Female,2000,55-59 years,Non-Hispanic,Black or African American,37,726779,5.1,0.959538555,0.99994909
+Female,2000,55-59 years,Non-Hispanic,White,489,5470917,8.9,0.927449887,0.999910618
+Female,2000,60-64 years ,Hispanic,White,48,382467,12.6,0.897323684,0.999874499
+Female,2000,60-64 years ,Non-Hispanic,Black or African American,62,598720,10.4,0.915628939,0.999896446
+Female,2000,60-64 years ,Non-Hispanic,White,628,4456363,14.1,0.884461356,0.999859078
+Female,2000,65-69 years,Hispanic,White,50,314764,15.9,0.86950883,0.999841151
+Female,2000,65-69 years,Non-Hispanic,Asian or Pacific Islander,25,166881,15,0.877050388,0.999850193
+Female,2000,65-69 years,Non-Hispanic,Black or African American,76,510450,14.9,0.877816996,0.999851112
+Female,2000,65-69 years,Non-Hispanic,White,884,4087505,21.6,0.821616514,0.999783731
+Female,2000,70-74 years,Hispanic,White,81,259676,31.2,0.741830302,0.999688073
+Female,2000,70-74 years,Non-Hispanic,Asian or Pacific Islander,18,137810,13.1,0.893058566,0.999869385
+Female,2000,70-74 years,Non-Hispanic,Black or African American,73,441356,16.5,0.86404548,0.999834601
+Female,2000,70-74 years,Non-Hispanic,White,1269,4075690,31.1,0.742304764,0.999688642
+Female,2000,75-79 years,Hispanic,White,67,184056,36.4,0.698381272,0.99963598
+Female,2000,75-79 years,Non-Hispanic,Asian or Pacific Islander,36,96343,37.4,0.690336385,0.999626335
+Female,2000,75-79 years,Non-Hispanic,Black or African American,80,347347,23,0.809899108,0.999769683
+Female,2000,75-79 years,Non-Hispanic,White,1772,3728584,47.5,0.605608954,0.999524753
+Female,2000,80-84 years,Hispanic,White,43,107929,39.8,0.669697084,0.99960159
+Female,2000,80-84 years,Non-Hispanic,Asian or Pacific Islander,17,56693,30,0.751894682,0.999700139
+Female,2000,80-84 years,Non-Hispanic,Black or African American,61,232829,26.2,0.783477597,0.999738005
+Female,2000,80-84 years,Non-Hispanic,White,1801,2718504,66.2,0.449429012,0.999337503
+Female,2000,85+ years,Hispanic,White,48,96934,49.5,0.588981795,0.999504818
+Female,2000,85+ years,Non-Hispanic,Asian or Pacific Islander,25,41487,60.3,0.499388703,0.999397402
+Female,2000,85+ years,Non-Hispanic,Black or African American,78,229811,33.9,0.718908112,0.999660591
+Female,2000,85+ years,Non-Hispanic,White,1943,2644279,73.5,0.389127774,0.999265206
+Female,2001,20-24 years,Non-Hispanic,White,25,6058996,0.4,0.998559472,0.999995874
+Female,2001,25-29 years,Non-Hispanic,White,29,5724164,0.5,0.99777532,0.999994934
+Female,2001,30-34 years,Non-Hispanic,Black or African American,16,1388476,1.2,0.992389545,0.999988477
+Female,2001,30-34 years,Non-Hispanic,White,38,6681925,0.6,0.997257575,0.999994313
+Female,2001,35-39 years,Non-Hispanic,Black or African American,17,1491812,1.1,0.992496213,0.999988604
+Female,2001,35-39 years,Non-Hispanic,White,74,7603713,1,0.993883655,0.999990268
+Female,2001,40-44 years,Non-Hispanic,Black or African American,24,1475496,1.6,0.988434119,0.999983734
+Female,2001,40-44 years,Non-Hispanic,White,110,8218541,1.3,0.990837377,0.999986616
+Female,2001,45-49 years,Hispanic,White,20,884393,2.3,0.983138857,0.999977386
+Female,2001,45-49 years,Non-Hispanic,Black or African American,47,1272430,3.7,0.971192553,0.999963063
+Female,2001,45-49 years,Non-Hispanic,White,186,7731581,2.4,0.981935458,0.999975943
+Female,2001,50-54 years,Hispanic,White,28,704420,4,0.968847289,0.999960251
+Female,2001,50-54 years,Non-Hispanic,Black or African American,39,1066260,3.7,0.971493449,0.999963424
+Female,2001,50-54 years,Non-Hispanic,White,278,7247085,3.8,0.970005621,0.99996164
+Female,2001,55-59 years,Hispanic,White,32,510362,6.3,0.949703951,0.999937299
+Female,2001,55-59 years,Non-Hispanic,Black or African American,60,749059,8,0.935191125,0.9999199
+Female,2001,55-59 years,Non-Hispanic,White,444,5594077,7.9,0.935800698,0.99992063
+Female,2001,60-64 years ,Hispanic,White,51,397101,12.8,0.894880029,0.999871569
+Female,2001,60-64 years ,Non-Hispanic,Black or African American,58,610941,9.5,0.922817607,0.999905064
+Female,2001,60-64 years ,Non-Hispanic,White,594,4552724,13,0.893178068,0.999869529
+Female,2001,65-69 years,Hispanic,White,35,326237,10.7,0.912518074,0.999892716
+Female,2001,65-69 years,Non-Hispanic,Asian or Pacific Islander,17,174222,9.8,0.920614701,0.999902423
+Female,2001,65-69 years,Non-Hispanic,Black or African American,78,522334,14.9,0.877448749,0.99985067
+Female,2001,65-69 years,Non-Hispanic,White,762,4063398,18.8,0.845588721,0.999812472
+Female,2001,70-74 years,Hispanic,White,50,269749,18.5,0.847398896,0.999814643
+Female,2001,70-74 years,Non-Hispanic,Asian or Pacific Islander,23,144035,16,0.868813011,0.999840317
+Female,2001,70-74 years,Non-Hispanic,Black or African American,80,440752,18.2,0.850609694,0.999818492
+Female,2001,70-74 years,Non-Hispanic,White,1266,4017246,31.5,0.739149503,0.999684859
+Female,2001,75-79 years,Hispanic,White,64,194785,32.9,0.727951108,0.999671433
+Female,2001,75-79 years,Non-Hispanic,Asian or Pacific Islander,27,103258,26.1,0.783906231,0.999738519
+Female,2001,75-79 years,Non-Hispanic,Black or African American,81,354673,22.8,0.811515422,0.999771621
+Female,2001,75-79 years,Non-Hispanic,White,1722,3698808,46.6,0.61369285,0.999534445
+Female,2001,80-84 years,Hispanic,White,43,116796,36.8,0.69492516,0.999631837
+Female,2001,80-84 years,Non-Hispanic,Asian or Pacific Islander,22,61429,35.8,0.70328781,0.999641863
+Female,2001,80-84 years,Non-Hispanic,Black or African American,79,237908,33.2,0.725037068,0.999667939
+Female,2001,80-84 years,Non-Hispanic,White,1754,2778872,63.1,0.475540033,0.999368809
+Female,2001,85+ years,Hispanic,White,59,100574,58.7,0.512705274,0.999413367
+Female,2001,85+ years,Non-Hispanic,Asian or Pacific Islander,25,45470,55,0.543415634,0.999450187
+Female,2001,85+ years,Non-Hispanic,Black or African American,80,226836,35.3,0.707841301,0.999647322
+Female,2001,85+ years,Non-Hispanic,White,1949,2664134,73.2,0.391816883,0.99926843
+Female,2002,20-24 years,Non-Hispanic,White,20,6179932,0.3,0.999301644,0.999996764
+Female,2002,25-29 years,Non-Hispanic,White,21,5615649,0.4,0.998881881,0.99999626
+Female,2002,30-34 years,Non-Hispanic,White,35,6579799,0.5,0.997564241,0.999994681
+Female,2002,35-39 years,Non-Hispanic,White,60,7329496,0.8,0.995173123,0.999991814
+Female,2002,40-44 years,Hispanic,White,20,1170477,1.7,0.987749065,0.999982913
+Female,2002,40-44 years,Non-Hispanic,Black or African American,26,1487168,1.7,0.987418902,0.999982517
+Female,2002,40-44 years,Non-Hispanic,White,106,8164528,1.3,0.991172157,0.999987017
+Female,2002,45-49 years,Hispanic,White,17,939399,1.8,0.986906961,0.999981903
+Female,2002,45-49 years,Non-Hispanic,Black or African American,41,1321076,3.1,0.976115173,0.999968965
+Female,2002,45-49 years,Non-Hispanic,White,165,7877393,2.1,0.984530398,0.999979054
+Female,2002,50-54 years,Hispanic,White,25,738164,3.4,0.973752651,0.999966132
+Female,2002,50-54 years,Non-Hispanic,Black or African American,55,1105949,5,0.960521526,0.999950269
+Female,2002,50-54 years,Non-Hispanic,White,270,7177101,3.8,0.970623341,0.99996238
+Female,2002,55-59 years,Hispanic,White,28,551718,5.1,0.95967117,0.999949249
+Female,2002,55-59 years,Non-Hispanic,Black or African American,60,799225,7.5,0.939384664,0.999924927
+Female,2002,55-59 years,Non-Hispanic,White,396,6059848,6.5,0.94749567,0.999934652
+Female,2002,60-64 years ,Hispanic,White,43,414539,10.4,0.915482612,0.99989627
+Female,2002,60-64 years ,Non-Hispanic,Black or African American,58,629297,9.2,0.925127311,0.999907834
+Female,2002,60-64 years ,Non-Hispanic,White,595,4717352,12.6,0.896799001,0.99987387
+Female,2002,65-69 years,Hispanic,White,53,338560,15.7,0.871430373,0.999843455
+Female,2002,65-69 years,Non-Hispanic,Asian or Pacific Islander,19,182452,10.4,0.915142899,0.999895863
+Female,2002,65-69 years,Non-Hispanic,Black or African American,74,530031,14,0.885552007,0.999860386
+Female,2002,65-69 years,Non-Hispanic,White,743,4061979,18.3,0.849435485,0.999817084
+Female,2002,70-74 years,Hispanic,White,77,279322,27.6,0.772073578,0.999724332
+Female,2002,70-74 years,Non-Hispanic,Asian or Pacific Islander,36,149595,24.1,0.80128101,0.99975935
+Female,2002,70-74 years,Non-Hispanic,Black or African American,89,442356,20.1,0.834188885,0.999798805
+Female,2002,70-74 years,Non-Hispanic,White,1180,3943150,29.9,0.752401398,0.999700747
+Female,2002,75-79 years,Hispanic,White,88,204567,43,0.643201154,0.999569823
+Female,2002,75-79 years,Non-Hispanic,Asian or Pacific Islander,32,109480,29.2,0.758208483,0.999707709
+Female,2002,75-79 years,Non-Hispanic,Black or African American,85,359611,23.6,0.80485355,0.999763633
+Female,2002,75-79 years,Non-Hispanic,White,1614,3667216,44,0.634911308,0.999559884
+Female,2002,80-84 years,Hispanic,White,58,126757,45.8,0.620354583,0.999542432
+Female,2002,80-84 years,Non-Hispanic,Asian or Pacific Islander,19,66674,28.5,0.764315726,0.999715031
+Female,2002,80-84 years,Non-Hispanic,Black or African American,77,243879,31.6,0.738658172,0.99968427
+Female,2002,80-84 years,Non-Hispanic,White,1696,2840460,59.7,0.503986138,0.999402914
+Female,2002,85+ years,Hispanic,White,55,104078,52.8,0.561234184,0.99947155
+Female,2002,85+ years,Non-Hispanic,Asian or Pacific Islander,18,49426,36.4,0.698246862,0.999635819
+Female,2002,85+ years,Non-Hispanic,Black or African American,63,225501,27.9,0.768978818,0.999720622
+Female,2002,85+ years,Non-Hispanic,White,2018,2683703,75.2,0.37482153,0.999248054
+Female,2003,20-24 years,Non-Hispanic,White,21,6263560,0.3,0.999204521,0.999996647
+Female,2003,25-29 years,Non-Hispanic,White,20,5614270,0.4,0.999029678,0.999996438
+Female,2003,30-34 years,Non-Hispanic,White,24,6423715,0.4,0.998884712,0.999996264
+Female,2003,35-39 years,Non-Hispanic,Black or African American,20,1440844,1.4,0.990423357,0.999986119
+Female,2003,35-39 years,Non-Hispanic,White,48,7051839,0.7,0.996323619,0.999993193
+Female,2003,40-44 years,Hispanic,White,16,1227700,1.3,0.991130864,0.999986968
+Female,2003,40-44 years,Non-Hispanic,Black or African American,25,1498869,1.7,0.988089207,0.999983321
+Female,2003,40-44 years,Non-Hispanic,White,98,8078688,1.2,0.991883047,0.999987869
+Female,2003,45-49 years,Hispanic,White,26,989705,2.6,0.980089418,0.99997373
+Female,2003,45-49 years,Non-Hispanic,Black or African American,33,1363748,2.4,0.981817984,0.999975802
+Female,2003,45-49 years,Non-Hispanic,White,166,7987587,2.1,0.984666995,0.999979218
+Female,2003,50-54 years,Hispanic,White,25,776925,3.2,0.975161966,0.999967822
+Female,2003,50-54 years,Non-Hispanic,Black or African American,53,1144404,4.6,0.963373002,0.999953688
+Female,2003,50-54 years,Non-Hispanic,White,254,7260110,3.5,0.972820253,0.999965014
+Female,2003,55-59 years,Hispanic,White,38,590778,6.4,0.948351608,0.999935678
+Female,2003,55-59 years,Non-Hispanic,Black or African American,40,846733,4.7,0.962598916,0.99995276
+Female,2003,55-59 years,Non-Hispanic,White,402,6275340,6.4,0.948569875,0.99993594
+Female,2003,60-64 years ,Hispanic,White,33,436633,7.6,0.938962939,0.999924422
+Female,2003,60-64 years ,Non-Hispanic,Black or African American,66,653908,10.1,0.9178164,0.999899068
+Female,2003,60-64 years ,Non-Hispanic,White,542,4978632,10.9,0.911199169,0.999891135
+Female,2003,65-69 years,Hispanic,White,46,353121,13,0.893348534,0.999869733
+Female,2003,65-69 years,Non-Hispanic,Asian or Pacific Islander,26,190466,13.7,0.888143622,0.999863493
+Female,2003,65-69 years,Non-Hispanic,Black or African American,68,539527,12.6,0.896877203,0.999873964
+Female,2003,65-69 years,Non-Hispanic,White,697,4117012,16.9,0.860794107,0.999830702
+Female,2003,70-74 years,Hispanic,White,57,286927,19.9,0.836306281,0.999801343
+Female,2003,70-74 years,Non-Hispanic,Asian or Pacific Islander,30,156020,19.2,0.841622475,0.999807717
+Female,2003,70-74 years,Non-Hispanic,Black or African American,96,446877,21.5,0.822821448,0.999785176
+Female,2003,70-74 years,Non-Hispanic,White,1055,3864603,27.3,0.774306384,0.999727009
+Female,2003,75-79 years,Hispanic,White,74,216081,34.2,0.716360156,0.999657536
+Female,2003,75-79 years,Non-Hispanic,Asian or Pacific Islander,36,116093,31,0.743357455,0.999689904
+Female,2003,75-79 years,Non-Hispanic,Black or African American,93,363417,25.6,0.788557514,0.999744096
+Female,2003,75-79 years,Non-Hispanic,White,1579,3641206,43.4,0.640306395,0.999566352
+Female,2003,80-84 years,Hispanic,White,64,135554,47.2,0.608203656,0.999527863
+Female,2003,80-84 years,Non-Hispanic,Asian or Pacific Islander,30,72156,41.6,0.655221067,0.999584234
+Female,2003,80-84 years,Non-Hispanic,Black or African American,74,249644,29.6,0.754762689,0.999703578
+Female,2003,80-84 years,Non-Hispanic,White,1687,2871201,58.8,0.51193269,0.999412441
+Female,2003,85+ years,Hispanic,White,68,109089,62.3,0.482085119,0.999376656
+Female,2003,85+ years,Non-Hispanic,Asian or Pacific Islander,27,53569,50.4,0.581608106,0.999495977
+Female,2003,85+ years,Non-Hispanic,Black or African American,72,225873,31.9,0.736128542,0.999681237
+Female,2003,85+ years,Non-Hispanic,White,2041,2724150,74.9,0.377091523,0.999250775
+Female,2004,20-24 years,Non-Hispanic,White,20,6296991,0.3,0.999351824,0.999996824
+Female,2004,30-34 years,Non-Hispanic,White,33,6210180,0.5,0.997568792,0.999994686
+Female,2004,35-39 years,Non-Hispanic,White,41,6819952,0.6,0.996986677,0.999993988
+Female,2004,40-44 years,Non-Hispanic,Black or African American,19,1510161,1.3,0.991507082,0.999987419
+Female,2004,40-44 years,Non-Hispanic,White,73,7994437,0.9,0.994384716,0.999990869
+Female,2004,45-49 years,Hispanic,White,16,1040969,1.5,0.989180968,0.99998463
+Female,2004,45-49 years,Non-Hispanic,Black or African American,35,1398644,2.5,0.981128856,0.999974976
+Female,2004,45-49 years,Non-Hispanic,White,149,8043350,1.9,0.986550024,0.999981475
+Female,2004,50-54 years,Non-Hispanic,Asian or Pacific Islander,16,457116,3.5,0.972806607,0.999964998
+Female,2004,50-54 years,Non-Hispanic,Black or African American,51,1185311,4.3,0.966113467,0.999956973
+Female,2004,50-54 years,Non-Hispanic,White,266,7389143,3.6,0.97197528,0.999964001
+Female,2004,55-59 years,Hispanic,White,40,629907,6.4,0.949035987,0.999936499
+Female,2004,55-59 years,Non-Hispanic,Black or African American,51,906422,5.6,0.955071565,0.999943735
+Female,2004,55-59 years,Non-Hispanic,White,390,6542256,6,0.952279682,0.999940388
+Female,2004,60-64 years ,Hispanic,White,32,461045,6.9,0.944109853,0.999930592
+Female,2004,60-64 years ,Non-Hispanic,Black or African American,56,678186,8.3,0.933128692,0.999917427
+Female,2004,60-64 years ,Non-Hispanic,White,539,5169656,10.4,0.915038408,0.999895738
+Female,2004,65-69 years,Hispanic,White,46,368256,12.5,0.897814053,0.999875087
+Female,2004,65-69 years,Non-Hispanic,Black or African American,71,548655,12.9,0.894065499,0.999870593
+Female,2004,65-69 years,Non-Hispanic,White,735,4197654,17.5,0.855956251,0.999824902
+Female,2004,70-74 years,Hispanic,White,53,294043,18,0.851662481,0.999819754
+Female,2004,70-74 years,Non-Hispanic,Asian or Pacific Islander,35,161675,21.6,0.821437323,0.999783516
+Female,2004,70-74 years,Non-Hispanic,Black or African American,75,450801,16.6,0.863235454,0.999833629
+Female,2004,70-74 years,Non-Hispanic,White,1046,3791718,27.6,0.771909358,0.999724136
+Female,2004,75-79 years,Hispanic,White,71,226474,31.4,0.740516967,0.999686498
+Female,2004,75-79 years,Non-Hispanic,Asian or Pacific Islander,24,121991,19.7,0.83790852,0.999803264
+Female,2004,75-79 years,Non-Hispanic,Black or African American,100,365192,27.4,0.773607398,0.999726171
+Female,2004,75-79 years,Non-Hispanic,White,1492,3577151,41.7,0.654115199,0.999582908
+Female,2004,80-84 years,Hispanic,White,72,145686,49.4,0.589789769,0.999505786
+Female,2004,80-84 years,Non-Hispanic,Asian or Pacific Islander,33,77923,42.3,0.648774378,0.999576505
+Female,2004,80-84 years,Non-Hispanic,Black or African American,57,254780,22.4,0.81539967,0.999776278
+Female,2004,80-84 years,Non-Hispanic,White,1701,2919358,58.3,0.516016865,0.999417338
+Female,2004,85+ years,Hispanic,White,56,113799,49.2,0.591556232,0.999507904
+Female,2004,85+ years,Non-Hispanic,Asian or Pacific Islander,30,57792,51.9,0.569030138,0.999480897
+Female,2004,85+ years,Non-Hispanic,Black or African American,95,228060,41.7,0.654561142,0.999583443
+Female,2004,85+ years,Non-Hispanic,White,2016,2751056,73.3,0.390782879,0.99926719
+Female,2005,25-29 years,Non-Hispanic,White,21,5803871,0.4,0.998983033,0.999996382
+Female,2005,30-34 years,Non-Hispanic,White,29,5964631,0.5,0.997945678,0.999995138
+Female,2005,35-39 years,Non-Hispanic,Black or African American,18,1393654,1.3,0.991228294,0.999987084
+Female,2005,35-39 years,Non-Hispanic,White,43,6701641,0.6,0.996649238,0.999993584
+Female,2005,40-44 years,Non-Hispanic,Black or African American,31,1502460,2.1,0.98479162,0.999979367
+Female,2005,40-44 years,Non-Hispanic,White,74,7817038,0.9,0.994105174,0.999990533
+Female,2005,45-49 years,Non-Hispanic,Black or African American,31,1432660,2.2,0.983953172,0.999978362
+Female,2005,45-49 years,Non-Hispanic,White,141,8087059,1.7,0.98745863,0.999982565
+Female,2005,50-54 years,Hispanic,White,36,863182,4.2,0.967214888,0.999958294
+Female,2005,50-54 years,Non-Hispanic,Black or African American,40,1220972,3.3,0.974675996,0.999967239
+Female,2005,50-54 years,Non-Hispanic,White,213,7535797,2.8,0.97842574,0.999971735
+Female,2005,55-59 years,Hispanic,White,31,678369,4.6,0.963885519,0.999954302
+Female,2005,55-59 years,Non-Hispanic,Black or African American,50,974264,5.1,0.959195558,0.999948679
+Female,2005,55-59 years,Non-Hispanic,White,398,6836018,5.8,0.953440243,0.999941779
+Female,2005,60-64 years ,Hispanic,White,45,485529,9.3,0.924696864,0.999907318
+Female,2005,60-64 years ,Non-Hispanic,Asian or Pacific Islander,20,270245,7.4,0.940273627,0.999925993
+Female,2005,60-64 years ,Non-Hispanic,Black or African American,61,697253,8.7,0.929030915,0.999912514
+Female,2005,60-64 years ,Non-Hispanic,White,541,5323737,10.2,0.917241959,0.99989838
+Female,2005,65-69 years,Hispanic,White,47,382186,12.3,0.8994291,0.999877023
+Female,2005,65-69 years,Non-Hispanic,Black or African American,62,560524,11.1,0.909743259,0.999889389
+Female,2005,65-69 years,Non-Hispanic,White,655,4253750,15.4,0.873568597,0.999846018
+Female,2005,70-74 years,Hispanic,White,68,304035,22.4,0.815453023,0.999776342
+Female,2005,70-74 years,Non-Hispanic,Asian or Pacific Islander,40,167478,23.9,0.8027927,0.999761163
+Female,2005,70-74 years,Non-Hispanic,Black or African American,68,455604,14.9,0.877513238,0.999850748
+Female,2005,70-74 years,Non-Hispanic,White,983,3755001,26.2,0.783653283,0.999738216
+Female,2005,75-79 years,Hispanic,White,87,237951,36.6,0.697045211,0.999634379
+Female,2005,75-79 years,Non-Hispanic,Asian or Pacific Islander,32,128849,24.8,0.794856157,0.999751647
+Female,2005,75-79 years,Non-Hispanic,Black or African American,76,367834,20.7,0.829668597,0.999793385
+Female,2005,75-79 years,Non-Hispanic,White,1432,3529906,40.6,0.663636312,0.999594323
+Female,2005,80-84 years,Hispanic,White,81,154872,52.3,0.56576927,0.999476987
+Female,2005,80-84 years,Non-Hispanic,Asian or Pacific Islander,31,83197,37.3,0.691216616,0.99962739
+Female,2005,80-84 years,Non-Hispanic,Black or African American,79,258219,30.6,0.746822503,0.999694058
+Female,2005,80-84 years,Non-Hispanic,White,1725,2935684,58.8,0.511900746,0.999412403
+Female,2005,85+ years,Hispanic,White,61,121549,50.2,0.583416072,0.999498145
+Female,2005,85+ years,Non-Hispanic,Asian or Pacific Islander,25,63527,39.4,0.67376454,0.999606467
+Female,2005,85+ years,Non-Hispanic,Black or African American,83,234870,35.3,0.707249713,0.999646613
+Female,2005,85+ years,Non-Hispanic,White,2043,2810854,72.7,0.3957741,0.999273175
+Female,2006,20-24 years,Non-Hispanic,White,16,6262795,0.3,0.999870076,0.999997445
+Female,2006,25-29 years,Non-Hispanic,White,23,5978851,0.4,0.998792349,0.999996153
+Female,2006,30-34 years,Non-Hispanic,White,24,5719508,0.4,0.99850103,0.999995804
+Female,2006,35-39 years,Non-Hispanic,Black or African American,22,1405559,1.6,0.988945891,0.999984348
+Female,2006,35-39 years,Non-Hispanic,White,44,6676220,0.7,0.996503928,0.999993409
+Female,2006,40-44 years,Non-Hispanic,Black or African American,24,1494626,1.6,0.988607763,0.999983942
+Female,2006,40-44 years,Non-Hispanic,White,71,7550038,0.9,0.994157366,0.999990596
+Female,2006,45-49 years,Hispanic,White,17,1154897,1.5,0.989723423,0.99998528
+Female,2006,45-49 years,Non-Hispanic,Black or African American,40,1461455,2.7,0.979172327,0.99997263
+Female,2006,45-49 years,Non-Hispanic,White,144,8135094,1.8,0.987236913,0.999982299
+Female,2006,50-54 years,Hispanic,White,33,912723,3.6,0.971844509,0.999963844
+Female,2006,50-54 years,Non-Hispanic,Black or African American,36,1264163,2.8,0.978248709,0.999971523
+Female,2006,50-54 years,Non-Hispanic,White,213,7664791,2.8,0.978822497,0.999972211
+Female,2006,55-59 years,Hispanic,White,35,721623,4.9,0.961546825,0.999951498
+Female,2006,55-59 years,Non-Hispanic,Black or African American,59,1046312,5.6,0.954968681,0.999943611
+Female,2006,55-59 years,Non-Hispanic,White,332,7151584,4.6,0.963280449,0.999953577
+Female,2006,60-64 years ,Hispanic,White,47,515901,9.1,0.926014423,0.999908897
+Female,2006,60-64 years ,Non-Hispanic,Asian or Pacific Islander,18,288672,6.2,0.949992613,0.999937645
+Female,2006,60-64 years ,Non-Hispanic,Black or African American,66,720394,9.2,0.92558589,0.999908383
+Female,2006,60-64 years ,Non-Hispanic,White,515,5448700,9.5,0.923165883,0.999905482
+Female,2006,65-69 years,Hispanic,White,58,396992,14.6,0.88014371,0.999853901
+Female,2006,65-69 years,Non-Hispanic,Asian or Pacific Islander,19,221999,8.6,0.93061583,0.999914414
+Female,2006,65-69 years,Non-Hispanic,Black or African American,65,574475,11.3,0.907628044,0.999886853
+Female,2006,65-69 years,Non-Hispanic,White,669,4353200,15.4,0.873820262,0.99984632
+Female,2006,70-74 years,Hispanic,White,64,315079,20.3,0.832580585,0.999796876
+Female,2006,70-74 years,Non-Hispanic,Asian or Pacific Islander,23,174471,13.2,0.892047291,0.999868173
+Female,2006,70-74 years,Non-Hispanic,Black or African American,77,466664,16.5,0.86437779,0.999834999
+Female,2006,70-74 years,Non-Hispanic,White,976,3738858,26.1,0.784272119,0.999738958
+Female,2006,75-79 years,Hispanic,White,80,247186,32.4,0.732058485,0.999676357
+Female,2006,75-79 years,Non-Hispanic,Asian or Pacific Islander,30,134347,22.3,0.815750051,0.999776698
+Female,2006,75-79 years,Non-Hispanic,Black or African American,82,367499,22.3,0.815893917,0.99977687
+Female,2006,75-79 years,Non-Hispanic,White,1429,3486940,41,0.66018459,0.999590185
+Female,2006,80-84 years,Hispanic,White,73,163791,44.6,0.63026213,0.99955431
+Female,2006,80-84 years,Non-Hispanic,Asian or Pacific Islander,30,88821,33.8,0.720285485,0.999662242
+Female,2006,80-84 years,Non-Hispanic,Black or African American,81,264538,30.6,0.746612033,0.999693806
+Female,2006,80-84 years,Non-Hispanic,White,1642,2924649,56.1,0.533722157,0.999438565
+Female,2006,85+ years,Hispanic,White,54,129258,41.8,0.653550188,0.999582231
+Female,2006,85+ years,Non-Hispanic,Asian or Pacific Islander,22,68755,32,0.735116367,0.999680023
+Female,2006,85+ years,Non-Hispanic,Black or African American,83,241177,34.4,0.714957728,0.999655854
+Female,2006,85+ years,Non-Hispanic,White,2151,2890383,74.4,0.381289002,0.999255808
+Female,2007,20-24 years,Non-Hispanic,White,16,6242243,0.3,0.999863061,0.999997437
+Female,2007,30-34 years,Non-Hispanic,White,16,5619756,0.3,0.999626252,0.999997153
+Female,2007,35-39 years,Non-Hispanic,White,50,6580388,0.8,0.995663364,0.999992402
+Female,2007,40-44 years,Hispanic,White,17,1415651,1.2,0.991984865,0.999987991
+Female,2007,40-44 years,Non-Hispanic,Black or African American,27,1471651,1.8,0.986698388,0.999981653
+Female,2007,40-44 years,Non-Hispanic,White,53,7277139,0.7,0.995926309,0.999992717
+Female,2007,45-49 years,Hispanic,White,24,1208177,2,0.985432348,0.999980135
+Female,2007,45-49 years,Non-Hispanic,Black or African American,41,1473530,2.8,0.97879336,0.999972176
+Female,2007,45-49 years,Non-Hispanic,White,129,8083052,1.6,0.988689678,0.999984041
+Female,2007,50-54 years,Hispanic,White,24,967842,2.5,0.981318025,0.999975203
+Female,2007,50-54 years,Non-Hispanic,Black or African American,40,1315461,3,0.976638735,0.999969592
+Female,2007,50-54 years,Non-Hispanic,White,225,7816139,2.9,0.977990771,0.999971213
+Female,2007,55-59 years,Hispanic,White,49,754908,6.5,0.947862331,0.999935091
+Female,2007,55-59 years,Non-Hispanic,Black or African American,66,1085461,6.1,0.951286136,0.999939196
+Female,2007,55-59 years,Non-Hispanic,White,349,7088596,4.9,0.960936091,0.999950766
+Female,2007,60-64 years ,Hispanic,White,55,555836,9.9,0.919469186,0.99990105
+Female,2007,60-64 years ,Non-Hispanic,Asian or Pacific Islander,21,314887,6.7,0.946375994,0.999933309
+Female,2007,60-64 years ,Non-Hispanic,Black or African American,66,768767,8.6,0.930394142,0.999914148
+Female,2007,60-64 years ,Non-Hispanic,White,506,5905542,8.6,0.930535544,0.999914318
+Female,2007,65-69 years,Hispanic,White,43,414576,10.4,0.915490334,0.99989628
+Female,2007,65-69 years,Non-Hispanic,Asian or Pacific Islander,16,235291,6.8,0.945283097,0.999931999
+Female,2007,65-69 years,Non-Hispanic,Black or African American,58,592733,9.8,0.920385196,0.999902148
+Female,2007,65-69 years,Non-Hispanic,White,660,4516090,14.6,0.880105794,0.999853856
+Female,2007,70-74 years,Hispanic,White,67,326788,20.5,0.830993985,0.999794974
+Female,2007,70-74 years,Non-Hispanic,Asian or Pacific Islander,22,182038,12.1,0.901199744,0.999879146
+Female,2007,70-74 years,Non-Hispanic,Black or African American,65,472797,13.7,0.887332552,0.99986252
+Female,2007,70-74 years,Non-Hispanic,White,907,3740723,24.2,0.799765711,0.999757534
+Female,2007,75-79 years,Hispanic,White,78,255883,30.5,0.74775253,0.999695173
+Female,2007,75-79 years,Non-Hispanic,Asian or Pacific Islander,49,139160,35.2,0.708312578,0.999647887
+Female,2007,75-79 years,Non-Hispanic,Black or African American,76,368272,20.6,0.829873558,0.999793631
+Female,2007,75-79 years,Non-Hispanic,White,1340,3427155,39.1,0.675881919,0.999609005
+Female,2007,80-84 years,Hispanic,White,78,172010,45.3,0.623779637,0.999546538
+Female,2007,80-84 years,Non-Hispanic,Asian or Pacific Islander,29,93860,30.9,0.74429613,0.999691029
+Female,2007,80-84 years,Non-Hispanic,Black or African American,74,268871,27.5,0.772442729,0.999724775
+Female,2007,80-84 years,Non-Hispanic,White,1633,2911722,56.1,0.534221255,0.999439163
+Female,2007,85+ years,Hispanic,White,78,137757,56.6,0.529735672,0.999433786
+Female,2007,85+ years,Non-Hispanic,Asian or Pacific Islander,23,74362,30.9,0.744023428,0.999690702
+Female,2007,85+ years,Non-Hispanic,Black or African American,81,249077,32.5,0.730759233,0.999674799
+Female,2007,85+ years,Non-Hispanic,White,2159,2966142,72.8,0.394893178,0.999272118
+Female,2008,25-29 years,Non-Hispanic,White,17,6165154,0.3,0.99970104,0.999997243
+Female,2008,30-34 years,Non-Hispanic,White,25,5628033,0.4,0.998295944,0.999995558
+Female,2008,35-39 years,Non-Hispanic,White,35,6431261,0.5,0.99746177,0.999994558
+Female,2008,40-44 years,Hispanic,White,16,1454011,1.1,0.992822749,0.999988996
+Female,2008,40-44 years,Non-Hispanic,Black or African American,27,1446445,1.9,0.986431723,0.999981334
+Female,2008,40-44 years,Non-Hispanic,White,68,7001788,1,0.993900572,0.999990288
+Female,2008,45-49 years,Hispanic,White,16,1263751,1.3,0.991440955,0.999987339
+Female,2008,45-49 years,Non-Hispanic,Black or African American,31,1485776,2.1,0.984598374,0.999979135
+Female,2008,45-49 years,Non-Hispanic,White,116,8000300,1.4,0.989907312,0.999985501
+Female,2008,50-54 years,Hispanic,White,30,1018961,2.9,0.977444315,0.999970558
+Female,2008,50-54 years,Non-Hispanic,Black or African American,44,1361382,3.2,0.975043561,0.99996768
+Female,2008,50-54 years,Non-Hispanic,White,210,7933691,2.6,0.979923486,0.999973531
+Female,2008,55-59 years,Hispanic,White,37,793690,4.7,0.963118292,0.999953382
+Female,2008,55-59 years,Non-Hispanic,Asian or Pacific Islander,24,465234,5.2,0.958973568,0.999948413
+Female,2008,55-59 years,Non-Hispanic,Black or African American,57,1123799,5.1,0.959695985,0.999949279
+Female,2008,55-59 years,Non-Hispanic,White,350,7176758,4.9,0.961324329,0.999951231
+Female,2008,60-64 years ,Hispanic,White,53,593843,8.9,0.92756044,0.999910751
+Female,2008,60-64 years ,Non-Hispanic,Asian or Pacific Islander,16,345107,4.6,0.963331202,0.999953638
+Female,2008,60-64 years ,Non-Hispanic,Black or African American,68,815179,8.3,0.932424696,0.999916583
+Female,2008,60-64 years ,Non-Hispanic,White,507,6123461,8.3,0.932942613,0.999917204
+Female,2008,65-69 years,Hispanic,White,52,436980,11.9,0.902747208,0.999881001
+Female,2008,65-69 years,Non-Hispanic,Asian or Pacific Islander,20,248267,8.1,0.934809175,0.999919442
+Female,2008,65-69 years,Non-Hispanic,Black or African American,70,617326,11.3,0.907423287,0.999886608
+Female,2008,65-69 years,Non-Hispanic,White,694,4774478,14.5,0.880762975,0.999854644
+Female,2008,70-74 years,Hispanic,White,65,340849,19.1,0.842942616,0.9998093
+Female,2008,70-74 years,Non-Hispanic,Asian or Pacific Islander,24,189526,12.7,0.896380613,0.999873368
+Female,2008,70-74 years,Non-Hispanic,Black or African American,62,480483,12.9,0.894374562,0.999870963
+Female,2008,70-74 years,Non-Hispanic,White,862,3794080,22.7,0.812502406,0.999772804
+Female,2008,75-79 years,Hispanic,White,91,262955,34.6,0.713355277,0.999653933
+Female,2008,75-79 years,Non-Hispanic,Asian or Pacific Islander,37,144941,25.5,0.789081388,0.999744724
+Female,2008,75-79 years,Non-Hispanic,Black or African American,72,371717,19.4,0.840444177,0.999806304
+Female,2008,75-79 years,Non-Hispanic,White,1309,3362570,38.9,0.677307592,0.999610714
+Female,2008,80-84 years,Hispanic,White,74,181722,40.7,0.662352761,0.999592785
+Female,2008,80-84 years,Non-Hispanic,Asian or Pacific Islander,28,99335,28.2,0.766896511,0.999718126
+Female,2008,80-84 years,Non-Hispanic,Black or African American,79,272279,29,0.759999461,0.999709856
+Female,2008,80-84 years,Non-Hispanic,White,1576,2900545,54.3,0.548809513,0.999456654
+Female,2008,85+ years,Hispanic,White,72,146331,49.2,0.59160672,0.999507965
+Female,2008,85+ years,Non-Hispanic,Asian or Pacific Islander,38,80190,47.4,0.606754049,0.999526125
+Female,2008,85+ years,Non-Hispanic,Black or African American,71,257804,27.5,0.772294182,0.999724597
+Female,2008,85+ years,Non-Hispanic,White,2159,3028603,71.3,0.407413986,0.99928713
+Female,2009,25-29 years,Non-Hispanic,White,25,6187365,0.4,0.998630872,0.99999596
+Female,2009,30-34 years,Non-Hispanic,White,28,5711854,0.5,0.997912239,0.999995098
+Female,2009,35-39 years,Non-Hispanic,Black or African American,21,1403007,1.5,0.989516636,0.999985032
+Female,2009,35-39 years,Non-Hispanic,White,40,6223437,0.6,0.996640082,0.999993573
+Female,2009,40-44 years,Hispanic,White,17,1485514,1.1,0.992455917,0.999988556
+Female,2009,40-44 years,Non-Hispanic,Black or African American,20,1414333,1.4,0.990206341,0.999985859
+Female,2009,40-44 years,Non-Hispanic,White,48,6770530,0.7,0.996087731,0.99999291
+Female,2009,45-49 years,Hispanic,White,22,1321313,1.7,0.98811351,0.99998335
+Female,2009,45-49 years,Non-Hispanic,Black or African American,36,1496992,2.4,0.981942924,0.999975952
+Female,2009,45-49 years,Non-Hispanic,White,115,7919248,1.5,0.989888859,0.999985478
+Female,2009,50-54 years,Hispanic,White,34,1071105,3.2,0.975524971,0.999968257
+Female,2009,50-54 years,Non-Hispanic,Black or African American,48,1399562,3.4,0.97339514,0.999965704
+Female,2009,50-54 years,Non-Hispanic,White,179,7996954,2.2,0.98333141,0.999977616
+Female,2009,55-59 years,Hispanic,White,32,836656,3.8,0.970099664,0.999961753
+Female,2009,55-59 years,Non-Hispanic,Black or African American,53,1164471,4.6,0.964038667,0.999954486
+Female,2009,55-59 years,Non-Hispanic,White,347,7310247,4.7,0.962409395,0.999952532
+Female,2009,60-64 years ,Hispanic,White,44,631689,7,0.943903847,0.999930345
+Female,2009,60-64 years ,Non-Hispanic,Asian or Pacific Islander,19,376313,5,0.959888597,0.99994951
+Female,2009,60-64 years ,Non-Hispanic,Black or African American,58,873483,6.6,0.946617672,0.999933599
+Female,2009,60-64 years ,Non-Hispanic,White,516,6391233,8.1,0.934661407,0.999919264
+Female,2009,65-69 years,Hispanic,White,58,461774,12.6,0.897238989,0.999874397
+Female,2009,65-69 years,Non-Hispanic,Asian or Pacific Islander,25,264054,9.5,0.923032727,0.999905322
+Female,2009,65-69 years,Non-Hispanic,Black or African American,76,641482,11.8,0.903183368,0.999881524
+Female,2009,65-69 years,Non-Hispanic,White,646,4964992,13,0.893478631,0.999869889
+Female,2009,70-74 years,Hispanic,White,59,355712,16.6,0.863657502,0.999834135
+Female,2009,70-74 years,Non-Hispanic,Asian or Pacific Islander,23,197831,11.6,0.905030682,0.999883739
+Female,2009,70-74 years,Non-Hispanic,Black or African American,75,487912,15.4,0.873790075,0.999846284
+Female,2009,70-74 years,Non-Hispanic,White,868,3871382,22.4,0.814993549,0.999775791
+Female,2009,75-79 years,Hispanic,White,82,269915,30.4,0.748609518,0.999696201
+Female,2009,75-79 years,Non-Hispanic,Asian or Pacific Islander,32,149961,21.3,0.824018678,0.999786611
+Female,2009,75-79 years,Non-Hispanic,Black or African American,78,374583,20.8,0.82832022,0.999791768
+Female,2009,75-79 years,Non-Hispanic,White,1206,3303365,36.5,0.697494962,0.999634918
+Female,2009,80-84 years,Hispanic,White,88,190892,46.1,0.617497683,0.999539006
+Female,2009,80-84 years,Non-Hispanic,Asian or Pacific Islander,43,104225,41.3,0.657887504,0.999587431
+Female,2009,80-84 years,Non-Hispanic,Black or African American,72,274423,26.2,0.783165799,0.999737631
+Female,2009,80-84 years,Non-Hispanic,White,1475,2860001,51.6,0.571840057,0.999484266
+Female,2009,85+ years,Hispanic,White,100,156379,63.9,0.468633317,0.999360528
+Female,2009,85+ years,Non-Hispanic,Asian or Pacific Islander,47,86463,54.4,0.548610208,0.999456415
+Female,2009,85+ years,Non-Hispanic,Black or African American,58,267385,21.7,0.821077005,0.999783084
+Female,2009,85+ years,Non-Hispanic,White,2224,3100314,71.7,0.403680027,0.999282653
+Female,2010,30-34 years,Non-Hispanic,White,19,5824627,0.3,0.999280184,0.999996738
+Female,2010,35-39 years,Non-Hispanic,White,29,5989352,0.5,0.997962416,0.999995158
+Female,2010,40-44 years,Hispanic,White,21,1528460,1.4,0.990541324,0.999986261
+Female,2010,40-44 years,Non-Hispanic,Black or African American,33,1403885,2.4,0.982395014,0.999976494
+Female,2010,40-44 years,Non-Hispanic,White,47,6657954,0.7,0.996113022,0.999992941
+Female,2010,45-49 years,Hispanic,White,19,1363380,1.4,0.990377316,0.999986064
+Female,2010,45-49 years,Non-Hispanic,Black or African American,38,1492184,2.5,0.980760369,0.999974534
+Female,2010,45-49 years,Non-Hispanic,White,116,7746854,1.5,0.989511657,0.999985026
+Female,2010,50-54 years,Hispanic,White,32,1128129,2.8,0.97834195,0.999971634
+Female,2010,50-54 years,Non-Hispanic,Black or African American,46,1437274,3.2,0.97530635,0.999967995
+Female,2010,50-54 years,Non-Hispanic,White,181,8045451,2.2,0.983236607,0.999977503
+Female,2010,55-59 years,Hispanic,White,36,880061,4.1,0.967882062,0.999959094
+Female,2010,55-59 years,Non-Hispanic,Black or African American,53,1204036,4.4,0.965286119,0.999955981
+Female,2010,55-59 years,Non-Hispanic,White,323,7462133,4.3,0.965897835,0.999956715
+Female,2010,60-64 years ,Hispanic,White,35,677461,5.2,0.958909722,0.999948337
+Female,2010,60-64 years ,Non-Hispanic,Asian or Pacific Islander,31,411381,7.5,0.939148447,0.999924644
+Female,2010,60-64 years ,Non-Hispanic,Black or African American,46,940849,4.9,0.961221343,0.999951108
+Female,2010,60-64 years ,Non-Hispanic,White,505,6681314,7.6,0.938958278,0.999924416
+Female,2010,65-69 years,Hispanic,White,66,485795,13.6,0.888683708,0.99986414
+Female,2010,65-69 years,Non-Hispanic,Asian or Pacific Islander,25,279934,8.9,0.927512409,0.999910693
+Female,2010,65-69 years,Non-Hispanic,Black or African American,87,662116,13.1,0.892406068,0.999868603
+Female,2010,65-69 years,Non-Hispanic,White,673,5117545,13.2,0.892313107,0.999868492
+Female,2010,70-74 years,Hispanic,White,96,369222,26,0.785136304,0.999739994
+Female,2010,70-74 years,Non-Hispanic,Asian or Pacific Islander,28,208235,13.4,0.889848335,0.999865537
+Female,2010,70-74 years,Non-Hispanic,Black or African American,89,499820,17.8,0.853482135,0.999821936
+Female,2010,70-74 years,Non-Hispanic,White,898,3928124,22.9,0.811324858,0.999771392
+Female,2010,75-79 years,Hispanic,White,86,279295,30.8,0.745174125,0.999692082
+Female,2010,75-79 years,Non-Hispanic,Asian or Pacific Islander,43,154802,27.8,0.770316449,0.999722226
+Female,2010,75-79 years,Non-Hispanic,Black or African American,77,380225,20.3,0.833091031,0.999797488
+Female,2010,75-79 years,Non-Hispanic,White,1145,3278853,34.9,0.710735728,0.999650793
+Female,2010,80-84 years,Hispanic,White,80,201490,39.7,0.670838123,0.999602958
+Female,2010,80-84 years,Non-Hispanic,Asian or Pacific Islander,34,110077,30.9,0.744376294,0.999691125
+Female,2010,80-84 years,Non-Hispanic,Black or African American,63,279103,22.6,0.813730942,0.999774277
+Female,2010,80-84 years,Non-Hispanic,White,1410,2834875,49.7,0.587151719,0.999502624
+Female,2010,85+ years,Hispanic,White,106,167815,63.2,0.475159208,0.999368352
+Female,2010,85+ years,Non-Hispanic,Asian or Pacific Islander,34,93701,36.3,0.699351574,0.999637144
+Female,2010,85+ years,Non-Hispanic,Black or African American,106,278528,38.1,0.684575243,0.999619428
+Female,2010,85+ years,Non-Hispanic,White,2298,3170196,72.5,0.397399757,0.999275124
+Female,2011,30-34 years,Non-Hispanic,White,17,5953786,0.3,0.99961939,0.999997145
+Female,2011,35-39 years,Non-Hispanic,White,32,5748975,0.6,0.99735831,0.999994434
+Female,2011,40-44 years,Non-Hispanic,Black or African American,22,1412291,1.6,0.989008121,0.999984422
+Female,2011,40-44 years,Non-Hispanic,White,52,6637268,0.8,0.995466345,0.999992165
+Female,2011,45-49 years,Non-Hispanic,Black or African American,35,1476770,2.4,0.982233058,0.9999763
+Female,2011,45-49 years,Non-Hispanic,White,101,7462901,1.4,0.9907129,0.999986466
+Female,2011,50-54 years,Hispanic,White,30,1173683,2.6,0.980681519,0.999974439
+Female,2011,50-54 years,Non-Hispanic,Black or African American,50,1455549,3.4,0.973349387,0.999965649
+Female,2011,50-54 years,Non-Hispanic,White,174,8071123,2.2,0.984019676,0.999978442
+Female,2011,55-59 years,Hispanic,White,48,927503,5.2,0.95883602,0.999948248
+Female,2011,55-59 years,Non-Hispanic,Black or African American,49,1243590,3.9,0.969136679,0.999960598
+Female,2011,55-59 years,Non-Hispanic,White,314,7580052,4.1,0.967449792,0.999958575
+Female,2011,60-64 years ,Hispanic,White,50,716707,7,0.943812944,0.999930236
+Female,2011,60-64 years ,Non-Hispanic,Asian or Pacific Islander,27,439225,6.1,0.950728764,0.999938528
+Female,2011,60-64 years ,Non-Hispanic,Black or African American,75,1007557,7.4,0.939914511,0.999925563
+Female,2011,60-64 years ,Non-Hispanic,White,515,6976929,7.4,0.940433943,0.999926185
+Female,2011,65-69 years,Hispanic,White,52,513068,10.1,0.917466541,0.999898649
+Female,2011,65-69 years,Non-Hispanic,Asian or Pacific Islander,26,297835,8.7,0.929188989,0.999912703
+Female,2011,65-69 years,Non-Hispanic,Black or African American,72,681602,10.6,0.913894694,0.999894367
+Female,2011,65-69 years,Non-Hispanic,White,680,5227502,13,0.893503431,0.999869919
+Female,2011,70-74 years,Hispanic,White,82,383866,21.4,0.823829013,0.999786384
+Female,2011,70-74 years,Non-Hispanic,Asian or Pacific Islander,29,220108,13.2,0.892108648,0.999868246
+Female,2011,70-74 years,Non-Hispanic,Black or African American,63,513821,12.3,0.899734353,0.999877389
+Female,2011,70-74 years,Non-Hispanic,White,839,4026615,20.8,0.828210083,0.999791636
+Female,2011,75-79 years,Hispanic,White,90,289792,31.1,0.742964303,0.999689432
+Female,2011,75-79 years,Non-Hispanic,Asian or Pacific Islander,39,162278,24,0.801549106,0.999759672
+Female,2011,75-79 years,Non-Hispanic,Black or African American,93,391854,23.7,0.804047188,0.999762667
+Female,2011,75-79 years,Non-Hispanic,White,1073,3270361,32.8,0.728342338,0.999671902
+Female,2011,80-84 years,Hispanic,White,103,211289,48.7,0.595402773,0.999512516
+Female,2011,80-84 years,Non-Hispanic,Asian or Pacific Islander,53,116107,45.6,0.621266165,0.999543525
+Female,2011,80-84 years,Non-Hispanic,Black or African American,67,281823,23.8,0.803709739,0.999762262
+Female,2011,80-84 years,Non-Hispanic,White,1406,2806161,50.1,0.584095701,0.99949896
+Female,2011,85+ years,Hispanic,White,95,181167,52.4,0.564630334,0.999475622
+Female,2011,85+ years,Non-Hispanic,Asian or Pacific Islander,37,103000,35.9,0.702381784,0.999640777
+Female,2011,85+ years,Non-Hispanic,Black or African American,91,287380,31.7,0.737887849,0.999683346
+Female,2011,85+ years,Non-Hispanic,White,2222,3218366,69,0.426145194,0.999309588
+Female,2012,30-34 years,Non-Hispanic,White,25,6053232,0.4,0.998556195,0.99999587
+Female,2012,35-39 years,Non-Hispanic,Black or African American,16,1341470,1.2,0.992052755,0.999988073
+Female,2012,35-39 years,Non-Hispanic,White,28,5660892,0.5,0.99787543,0.999995054
+Female,2012,40-44 years,Non-Hispanic,Black or African American,26,1418109,1.8,0.986708786,0.999981666
+Female,2012,40-44 years,Non-Hispanic,White,52,6539252,0.8,0.995368399,0.999992048
+Female,2012,45-49 years,Hispanic,White,22,1429788,1.5,0.989167121,0.999984613
+Female,2012,45-49 years,Non-Hispanic,Black or African American,20,1454219,1.4,0.990529841,0.999986247
+Female,2012,45-49 years,Non-Hispanic,White,80,7195137,1.1,0.992727183,0.999988881
+Female,2012,50-54 years,Hispanic,White,43,1218370,3.5,0.972563892,0.999964707
+Female,2012,50-54 years,Non-Hispanic,Black or African American,42,1461508,2.9,0.978031766,0.999971263
+Female,2012,50-54 years,Non-Hispanic,White,180,8004238,2.2,0.983244196,0.999977512
+Female,2012,55-59 years,Hispanic,White,35,978222,3.6,0.972158411,0.999964221
+Female,2012,55-59 years,Non-Hispanic,Black or African American,59,1292798,4.6,0.963935894,0.999954363
+Female,2012,55-59 years,Non-Hispanic,White,269,7710677,3.5,0.972902831,0.999965113
+Female,2012,60-64 years ,Hispanic,White,63,745215,8.5,0.931488781,0.999915461
+Female,2012,60-64 years ,Non-Hispanic,Asian or Pacific Islander,25,457563,5.5,0.956429354,0.999945363
+Female,2012,60-64 years ,Non-Hispanic,Black or African American,77,1040570,7.4,0.940281146,0.999926002
+Female,2012,60-64 years ,Non-Hispanic,White,486,6901050,7,0.943261996,0.999929576
+Female,2012,65-69 years,Hispanic,White,60,551267,10.9,0.911220076,0.99989116
+Female,2012,65-69 years,Non-Hispanic,Asian or Pacific Islander,29,324095,8.9,0.927367971,0.99991052
+Female,2012,65-69 years,Non-Hispanic,Black or African American,65,730407,8.9,0.92777538,0.999911009
+Female,2012,65-69 years,Non-Hispanic,White,688,5673719,12.1,0.900860305,0.999878739
+Female,2012,70-74 years,Hispanic,White,80,400280,20,0.835302642,0.99980014
+Female,2012,70-74 years,Non-Hispanic,Asian or Pacific Islander,34,234153,14.5,0.880889754,0.999854796
+Female,2012,70-74 years,Non-Hispanic,Black or African American,79,532749,14.8,0.878318082,0.999851713
+Female,2012,70-74 years,Non-Hispanic,White,901,4184472,21.5,0.822408026,0.99978468
+Female,2012,75-79 years,Hispanic,White,92,301043,30.6,0.747104148,0.999694396
+Female,2012,75-79 years,Non-Hispanic,Asian or Pacific Islander,30,170594,17.6,0.855323754,0.999824144
+Female,2012,75-79 years,Non-Hispanic,Black or African American,72,400989,18,0.852237742,0.999820444
+Female,2012,75-79 years,Non-Hispanic,White,1091,3284202,33.2,0.724924266,0.999667804
+Female,2012,80-84 years,Hispanic,White,106,220323,48.1,0.60071762,0.999518888
+Female,2012,80-84 years,Non-Hispanic,Asian or Pacific Islander,43,121733,35.3,0.707378917,0.999646768
+Female,2012,80-84 years,Non-Hispanic,Black or African American,86,286425,30,0.751567335,0.999699747
+Female,2012,80-84 years,Non-Hispanic,White,1390,2767565,50.2,0.583089664,0.999497753
+Female,2012,85+ years,Hispanic,White,88,194558,45.2,0.624742766,0.999547693
+Female,2012,85+ years,Non-Hispanic,Asian or Pacific Islander,58,112685,51.5,0.572694934,0.999485291
+Female,2012,85+ years,Non-Hispanic,Black or African American,118,296496,39.8,0.670054323,0.999602018
+Female,2012,85+ years,Non-Hispanic,White,2258,3272418,69,0.426481171,0.99930999
+Female,2013,30-34 years,Non-Hispanic,White,16,6142556,0.3,0.999828365,0.999997395
+Female,2013,35-39 years,Hispanic,White,20,1767627,1.1,0.992563718,0.999988685
+Female,2013,35-39 years,Non-Hispanic,Black or African American,18,1347628,1.3,0.990860372,0.999986643
+Female,2013,35-39 years,Non-Hispanic,White,25,5667238,0.4,0.998321574,0.999995589
+Female,2013,40-44 years,Non-Hispanic,Black or African American,25,1415359,1.8,0.987268377,0.999982337
+Female,2013,40-44 years,Non-Hispanic,White,44,6393052,0.7,0.996260448,0.999993118
+Female,2013,45-49 years,Hispanic,White,27,1461186,1.8,0.986588792,0.999981522
+Female,2013,45-49 years,Non-Hispanic,Black or African American,28,1430012,2,0.985669545,0.99998042
+Female,2013,45-49 years,Non-Hispanic,White,101,6923087,1.5,0.989832737,0.999985411
+Female,2013,50-54 years,Hispanic,White,35,1266262,2.8,0.978946772,0.99997236
+Female,2013,50-54 years,Non-Hispanic,Black or African American,25,1469351,1.7,0.987809732,0.999982986
+Female,2013,50-54 years,Non-Hispanic,White,154,7910750,1.9,0.985763858,0.999980533
+Female,2013,55-59 years,Hispanic,White,44,1022712,4.3,0.966116651,0.999956977
+Female,2013,55-59 years,Non-Hispanic,Black or African American,55,1331261,4.1,0.967541795,0.999958686
+Female,2013,55-59 years,Non-Hispanic,White,316,7801714,4.1,0.96821764,0.999959496
+Female,2013,60-64 years ,Hispanic,White,52,780594,6.7,0.946438261,0.999933384
+Female,2013,60-64 years ,Non-Hispanic,Asian or Pacific Islander,27,476236,5.7,0.954713416,0.999943305
+Female,2013,60-64 years ,Non-Hispanic,Black or African American,81,1074370,7.5,0.939117514,0.999924607
+Female,2013,60-64 years ,Non-Hispanic,White,438,6972571,6.3,0.949606379,0.999937182
+Female,2013,65-69 years,Hispanic,White,58,585818,9.9,0.919421804,0.999900993
+Female,2013,65-69 years,Non-Hispanic,Asian or Pacific Islander,25,353727,7.1,0.943051886,0.999929324
+Female,2013,65-69 years,Non-Hispanic,Black or African American,77,774743,9.9,0.919104073,0.999900612
+Female,2013,65-69 years,Non-Hispanic,White,694,5875798,11.8,0.903487003,0.999881888
+Female,2013,70-74 years,Hispanic,White,64,421477,15.2,0.8753492,0.999848153
+Female,2013,70-74 years,Non-Hispanic,Asian or Pacific Islander,34,247436,13.7,0.887391314,0.999862591
+Female,2013,70-74 years,Non-Hispanic,Black or African American,74,558093,13.3,0.891407286,0.999867406
+Female,2013,70-74 years,Non-Hispanic,White,860,4429369,19.4,0.840058134,0.999805841
+Female,2013,75-79 years,Hispanic,White,90,314585,28.6,0.763379439,0.999713909
+Female,2013,75-79 years,Non-Hispanic,Asian or Pacific Islander,49,178931,27.4,0.773590702,0.999726151
+Female,2013,75-79 years,Non-Hispanic,Black or African American,79,410751,19.2,0.84158278,0.999807669
+Female,2013,75-79 years,Non-Hispanic,White,1077,3340743,32.2,0.733109044,0.999677617
+Female,2013,80-84 years,Hispanic,White,93,227592,40.9,0.661176261,0.999591374
+Female,2013,80-84 years,Non-Hispanic,Asian or Pacific Islander,40,128145,31.2,0.741647451,0.999687854
+Female,2013,80-84 years,Non-Hispanic,Black or African American,84,292267,28.7,0.762280769,0.999712592
+Female,2013,80-84 years,Non-Hispanic,White,1363,2719353,50.1,0.583944086,0.999498778
+Female,2013,85+ years,Hispanic,White,102,208493,48.9,0.593950573,0.999510775
+Female,2013,85+ years,Non-Hispanic,Asian or Pacific Islander,48,122718,39.1,0.67576031,0.999608859
+Female,2013,85+ years,Non-Hispanic,Black or African American,93,304340,30.6,0.747124913,0.999694421
+Female,2013,85+ years,Non-Hispanic,White,2203,3301052,66.7,0.445370166,0.999332637
+Female,2014,30-34 years,Non-Hispanic,White,27,6190946,0.4,0.998363372,0.999995639
+Female,2014,35-39 years,Non-Hispanic,White,17,5726400,0.3,0.999524822,0.999997031
+Female,2014,40-44 years,Hispanic,White,19,1699132,1.1,0.992674169,0.999988818
+Female,2014,40-44 years,Non-Hispanic,Black or African American,17,1406055,1.2,0.991916508,0.999987909
+Female,2014,40-44 years,Non-Hispanic,White,60,6192180,1,0.993919059,0.99999031
+Female,2014,45-49 years,Hispanic,White,18,1488534,1.2,0.991914949,0.999987908
+Female,2014,45-49 years,Non-Hispanic,Black or African American,34,1401693,2.4,0.981769305,0.999975744
+Female,2014,45-49 years,Non-Hispanic,White,84,6703877,1.3,0.991549934,0.99998747
+Female,2014,50-54 years,Hispanic,White,32,1315227,2.4,0.981707568,0.99997567
+Female,2014,50-54 years,Non-Hispanic,Black or African American,47,1472285,3.2,0.975374631,0.999968077
+Female,2014,50-54 years,Non-Hispanic,White,179,7811129,2.3,0.982887266,0.999977084
+Female,2014,55-59 years,Hispanic,White,33,1066373,3.1,0.976189645,0.999969054
+Female,2014,55-59 years,Non-Hispanic,Asian or Pacific Islander,19,574847,3.3,0.974432872,0.999966948
+Female,2014,55-59 years,Non-Hispanic,Black or African American,66,1363076,4.8,0.961615122,0.99995158
+Female,2014,55-59 years,Non-Hispanic,White,300,7841295,3.8,0.970090083,0.999961741
+Female,2014,60-64 years ,Hispanic,White,47,822408,5.7,0.954334188,0.999942851
+Female,2014,60-64 years ,Non-Hispanic,Asian or Pacific Islander,23,495163,4.6,0.963258705,0.999953551
+Female,2014,60-64 years ,Non-Hispanic,Black or African American,86,1113582,7.7,0.937586788,0.999922772
+Female,2014,60-64 years ,Non-Hispanic,White,452,7092562,6.4,0.948846404,0.999936271
+Female,2014,65-69 years,Hispanic,White,68,621457,10.9,0.910736228,0.99989058
+Female,2014,65-69 years,Non-Hispanic,Asian or Pacific Islander,33,384702,8.6,0.930453426,0.999914219
+Female,2014,65-69 years,Non-Hispanic,Black or African American,96,826975,11.6,0.905176741,0.999883914
+Female,2014,65-69 years,Non-Hispanic,White,687,6121719,11.2,0.908398234,0.999887777
+Female,2014,70-74 years,Hispanic,White,82,443323,18.5,0.847724838,0.999815033
+Female,2014,70-74 years,Non-Hispanic,Asian or Pacific Islander,42,263590,15.9,0.869100803,0.999840662
+Female,2014,70-74 years,Non-Hispanic,Black or African American,73,581779,12.5,0.897343555,0.999874523
+Female,2014,70-74 years,Non-Hispanic,White,951,4606747,20.6,0.829817561,0.999793564
+Female,2014,75-79 years,Hispanic,White,88,329108,26.7,0.778978118,0.999732611
+Female,2014,75-79 years,Non-Hispanic,Asian or Pacific Islander,34,189057,18,0.852000952,0.99982016
+Female,2014,75-79 years,Non-Hispanic,Black or African American,84,421154,19.9,0.835643041,0.999800548
+Female,2014,75-79 years,Non-Hispanic,White,1084,3420207,31.7,0.737649326,0.99968306
+Female,2014,80-84 years,Hispanic,White,95,234841,40.5,0.664593416,0.999595471
+Female,2014,80-84 years,Non-Hispanic,Asian or Pacific Islander,47,133566,35.2,0.708501677,0.999648114
+Female,2014,80-84 years,Non-Hispanic,Black or African American,78,298375,26.1,0.783960402,0.999738584
+Female,2014,80-84 years,Non-Hispanic,White,1318,2680226,49.2,0.591844935,0.99950825
+Female,2014,85+ years,Hispanic,White,121,223618,54.1,0.550681863,0.999458899
+Female,2014,85+ years,Non-Hispanic,Asian or Pacific Islander,56,133397,42,0.651856654,0.9995802
+Female,2014,85+ years,Non-Hispanic,Black or African American,102,313585,32.5,0.730700831,0.999674729
+Female,2014,85+ years,Non-Hispanic,White,2211,3333377,66.3,0.448766269,0.999336709
+Female,2015,30-34 years,Non-Hispanic,White,17,6211764,0.3,0.999718297,0.999997263
+Female,2015,35-39 years,Non-Hispanic,White,23,5826375,0.4,0.99870838,0.999996052
+Female,2015,40-44 years,Non-Hispanic,Black or African American,25,1384666,1.8,0.986941809,0.999981945
+Female,2015,40-44 years,Non-Hispanic,White,29,5968030,0.5,0.997947988,0.999995141
+Female,2015,45-49 years,Hispanic,White,28,1529662,1.8,0.986733456,0.999981695
+Female,2015,45-49 years,Non-Hispanic,Black or African American,18,1394420,1.3,0.991234212,0.999987091
+Female,2015,45-49 years,Non-Hispanic,White,71,6601546,1.1,0.993030422,0.999989245
+Female,2015,50-54 years,Hispanic,White,24,1354468,1.8,0.98722186,0.999982281
+Female,2015,50-54 years,Non-Hispanic,Black or African American,46,1464914,3.1,0.975810024,0.999968599
+Female,2015,50-54 years,Non-Hispanic,White,154,7630609,2,0.985167749,0.999979818
+Female,2015,55-59 years,Hispanic,White,31,1114819,2.8,0.978807653,0.999972193
+Female,2015,55-59 years,Non-Hispanic,Black or African American,56,1393938,4,0.968492857,0.999959826
+Female,2015,55-59 years,Non-Hispanic,White,277,7868624,3.5,0.972638917,0.999964797
+Female,2015,60-64 years ,Hispanic,White,49,867582,5.6,0.954893383,0.999943521
+Female,2015,60-64 years ,Non-Hispanic,Asian or Pacific Islander,32,514410,6.2,0.950115487,0.999937793
+Female,2015,60-64 years ,Non-Hispanic,Black or African American,68,1152063,5.9,0.952770046,0.999940975
+Female,2015,60-64 years ,Non-Hispanic,White,442,7236520,6.1,0.951056412,0.999938921
+Female,2015,65-69 years,Hispanic,White,57,661453,8.6,0.930125434,0.999913826
+Female,2015,65-69 years,Non-Hispanic,Asian or Pacific Islander,36,418873,8.6,0.930316453,0.999914055
+Female,2015,65-69 years,Non-Hispanic,Black or African American,76,884009,8.6,0.930293873,0.999914028
+Female,2015,65-69 years,Non-Hispanic,White,669,6374216,10.5,0.914461372,0.999895046
+Female,2015,70-74 years,Hispanic,White,83,467048,17.8,0.853775877,0.999822288
+Female,2015,70-74 years,Non-Hispanic,Asian or Pacific Islander,43,280760,15.3,0.874257594,0.999846844
+Female,2015,70-74 years,Non-Hispanic,Black or African American,80,603419,13.3,0.891421071,0.999867422
+Female,2015,70-74 years,Non-Hispanic,White,892,4748396,18.8,0.845317538,0.999812147
+Female,2015,75-79 years,Hispanic,White,89,342576,26,0.785311301,0.999740204
+Female,2015,75-79 years,Non-Hispanic,Asian or Pacific Islander,54,200801,26.9,0.777699034,0.999731077
+Female,2015,75-79 years,Non-Hispanic,Black or African American,88,434303,20.3,0.832997745,0.999797376
+Female,2015,75-79 years,Non-Hispanic,White,1057,3477571,30.4,0.748485708,0.999696052
+Female,2015,80-84 years,Hispanic,White,88,243730,36.1,0.700853787,0.999638945
+Female,2015,80-84 years,Non-Hispanic,Asian or Pacific Islander,39,139154,28,0.768238901,0.999719735
+Female,2015,80-84 years,Non-Hispanic,Black or African American,80,305885,26.2,0.78386015,0.999738464
+Female,2015,80-84 years,Non-Hispanic,White,1247,2663750,46.8,0.611539573,0.999531863
+Female,2015,85+ years,Hispanic,White,111,240766,46.1,0.617468574,0.999538971
+Female,2015,85+ years,Non-Hispanic,Asian or Pacific Islander,59,145218,40.6,0.663128196,0.999593714
+Female,2015,85+ years,Non-Hispanic,Black or African American,108,323759,33.4,0.723769001,0.999666419
+Female,2015,85+ years,Non-Hispanic,White,2185,3351654,65.2,0.458253352,0.999348083
+Female,2016,35-39 years,Non-Hispanic,White,17,5957009,0.3,0.999620678,0.999997146
+Female,2016,40-44 years,Hispanic,White,16,1748574,0.9,0.994368899,0.99999085
+Female,2016,40-44 years,Non-Hispanic,White,42,5729856,0.7,0.995887154,0.99999267
+Female,2016,45-49 years,Hispanic,White,18,1579892,1.1,0.992498176,0.999988607
+Female,2016,45-49 years,Non-Hispanic,Black or African American,27,1404068,1.9,0.985961819,0.99998077
+Female,2016,45-49 years,Non-Hispanic,White,72,6582628,1.1,0.992877933,0.999989062
+Female,2016,50-54 years,Hispanic,White,19,1391073,1.4,0.990608715,0.999986341
+Female,2016,50-54 years,Non-Hispanic,Black or African American,41,1450567,2.8,0.978425976,0.999971735
+Female,2016,50-54 years,Non-Hispanic,White,137,7351447,1.9,0.986457303,0.999981364
+Female,2016,55-59 years,Hispanic,White,40,1159241,3.5,0.973220909,0.999965495
+Female,2016,55-59 years,Non-Hispanic,Asian or Pacific Islander,17,601826,2.8,0.978440524,0.999971753
+Female,2016,55-59 years,Non-Hispanic,Black or African American,68,1412262,4.8,0.961840482,0.99995185
+Female,2016,55-59 years,Non-Hispanic,White,271,7891424,3.4,0.973357913,0.999965659
+Female,2016,60-64 years ,Hispanic,White,53,913522,5.8,0.953610241,0.999941983
+Female,2016,60-64 years ,Non-Hispanic,Asian or Pacific Islander,24,536741,4.5,0.964705865,0.999955286
+Female,2016,60-64 years ,Non-Hispanic,Black or African American,82,1189958,6.9,0.944524844,0.99993109
+Female,2016,60-64 years ,Non-Hispanic,White,453,7347542,6.2,0.950577496,0.999938347
+Female,2016,65-69 years,Hispanic,White,63,699466,9,0.92687689,0.999909931
+Female,2016,65-69 years,Non-Hispanic,Asian or Pacific Islander,27,447565,6,0.951684178,0.999939674
+Female,2016,65-69 years,Non-Hispanic,Black or African American,84,946066,8.9,0.927944488,0.999911211
+Female,2016,65-69 years,Non-Hispanic,White,641,6657460,9.6,0.921693734,0.999903717
+Female,2016,70-74 years,Hispanic,White,96,493515,19.5,0.839754212,0.999805477
+Female,2016,70-74 years,Non-Hispanic,Asian or Pacific Islander,42,298536,14.1,0.884657816,0.999859313
+Female,2016,70-74 years,Non-Hispanic,Black or African American,90,622228,14.5,0.88135908,0.999855358
+Female,2016,70-74 years,Non-Hispanic,White,921,4852131,19,0.843682252,0.999810186
+Female,2016,75-79 years,Hispanic,White,109,357006,30.5,0.747343682,0.999694683
+Female,2016,75-79 years,Non-Hispanic,Asian or Pacific Islander,42,212279,19.8,0.836976857,0.999802147
+Female,2016,75-79 years,Non-Hispanic,Black or African American,74,447633,16.5,0.86411668,0.999834686
+Female,2016,75-79 years,Non-Hispanic,White,1061,3570510,29.7,0.754150208,0.999702844
+Female,2016,80-84 years,Hispanic,White,105,253492,41.4,0.656515205,0.999585786
+Female,2016,80-84 years,Non-Hispanic,Asian or Pacific Islander,45,146077,30.8,0.745058556,0.999691943
+Female,2016,80-84 years,Non-Hispanic,Black or African American,81,316356,25.6,0.788443839,0.999743959
+Female,2016,80-84 years,Non-Hispanic,White,1244,2663875,46.7,0.612497213,0.999533011
+Female,2016,85+ years,Hispanic,White,138,256688,53.8,0.553587521,0.999462382
+Female,2016,85+ years,Non-Hispanic,Asian or Pacific Islander,73,156473,46.7,0.612876481,0.999533466
+Female,2016,85+ years,Non-Hispanic,Black or African American,102,332326,30.7,0.746000373,0.999693072
+Female,2016,85+ years,Non-Hispanic,White,2331,3368818,69.2,0.424876048,0.999308066
+Female,2017,30-34 years,Non-Hispanic,White,17,6224741,0.3,0.999723056,0.999997269
+Female,2017,35-39 years,Non-Hispanic,White,26,6056068,0.4,0.998420083,0.999995707
+Female,2017,40-44 years,Non-Hispanic,Black or African American,16,1348663,1.2,0.992105813,0.999988136
+Female,2017,40-44 years,Non-Hispanic,White,44,5642750,0.8,0.995497149,0.999992202
+Female,2017,45-49 years,Hispanic,White,16,1627825,1,0.993802768,0.999990171
+Female,2017,45-49 years,Non-Hispanic,Black or African American,28,1410329,2,0.985441619,0.999980146
+Female,2017,45-49 years,Non-Hispanic,White,71,6485078,1.1,0.992869317,0.999989052
+Female,2017,50-54 years,Hispanic,White,22,1422347,1.5,0.989099981,0.999984533
+Female,2017,50-54 years,Non-Hispanic,Black or African American,31,1428975,2.2,0.983906631,0.999978306
+Female,2017,50-54 years,Non-Hispanic,White,149,7087427,2.1,0.984466068,0.999978977
+Female,2017,55-59 years,Hispanic,White,24,1203059,2,0.985361862,0.999980051
+Female,2017,55-59 years,Non-Hispanic,Asian or Pacific Islander,19,611927,3.1,0.976103373,0.999968951
+Female,2017,55-59 years,Non-Hispanic,Black or African American,49,1418540,3.5,0.973189863,0.999965457
+Female,2017,55-59 years,Non-Hispanic,White,256,7823408,3.3,0.974708084,0.999967278
+Female,2017,60-64 years ,Hispanic,White,71,962309,7.4,0.940462165,0.999926219
+Female,2017,60-64 years ,Non-Hispanic,Asian or Pacific Islander,22,555791,4,0.968985569,0.999960417
+Female,2017,60-64 years ,Non-Hispanic,Black or African American,67,1236441,5.4,0.95680427,0.999945812
+Female,2017,60-64 years ,Non-Hispanic,White,435,7469328,5.8,0.953425946,0.999941762
+Female,2017,65-69 years,Hispanic,White,82,726828,11.3,0.907901452,0.999887181
+Female,2017,65-69 years,Non-Hispanic,Asian or Pacific Islander,24,466246,5.1,0.95906696,0.999948525
+Female,2017,65-69 years,Non-Hispanic,Black or African American,106,976046,10.9,0.911419205,0.999891399
+Female,2017,65-69 years,Non-Hispanic,White,667,6586185,10.1,0.917532016,0.999898727
+Female,2017,70-74 years,Hispanic,White,92,529835,17.4,0.857173034,0.999826361
+Female,2017,70-74 years,Non-Hispanic,Asian or Pacific Islander,32,323999,9.9,0.919622917,0.999901234
+Female,2017,70-74 years,Non-Hispanic,Black or African American,82,667206,12.3,0.899492654,0.999877099
+Female,2017,70-74 years,Non-Hispanic,White,912,5272218,17.3,0.857720803,0.999827018
+Female,2017,75-79 years,Hispanic,White,103,372953,27.6,0.771650952,0.999723826
+Female,2017,75-79 years,Non-Hispanic,Asian or Pacific Islander,48,225679,21.3,0.824600309,0.999787309
+Female,2017,75-79 years,Non-Hispanic,Black or African American,100,464287,21.5,0.822354528,0.999784616
+Female,2017,75-79 years,Non-Hispanic,White,1082,3712573,29.1,0.758916403,0.999708558
+Female,2017,80-84 years,Hispanic,White,100,263862,37.9,0.685898224,0.999621014
+Female,2017,80-84 years,Non-Hispanic,Asian or Pacific Islander,41,153659,26.7,0.779449234,0.999733175
+Female,2017,80-84 years,Non-Hispanic,Black or African American,79,324047,24.4,0.798660312,0.999756208
+Female,2017,80-84 years,Non-Hispanic,White,1215,2676302,45.4,0.623343723,0.999546015
+Female,2017,85+ years,Hispanic,White,152,271910,55.9,0.535745955,0.999440992
+Female,2017,85+ years,Non-Hispanic,Asian or Pacific Islander,60,167438,35.8,0.703117192,0.999641658
+Female,2017,85+ years,Non-Hispanic,Black or African American,87,340994,25.5,0.789198017,0.999744864
+Female,2017,85+ years,Non-Hispanic,White,2213,3364977,65.8,0.453465875,0.999342343
+Female,2018,30-34 years,Non-Hispanic,White,23,6234442,0.4,0.99892389,0.999996311
+Female,2018,35-39 years,Non-Hispanic,Black or African American,17,1494762,1.1,0.992514971,0.999988627
+Female,2018,35-39 years,Non-Hispanic,White,23,6142564,0.4,0.998877865,0.999996256
+Female,2018,40-44 years,Non-Hispanic,Black or African American,22,1354332,1.6,0.98845209,0.999983756
+Female,2018,40-44 years,Non-Hispanic,White,27,5647073,0.5,0.998013035,0.999995219
+Female,2018,45-49 years,Hispanic,White,21,1668288,1.3,0.991501815,0.999987412
+Female,2018,45-49 years,Non-Hispanic,White,57,6338665,0.9,0.994500585,0.999991008
+Female,2018,50-54 years,Hispanic,White,28,1453608,1.9,0.985934648,0.999980738
+Female,2018,50-54 years,Non-Hispanic,Black or African American,34,1405660,2.4,0.981826402,0.999975812
+Female,2018,50-54 years,Non-Hispanic,White,113,6819533,1.7,0.988180282,0.99998343
+Female,2018,55-59 years,Hispanic,White,49,1250863,3.9,0.969327765,0.999960827
+Female,2018,55-59 years,Non-Hispanic,Black or African American,58,1426227,4.1,0.968081838,0.999959333
+Female,2018,55-59 years,Non-Hispanic,White,263,7729568,3.4,0.973621389,0.999965975
+Female,2018,60-64 years ,Hispanic,White,61,1004948,6.1,0.951372881,0.9999393
+Female,2018,60-64 years ,Non-Hispanic,Asian or Pacific Islander,28,571786,4.9,0.961156821,0.999951031
+Female,2018,60-64 years ,Non-Hispanic,Black or African American,64,1271979,5,0.960034217,0.999949685
+Female,2018,60-64 years ,Non-Hispanic,White,425,7552908,5.6,0.955067783,0.99994373
+Female,2018,65-69 years,Hispanic,White,75,760313,9.9,0.919724801,0.999901356
+Female,2018,65-69 years,Non-Hispanic,Asian or Pacific Islander,51,483342,10.6,0.913993235,0.999894485
+Female,2018,65-69 years,Non-Hispanic,Black or African American,102,1007184,10.1,0.917532123,0.999898728
+Female,2018,65-69 years,Non-Hispanic,White,598,6655085,9,0.92705422,0.999910144
+Female,2018,70-74 years,Hispanic,White,96,562132,17.1,0.859558963,0.999829222
+Female,2018,70-74 years,Non-Hispanic,Asian or Pacific Islander,45,351978,12.8,0.895365379,0.999872151
+Female,2018,70-74 years,Non-Hispanic,Black or African American,85,708328,12,0.901911196,0.999879999
+Female,2018,70-74 years,Non-Hispanic,White,870,5463691,15.9,0.869188673,0.999840767
+Female,2018,75-79 years,Hispanic,White,109,392939,27.7,0.770631265,0.999722603
+Female,2018,75-79 years,Non-Hispanic,Asian or Pacific Islander,34,237702,14.3,0.882698,0.999856964
+Female,2018,75-79 years,Non-Hispanic,Black or African American,92,486876,18.9,0.844394293,0.99981104
+Female,2018,75-79 years,Non-Hispanic,White,1124,3936262,28.6,0.763830758,0.99971445
+Female,2018,80-84 years,Hispanic,White,116,276411,42,0.651968943,0.999580335
+Female,2018,80-84 years,Non-Hispanic,Asian or Pacific Islander,51,161351,31.6,0.738365622,0.999683919
+Female,2018,80-84 years,Non-Hispanic,Black or African American,79,332770,23.7,0.803990542,0.999762599
+Female,2018,80-84 years,Non-Hispanic,White,1134,2726222,41.6,0.65505891,0.99958404
+Female,2018,85+ years,Hispanic,White,132,286338,46.1,0.617497683,0.999539006
+Female,2018,85+ years,Non-Hispanic,Asian or Pacific Islander,72,179297,40.2,0.66706284,0.999598432
+Female,2018,85+ years,Non-Hispanic,Black or African American,95,350724,27.1,0.77607651,0.999729132
+Female,2018,85+ years,Non-Hispanic,White,2146,3350573,64,0.467786388,0.999359513
+Female,2019,30-34 years,Non-Hispanic,White,20,6284268,0.3,0.99934646,0.999996817
+Female,2019,35-39 years,Non-Hispanic,White,18,6186051,0.3,0.999573978,0.99999709
+Female,2019,40-44 years,Hispanic,White,16,1808570,0.9,0.994622078,0.999991153
+Female,2019,40-44 years,Non-Hispanic,Black or African American,16,1378960,1.2,0.992323218,0.999988397
+Female,2019,40-44 years,Non-Hispanic,White,31,5702262,0.5,0.997466548,0.999994564
+Female,2019,45-49 years,Hispanic,White,18,1702141,1.1,0.993180672,0.999989425
+Female,2019,45-49 years,Non-Hispanic,Black or African American,23,1397992,1.6,0.988278604,0.999983548
+Female,2019,45-49 years,Non-Hispanic,White,74,6137315,1.2,0.991944179,0.999987943
+Female,2019,50-54 years,Hispanic,White,28,1478276,1.9,0.986202746,0.999981059
+Female,2019,50-54 years,Non-Hispanic,Black or African American,41,1378162,3,0.977187409,0.99997025
+Female,2019,50-54 years,Non-Hispanic,White,118,6603076,1.8,0.987095643,0.99998213
+Female,2019,55-59 years,Hispanic,White,42,1298229,3.2,0.975017148,0.999967648
+Female,2019,55-59 years,Non-Hispanic,Black or African American,47,1429694,3.3,0.974581426,0.999967126
+Female,2019,55-59 years,Non-Hispanic,White,265,7630885,3.5,0.973035778,0.999965273
+Female,2019,60-64 years ,Hispanic,White,68,1045290,6.5,0.947741269,0.999934946
+Female,2019,60-64 years ,Non-Hispanic,Asian or Pacific Islander,23,583095,3.9,0.96910112,0.999960555
+Female,2019,60-64 years ,Non-Hispanic,Black or African American,66,1301491,5.1,0.959704113,0.999949289
+Female,2019,60-64 years ,Non-Hispanic,White,398,7587338,5.2,0.958248864,0.999947544
+Female,2019,65-69 years,Hispanic,White,82,798777,10.3,0.916377365,0.999897343
+Female,2019,65-69 years,Non-Hispanic,Asian or Pacific Islander,35,499473,7,0.943554095,0.999929926
+Female,2019,65-69 years,Non-Hispanic,Black or African American,98,1043246,9.4,0.923649966,0.999906062
+Female,2019,65-69 years,Non-Hispanic,White,591,6768292,8.7,0.929170414,0.999912681
+Female,2019,70-74 years,Hispanic,White,85,594488,14.3,0.882744759,0.99985702
+Female,2019,70-74 years,Non-Hispanic,Asian or Pacific Islander,39,380397,10.3,0.916487854,0.999897476
+Female,2019,70-74 years,Non-Hispanic,Black or African American,102,756158,13.5,0.889490536,0.999865108
+Female,2019,70-74 years,Non-Hispanic,White,914,5695244,16,0.868144606,0.999839515
+Female,2019,75-79 years,Hispanic,White,88,412439,21.3,0.824038636,0.999786635
+Female,2019,75-79 years,Non-Hispanic,Asian or Pacific Islander,56,252362,22.2,0.816916828,0.999778097
+Female,2019,75-79 years,Non-Hispanic,Black or African American,90,507879,17.7,0.854196554,0.999822792
+Female,2019,75-79 years,Non-Hispanic,White,1107,4095071,27,0.776529645,0.999729675
+Female,2019,80-84 years,Hispanic,White,113,289051,39.1,0.67593229,0.999609066
+Female,2019,80-84 years,Non-Hispanic,Asian or Pacific Islander,38,170172,22.3,0.815749103,0.999776697
+Female,2019,80-84 years,Non-Hispanic,Black or African American,88,341529,25.8,0.78708919,0.999742335
+Female,2019,80-84 years,Non-Hispanic,White,1277,2793122,45.7,0.620666464,0.999542806
+Female,2019,85+ years,Hispanic,White,142,300632,47.2,0.608035416,0.999527662
+Female,2019,85+ years,Non-Hispanic,Asian or Pacific Islander,66,190297,34.7,0.712721831,0.999653174
+Female,2019,85+ years,Non-Hispanic,Black or African American,99,360220,27.5,0.772770416,0.999725168
+Female,2019,85+ years,Non-Hispanic,White,2176,3333239,65.3,0.457501399,0.999347182
+Female,2020,30-34 years,Non-Hispanic,White,18,6339479,0.3,0.999632715,0.999997161
+Female,2020,35-39 years,Non-Hispanic,Black or African American,16,1502992,1.1,0.993121857,0.999989355
+Female,2020,35-39 years,Non-Hispanic,White,22,6200085,0.4,0.999041366,0.999996452
+Female,2020,40-44 years,Non-Hispanic,White,28,5796661,0.5,0.997972058,0.99999517
+Female,2020,45-49 years,Non-Hispanic,Black or African American,20,1375619,1.5,0.989874405,0.999985461
+Female,2020,45-49 years,Non-Hispanic,White,43,5912301,0.7,0.995934742,0.999992727
+Female,2020,50-54 years,Hispanic,White,29,1516989,1.9,0.986056088,0.999980883
+Female,2020,50-54 years,Non-Hispanic,Black or African American,29,1370203,2.1,0.98434796,0.999978835
+Female,2020,50-54 years,Non-Hispanic,White,112,6500431,1.7,0.987630145,0.99998277
+Female,2020,55-59 years,Hispanic,White,39,1335770,2.9,0.977648757,0.999970803
+Female,2020,55-59 years,Non-Hispanic,Asian or Pacific Islander,17,649466,2.6,0.980168742,0.999973825
+Female,2020,55-59 years,Non-Hispanic,Black or African American,44,1421662,3.1,0.976186583,0.99996905
+Female,2020,55-59 years,Non-Hispanic,White,228,7451815,3.1,0.97648111,0.999969403
+Female,2020,60-64 years ,Hispanic,White,47,1090885,4.3,0.966065423,0.999956916
+Female,2020,60-64 years ,Non-Hispanic,Asian or Pacific Islander,26,594831,4.4,0.965543617,0.99995629
+Female,2020,60-64 years ,Non-Hispanic,Black or African American,71,1329313,5.3,0.957452128,0.999946589
+Female,2020,60-64 years ,Non-Hispanic,White,415,7608103,5.5,0.95650457,0.999945453
+Female,2020,65-69 years,Hispanic,White,85,840825,10.1,0.917683315,0.999898909
+Female,2020,65-69 years,Non-Hispanic,Asian or Pacific Islander,48,514189,9.3,0.924139307,0.999906649
+Female,2020,65-69 years,Non-Hispanic,Black or African American,90,1077483,8.4,0.932332332,0.999916472
+Female,2020,65-69 years,Non-Hispanic,White,574,6900451,8.3,0.932620114,0.999916817
+Female,2020,70-74 years,Hispanic,White,99,630966,15.7,0.871132687,0.999843098
+Female,2020,70-74 years,Non-Hispanic,Asian or Pacific Islander,49,411184,11.9,0.90260585,0.999880832
+Female,2020,70-74 years,Non-Hispanic,Black or African American,83,806836,10.3,0.916198847,0.999897129
+Female,2020,70-74 years,Non-Hispanic,White,998,5924348,16.8,0.861494883,0.999831543
+Female,2020,75-79 years,Hispanic,White,112,433532,25.8,0.786523435,0.999741657
+Female,2020,75-79 years,Non-Hispanic,Asian or Pacific Islander,51,267355,19.1,0.842894802,0.999809242
+Female,2020,75-79 years,Non-Hispanic,Black or African American,75,526453,14.2,0.883176241,0.999857537
+Female,2020,75-79 years,Non-Hispanic,White,1089,4216639,25.8,0.786590607,0.999741737
+Female,2020,80-84 years,Hispanic,White,124,300563,41.3,0.657895731,0.999587441
+Female,2020,80-84 years,Non-Hispanic,Asian or Pacific Islander,41,180027,22.8,0.812045697,0.999772256
+Female,2020,80-84 years,Non-Hispanic,Black or African American,80,351927,22.7,0.812399133,0.99977268
+Female,2020,80-84 years,Non-Hispanic,White,1228,2837710,43.3,0.64106059,0.999567257
+Female,2020,85+ years,Hispanic,White,134,316810,42.3,0.649215222,0.999577034
+Female,2020,85+ years,Non-Hispanic,Asian or Pacific Islander,87,201481,43.2,0.641845289,0.999568197
+Female,2020,85+ years,Non-Hispanic,Black or African American,115,369171,31.2,0.742179289,0.999688491
+Female,2020,85+ years,Non-Hispanic,White,2028,3312842,61.2,0.491410936,0.999387837
+Male,1999,15-19 years,Non-Hispanic,White,18,6658678,0.3,0.999746242,0.999997297
+Male,1999,20-24 years,Non-Hispanic,White,43,5917158,0.7,0.995939721,0.999992733
+Male,1999,25-29 years,Non-Hispanic,Black or African American,17,1227359,1.4,0.990448275,0.999986149
+Male,1999,25-29 years,Non-Hispanic,White,43,6291780,0.7,0.996300616,0.999993166
+Male,1999,30-34 years,Non-Hispanic,Black or African American,22,1248190,1.8,0.987299939,0.999982374
+Male,1999,30-34 years,Non-Hispanic,White,69,6919823,1,0.99368409,0.999990029
+Male,1999,35-39 years,Hispanic,White,19,1330284,1.4,0.990088133,0.999985717
+Male,1999,35-39 years,Non-Hispanic,Black or African American,36,1334212,2.7,0.979495753,0.999973018
+Male,1999,35-39 years,Non-Hispanic,White,144,8092269,1.8,0.98715878,0.999982205
+Male,1999,40-44 years,Hispanic,White,24,1051048,2.3,0.982955384,0.999977166
+Male,1999,40-44 years,Non-Hispanic,Black or African American,50,1248357,4,0.968594037,0.999959947
+Male,1999,40-44 years,Non-Hispanic,White,218,8116052,2.7,0.9795974,0.99997314
+Male,1999,45-49 years,Hispanic,White,42,781630,5.4,0.957182875,0.999946266
+Male,1999,45-49 years,Non-Hispanic,Black or African American,58,1027188,5.6,0.954905041,0.999943535
+Male,1999,45-49 years,Non-Hispanic,White,344,7367292,4.7,0.963055593,0.999953307
+Male,1999,50-54 years,Hispanic,White,41,585771,7,0.943621351,0.999930007
+Male,1999,50-54 years,Non-Hispanic,Black or African American,62,788057,7.9,0.936380505,0.999921325
+Male,1999,50-54 years,Non-Hispanic,White,535,6512010,8.2,0.933476772,0.999917844
+Male,1999,55-59 years,Hispanic,White,38,407139,9.3,0.924153212,0.999906666
+Male,1999,55-59 years,Non-Hispanic,Asian or Pacific Islander,16,209200,7.6,0.938209362,0.999923518
+Male,1999,55-59 years,Non-Hispanic,Black or African American,81,573942,14.1,0.884288577,0.999858871
+Male,1999,55-59 years,Non-Hispanic,White,713,5062719,14.1,0.884535321,0.999859167
+Male,1999,60-64 years ,Hispanic,White,50,317146,15.8,0.870503944,0.999842344
+Male,1999,60-64 years ,Non-Hispanic,Asian or Pacific Islander,26,164072,15.8,0.869827576,0.999841533
+Male,1999,60-64 years ,Non-Hispanic,Black or African American,72,459389,15.7,0.871276446,0.99984327
+Male,1999,60-64 years ,Non-Hispanic,White,841,4089495,20.6,0.830474377,0.999794351
+Male,1999,65-69 years,Hispanic,White,55,245544,22.4,0.815174458,0.999776008
+Male,1999,65-69 years,Non-Hispanic,Black or African American,90,376469,23.9,0.802604058,0.999760936
+Male,1999,65-69 years,Non-Hispanic,White,1190,3619385,32.9,0.727769493,0.999671215
+Male,1999,70-74 years,Hispanic,White,69,187366,36.8,0.694841842,0.999631737
+Male,1999,70-74 years,Non-Hispanic,Asian or Pacific Islander,29,94976,30.5,0.747324249,0.99969466
+Male,1999,70-74 years,Non-Hispanic,Black or African American,84,288848,29.1,0.759443279,0.99970919
+Male,1999,70-74 years,Non-Hispanic,White,1632,3298475,49.5,0.589322256,0.999505226
+Male,1999,75-79 years,Hispanic,White,57,122632,46.5,0.614318506,0.999535195
+Male,1999,75-79 years,Non-Hispanic,Asian or Pacific Islander,33,68301,48.3,0.599013086,0.999516845
+Male,1999,75-79 years,Non-Hispanic,Black or African American,99,206886,47.9,0.60287572,0.999521476
+Male,1999,75-79 years,Non-Hispanic,White,1847,2598489,71.1,0.409142381,0.999289202
+Male,1999,80-84 years,Hispanic,White,33,60934,54.2,0.550291328,0.99945843
+Male,1999,80-84 years,Non-Hispanic,Asian or Pacific Islander,16,36288,44.1,0.634243025,0.999559083
+Male,1999,80-84 years,Non-Hispanic,Black or African American,32,112918,28.3,0.765631201,0.999716609
+Male,1999,80-84 years,Non-Hispanic,White,1455,1584636,91.8,0.236160037,0.999081808
+Male,1999,85+ years,Hispanic,White,27,44495,60.7,0.495876122,0.99939319
+Male,1999,85+ years,Non-Hispanic,Asian or Pacific Islander,26,24197,107.5,0.105776245,0.998925487
+Male,1999,85+ years,Non-Hispanic,Black or African American,50,84140,59.4,0.506353831,0.999405752
+Male,1999,85+ years,Non-Hispanic,White,1138,1035110,109.9,0.085018876,0.9989006
+Male,2000,15-19 years,Non-Hispanic,White,34,6675653,0.5,0.99775289,0.999994907
+Male,2000,20-24 years,Non-Hispanic,Black or African American,16,1302285,1.2,0.99175342,0.999987714
+Male,2000,20-24 years,Non-Hispanic,White,45,6013434,0.7,0.995759359,0.999992517
+Male,2000,25-29 years,Non-Hispanic,White,39,6075610,0.6,0.996646928,0.999993581
+Male,2000,30-34 years,Non-Hispanic,Black or African American,18,1241423,1.4,0.989907284,0.999985501
+Male,2000,30-34 years,Non-Hispanic,White,70,6806492,1,0.993423069,0.999989716
+Male,2000,35-39 years,Non-Hispanic,Black or African American,35,1332079,2.6,0.980085861,0.999973725
+Male,2000,35-39 years,Non-Hispanic,White,136,7893270,1.7,0.987629944,0.99998277
+Male,2000,40-44 years,Hispanic,White,34,1116654,3,0.976604942,0.999969552
+Male,2000,40-44 years,Non-Hispanic,Black or African American,33,1280973,2.6,0.980513784,0.999974238
+Male,2000,40-44 years,Non-Hispanic,White,217,8157340,2.7,0.979813043,0.999973398
+Male,2000,45-49 years,Hispanic,White,33,837631,3.9,0.969141042,0.999960603
+Male,2000,45-49 years,Non-Hispanic,Black or African American,66,1069079,6.2,0.95050901,0.999938265
+Male,2000,45-49 years,Non-Hispanic,White,355,7526850,4.7,0.96266223,0.999952836
+Male,2000,50-54 years,Hispanic,White,37,631870,5.9,0.953160561,0.999941444
+Male,2000,50-54 years,Non-Hispanic,Asian or Pacific Islander,17,320102,5.3,0.957704833,0.999946892
+Male,2000,50-54 years,Non-Hispanic,Black or African American,67,849170,7.9,0.936191953,0.999921099
+Male,2000,50-54 years,Non-Hispanic,White,515,6794908,7.6,0.938784695,0.999924208
+Male,2000,55-59 years,Hispanic,White,48,435104,11,0.909987086,0.999889682
+Male,2000,55-59 years,Non-Hispanic,Black or African American,82,594988,13.8,0.887050481,0.999862182
+Male,2000,55-59 years,Non-Hispanic,White,720,5230525,13.8,0.887187619,0.999862347
+Male,2000,60-64 years ,Hispanic,White,63,330848,19,0.843176583,0.99980958
+Male,2000,60-64 years ,Non-Hispanic,Asian or Pacific Islander,18,176077,10.2,0.916735128,0.999897772
+Male,2000,60-64 years ,Non-Hispanic,Black or African American,75,473439,15.8,0.869870677,0.999841585
+Male,2000,60-64 years ,Non-Hispanic,White,818,4133212,19.8,0.836929974,0.999802091
+Male,2000,65-69 years,Hispanic,White,60,255692,23.5,0.806279148,0.999765343
+Male,2000,65-69 years,Non-Hispanic,Asian or Pacific Islander,21,130658,16.1,0.867944292,0.999839275
+Male,2000,65-69 years,Non-Hispanic,Black or African American,74,377149,19.6,0.838347993,0.999803791
+Male,2000,65-69 years,Non-Hispanic,White,1181,3597503,32.8,0.7281881,0.999671717
+Male,2000,70-74 years,Hispanic,White,82,197968,41.4,0.656520125,0.999585792
+Male,2000,70-74 years,Non-Hispanic,Asian or Pacific Islander,31,100736,30.8,0.745326828,0.999692265
+Male,2000,70-74 years,Non-Hispanic,Black or African American,95,294208,32.3,0.732677468,0.999677099
+Male,2000,70-74 years,Non-Hispanic,White,1544,3290475,46.9,0.61062531,0.999530767
+Male,2000,75-79 years,Hispanic,White,60,131107,45.8,0.620293654,0.999542359
+Male,2000,75-79 years,Non-Hispanic,Asian or Pacific Islander,30,72907,41.1,0.658793175,0.999588517
+Male,2000,75-79 years,Non-Hispanic,Black or African American,65,209292,31.1,0.742961552,0.999689429
+Male,2000,75-79 years,Non-Hispanic,White,1854,2626421,70.6,0.413224438,0.999294096
+Male,2000,80-84 years,Hispanic,White,37,65950,56.1,0.534058964,0.999438969
+Male,2000,80-84 years,Non-Hispanic,Asian or Pacific Islander,21,39566,53.1,0.559308375,0.999469241
+Male,2000,80-84 years,Non-Hispanic,Black or African American,38,117501,32.3,0.732259849,0.999676598
+Male,2000,80-84 years,Non-Hispanic,White,1511,1621053,93.2,0.224551182,0.99906789
+Male,2000,85+ years,Hispanic,White,38,47433,80.1,0.333798457,0.99919887
+Male,2000,85+ years,Non-Hispanic,Asian or Pacific Islander,18,26993,66.7,0.445806771,0.99933316
+Male,2000,85+ years,Non-Hispanic,Black or African American,37,84983,43.5,0.638860392,0.999564619
+Male,2000,85+ years,Non-Hispanic,White,1200,1069852,112.2,0.066460368,0.99887835
+Male,2001,15-19 years,Non-Hispanic,White,25,6700667,0.4,0.998889036,0.999996269
+Male,2001,20-24 years,Non-Hispanic,White,29,6179203,0.5,0.998086497,0.999995307
+Male,2001,25-29 years,Non-Hispanic,White,40,5814673,0.7,0.99626322,0.999993121
+Male,2001,30-34 years,Non-Hispanic,Black or African American,17,1241242,1.4,0.990577489,0.999986304
+Male,2001,30-34 years,Non-Hispanic,White,75,6779853,1.1,0.992774253,0.999988938
+Male,2001,35-39 years,Hispanic,White,22,1441212,1.5,0.98926885,0.999984735
+Male,2001,35-39 years,Non-Hispanic,Black or African American,42,1322748,3.2,0.975517331,0.999968248
+Male,2001,35-39 years,Non-Hispanic,White,127,7631303,1.7,0.988120286,0.999983358
+Male,2001,40-44 years,Hispanic,White,34,1176925,2.9,0.977905486,0.999971111
+Male,2001,40-44 years,Non-Hispanic,Black or African American,46,1304062,3.5,0.972579455,0.999964726
+Male,2001,40-44 years,Non-Hispanic,White,212,8200772,2.6,0.980439086,0.999974149
+Male,2001,45-49 years,Hispanic,White,34,889088,3.8,0.970104723,0.999961759
+Male,2001,45-49 years,Non-Hispanic,Black or African American,56,1105384,5.1,0.959745768,0.999949339
+Male,2001,45-49 years,Non-Hispanic,White,342,7650934,4.5,0.964717441,0.9999553
+Male,2001,50-54 years,Hispanic,White,38,677550,5.6,0.955222334,0.999943916
+Male,2001,50-54 years,Non-Hispanic,Black or African American,79,912639,8.7,0.929801618,0.999913438
+Male,2001,50-54 years,Non-Hispanic,White,531,7097936,7.5,0.939603397,0.99992519
+Male,2001,55-59 years,Hispanic,White,49,464150,10.6,0.913948219,0.999894431
+Male,2001,55-59 years,Non-Hispanic,Asian or Pacific Islander,25,238780,10.5,0.914674226,0.999895301
+Male,2001,55-59 years,Non-Hispanic,Black or African American,77,616383,12.5,0.897806359,0.999875078
+Male,2001,55-59 years,Non-Hispanic,White,661,5363188,12.3,0.899203216,0.999876752
+Male,2001,60-64 years ,Hispanic,White,62,344881,18,0.852057493,0.999820228
+Male,2001,60-64 years ,Non-Hispanic,Asian or Pacific Islander,24,186714,12.9,0.894789922,0.999871461
+Male,2001,60-64 years ,Non-Hispanic,Black or African American,74,483638,15.3,0.874381637,0.999846993
+Male,2001,60-64 years ,Non-Hispanic,White,836,4230529,19.8,0.837178374,0.999802389
+Male,2001,65-69 years,Hispanic,White,54,264836,20.4,0.831933251,0.9997961
+Male,2001,65-69 years,Non-Hispanic,Black or African American,96,388334,24.7,0.795809377,0.99975279
+Male,2001,65-69 years,Non-Hispanic,White,1108,3595450,30.8,0.744966343,0.999691833
+Male,2001,70-74 years,Hispanic,White,66,206213,32,0.735049067,0.999679943
+Male,2001,70-74 years,Non-Hispanic,Asian or Pacific Islander,25,105379,23.7,0.804125903,0.999762761
+Male,2001,70-74 years,Non-Hispanic,Black or African American,94,295838,31.8,0.736980743,0.999682259
+Male,2001,70-74 years,Non-Hispanic,White,1547,3277955,47.2,0.608367119,0.999528059
+Male,2001,75-79 years,Hispanic,White,81,138960,58.3,0.515817352,0.999417098
+Male,2001,75-79 years,Non-Hispanic,Asian or Pacific Islander,35,76167,46,0.618729663,0.999540483
+Male,2001,75-79 years,Non-Hispanic,Black or African American,65,213265,30.5,0.747787302,0.999695215
+Male,2001,75-79 years,Non-Hispanic,White,1678,2630785,63.8,0.470000881,0.999362168
+Male,2001,80-84 years,Hispanic,White,48,72265,66.4,0.447990037,0.999335778
+Male,2001,80-84 years,Non-Hispanic,Asian or Pacific Islander,24,42993,55.8,0.536394936,0.99944177
+Male,2001,80-84 years,Non-Hispanic,Black or African American,59,120694,48.9,0.59427212,0.99951116
+Male,2001,80-84 years,Non-Hispanic,White,1548,1681091,92.1,0.233959212,0.999079169
+Male,2001,85+ years,Hispanic,White,36,48728,73.9,0.385790579,0.999261205
+Male,2001,85+ years,Non-Hispanic,Asian or Pacific Islander,23,28529,80.6,0.329572042,0.999193803
+Male,2001,85+ years,Non-Hispanic,Black or African American,48,82735,58,0.518099353,0.999419834
+Male,2001,85+ years,Non-Hispanic,White,1274,1094359,116.4,0.031011074,0.998835848
+Male,2002,10-14 years,Non-Hispanic,White,20,6777134,0.3,0.999539507,0.999997049
+Male,2002,15-19 years,Non-Hispanic,White,18,6710792,0.3,0.999763751,0.999997318
+Male,2002,20-24 years,Non-Hispanic,White,37,6292952,0.6,0.997096924,0.99999412
+Male,2002,25-29 years,Non-Hispanic,White,44,5696044,0.8,0.995558001,0.999992275
+Male,2002,30-34 years,Non-Hispanic,Black or African American,29,1243774,2.3,0.982553543,0.999976684
+Male,2002,30-34 years,Non-Hispanic,White,62,6681216,0.9,0.99426094,0.99999072
+Male,2002,35-39 years,Hispanic,White,18,1477057,1.2,0.991836579,0.999987814
+Male,2002,35-39 years,Non-Hispanic,Black or African American,26,1298817,2,0.985304253,0.999979982
+Male,2002,35-39 years,Non-Hispanic,White,104,7357871,1.4,0.990211694,0.999985865
+Male,2002,40-44 years,Hispanic,White,25,1237717,2,0.985153901,0.999979802
+Male,2002,40-44 years,Non-Hispanic,Black or African American,50,1314793,3.8,0.970282076,0.999961971
+Male,2002,40-44 years,Non-Hispanic,White,193,8145366,2.4,0.982237995,0.999976306
+Male,2002,45-49 years,Hispanic,White,33,947013,3.5,0.972936431,0.999965154
+Male,2002,45-49 years,Non-Hispanic,Black or African American,48,1153639,4.2,0.967297197,0.999958393
+Male,2002,45-49 years,Non-Hispanic,White,314,7790205,4,0.968381864,0.999959693
+Male,2002,50-54 years,Hispanic,White,31,712570,4.4,0.965714933,0.999956496
+Male,2002,50-54 years,Non-Hispanic,Asian or Pacific Islander,20,357939,5.6,0.955396638,0.999944125
+Male,2002,50-54 years,Non-Hispanic,Black or African American,71,945720,7.5,0.939382705,0.999924925
+Male,2002,50-54 years,Non-Hispanic,White,449,7029627,6.4,0.948726475,0.999936127
+Male,2002,55-59 years,Hispanic,White,45,504047,8.9,0.927536911,0.999910723
+Male,2002,55-59 years,Non-Hispanic,Asian or Pacific Islander,18,259569,6.9,0.944161414,0.999930654
+Male,2002,55-59 years,Non-Hispanic,Black or African American,76,662769,11.5,0.906357219,0.99988533
+Male,2002,55-59 years,Non-Hispanic,White,678,5829156,11.6,0.904988132,0.999883688
+Male,2002,60-64 years ,Hispanic,White,62,360510,17.2,0.858557913,0.999828021
+Male,2002,60-64 years ,Non-Hispanic,Black or African American,83,497980,16.7,0.862982869,0.999833327
+Male,2002,60-64 years ,Non-Hispanic,White,848,4392732,19.3,0.840985985,0.999806954
+Male,2002,65-69 years,Hispanic,White,69,274793,25.1,0.792566307,0.999748902
+Male,2002,65-69 years,Non-Hispanic,Asian or Pacific Islander,21,148629,14.1,0.884153323,0.999858709
+Male,2002,65-69 years,Non-Hispanic,Black or African American,91,396851,22.9,0.810743215,0.999770695
+Male,2002,65-69 years,Non-Hispanic,White,1143,3612039,31.6,0.738064791,0.999683558
+Male,2002,70-74 years,Hispanic,White,66,213253,30.9,0.743861798,0.999690508
+Male,2002,70-74 years,Non-Hispanic,Asian or Pacific Islander,18,110128,16.3,0.865674586,0.999836554
+Male,2002,70-74 years,Non-Hispanic,Black or African American,102,299173,34.1,0.717631546,0.99965906
+Male,2002,70-74 years,Non-Hispanic,White,1457,3245383,44.9,0.627546768,0.999551055
+Male,2002,75-79 years,Hispanic,White,65,145722,44.6,0.62995779,0.999553945
+Male,2002,75-79 years,Non-Hispanic,Asian or Pacific Islander,31,79233,39.1,0.675668182,0.999608749
+Male,2002,75-79 years,Non-Hispanic,Black or African American,68,215637,31.5,0.738979768,0.999684655
+Male,2002,75-79 years,Non-Hispanic,White,1725,2642298,65.3,0.45748276,0.999347159
+Male,2002,80-84 years,Hispanic,White,45,79734,56.4,0.531268593,0.999435623
+Male,2002,80-84 years,Non-Hispanic,Asian or Pacific Islander,28,46885,59.7,0.503886431,0.999402794
+Male,2002,80-84 years,Non-Hispanic,Black or African American,54,124874,43.2,0.641316992,0.999567564
+Male,2002,80-84 years,Non-Hispanic,White,1562,1737127,89.9,0.252012548,0.999100814
+Male,2002,85+ years,Hispanic,White,36,50154,71.8,0.403310936,0.999282211
+Male,2002,85+ years,Non-Hispanic,Asian or Pacific Islander,17,30468,55.8,0.536618433,0.999442038
+Male,2002,85+ years,Non-Hispanic,Black or African American,40,81399,49.1,0.592131063,0.999508593
+Male,2002,85+ years,Non-Hispanic,White,1292,1122514,115.1,0.041990777,0.998849012
+Male,2003,15-19 years,Non-Hispanic,White,21,6710684,0.3,0.999390843,0.999996871
+Male,2003,20-24 years,Non-Hispanic,White,32,6365897,0.5,0.99780823,0.999994973
+Male,2003,25-29 years,Non-Hispanic,White,30,5670421,0.5,0.997588178,0.999994709
+Male,2003,30-34 years,Hispanic,White,18,1720790,1,0.993276262,0.99998954
+Male,2003,30-34 years,Non-Hispanic,Black or African American,24,1233902,1.9,0.985777778,0.99998055
+Male,2003,30-34 years,Non-Hispanic,White,58,6510373,0.9,0.994570289,0.999991091
+Male,2003,35-39 years,Hispanic,White,25,1516605,1.6,0.988251898,0.999983516
+Male,2003,35-39 years,Non-Hispanic,Black or African American,22,1273108,1.7,0.987587676,0.999982719
+Male,2003,35-39 years,Non-Hispanic,White,100,7086023,1.4,0.990230239,0.999985888
+Male,2003,40-44 years,Hispanic,White,31,1293969,2.4,0.982018764,0.999976043
+Male,2003,40-44 years,Non-Hispanic,Black or African American,41,1321512,3.1,0.976123713,0.999968975
+Male,2003,40-44 years,Non-Hispanic,White,171,8047754,2.1,0.984278384,0.999978752
+Male,2003,45-49 years,Hispanic,White,34,1002438,3.4,0.973711367,0.999966083
+Male,2003,45-49 years,Non-Hispanic,Black or African American,69,1196401,5.8,0.953897365,0.999942327
+Male,2003,45-49 years,Non-Hispanic,White,298,7903008,3.8,0.970550346,0.999962293
+Male,2003,50-54 years,Hispanic,White,31,750793,4.1,0.96756226,0.99995871
+Male,2003,50-54 years,Non-Hispanic,Black or African American,74,979716,7.6,0.939001518,0.999924468
+Male,2003,50-54 years,Non-Hispanic,White,440,7103502,6.2,0.950337276,0.999938059
+Male,2003,55-59 years,Hispanic,White,54,542151,10,0.918924371,0.999900397
+Male,2003,55-59 years,Non-Hispanic,Black or African American,55,706655,7.8,0.937083662,0.999922169
+Male,2003,55-59 years,Non-Hispanic,White,642,6048855,10.6,0.913475741,0.999893864
+Male,2003,60-64 years ,Hispanic,White,49,378606,12.9,0.894053176,0.999870578
+Male,2003,60-64 years ,Non-Hispanic,Asian or Pacific Islander,22,208541,10.5,0.914010339,0.999894505
+Male,2003,60-64 years ,Non-Hispanic,Black or African American,83,518313,16,0.868436435,0.999839865
+Male,2003,60-64 years ,Non-Hispanic,White,914,4647827,19.7,0.837979239,0.999803349
+Male,2003,65-69 years,Hispanic,White,58,288385,20.1,0.834251763,0.99979888
+Male,2003,65-69 years,Non-Hispanic,Asian or Pacific Islander,23,158426,14.5,0.880911452,0.999854822
+Male,2003,65-69 years,Non-Hispanic,Black or African American,70,406305,17.2,0.858302868,0.999827716
+Male,2003,65-69 years,Non-Hispanic,White,1103,3678909,30,0.75193097,0.999700183
+Male,2003,70-74 years,Hispanic,White,70,218432,32,0.73470839,0.999679534
+Male,2003,70-74 years,Non-Hispanic,Asian or Pacific Islander,31,115525,26.8,0.778185115,0.99973166
+Male,2003,70-74 years,Non-Hispanic,Black or African American,73,304832,23.9,0.802259867,0.999760524
+Male,2003,70-74 years,Non-Hispanic,White,1387,3206098,43.3,0.641169188,0.999567387
+Male,2003,75-79 years,Hispanic,White,65,153037,42.5,0.647741043,0.999575266
+Male,2003,75-79 years,Non-Hispanic,Asian or Pacific Islander,37,82398,44.9,0.627467903,0.99955096
+Male,2003,75-79 years,Non-Hispanic,Black or African American,62,217510,28.5,0.764252576,0.999714956
+Male,2003,75-79 years,Non-Hispanic,White,1710,2659091,64.3,0.465626602,0.999356923
+Male,2003,80-84 years,Hispanic,White,48,87122,55.1,0.54246606,0.999449048
+Male,2003,80-84 years,Non-Hispanic,Asian or Pacific Islander,22,50839,43.3,0.641064475,0.999567261
+Male,2003,80-84 years,Non-Hispanic,Black or African American,46,128770,35.7,0.704047631,0.999642774
+Male,2003,80-84 years,Non-Hispanic,White,1557,1773665,87.8,0.269813796,0.999122157
+Male,2003,85+ years,Hispanic,White,37,52905,69.9,0.418676615,0.999300633
+Male,2003,85+ years,Non-Hispanic,Asian or Pacific Islander,30,32350,92.7,0.228515661,0.999072643
+Male,2003,85+ years,Non-Hispanic,Black or African American,33,81395,40.5,0.663841675,0.99959457
+Male,2003,85+ years,Non-Hispanic,White,1394,1164437,119.7,0.003492223,0.998802855
+Male,2004,15-19 years,Non-Hispanic,White,22,6740595,0.3,0.999278686,0.999996736
+Male,2004,20-24 years,Non-Hispanic,White,30,6442997,0.5,0.998117311,0.999995344
+Male,2004,25-29 years,Hispanic,White,16,1877017,0.9,0.994891154,0.999991476
+Male,2004,25-29 years,Non-Hispanic,Black or African American,17,1184157,1.4,0.990026795,0.999985644
+Male,2004,25-29 years,Non-Hispanic,White,48,5742966,0.8,0.995029705,0.999991642
+Male,2004,30-34 years,Non-Hispanic,Black or African American,19,1222155,1.6,0.989034158,0.999984454
+Male,2004,30-34 years,Non-Hispanic,White,47,6301916,0.7,0.995780374,0.999992542
+Male,2004,35-39 years,Non-Hispanic,Black or African American,19,1248378,1.5,0.989306534,0.99998478
+Male,2004,35-39 years,Non-Hispanic,White,92,6874826,1.3,0.990839224,0.999986618
+Male,2004,40-44 years,Hispanic,White,43,1355739,3.2,0.975546574,0.999968283
+Male,2004,40-44 years,Non-Hispanic,Black or African American,31,1331998,2.3,0.982589262,0.999976727
+Male,2004,40-44 years,Non-Hispanic,White,156,7967035,2,0.985669187,0.999980419
+Male,2004,45-49 years,Hispanic,White,44,1057996,4.2,0.967313387,0.999958412
+Male,2004,45-49 years,Non-Hispanic,Black or African American,68,1231607,5.5,0.955949651,0.999944788
+Male,2004,45-49 years,Non-Hispanic,White,278,7963573,3.5,0.972884262,0.999965091
+Male,2004,50-54 years,Hispanic,White,54,793793,6.8,0.945260652,0.999931972
+Male,2004,50-54 years,Non-Hispanic,Black or African American,77,1017168,7.6,0.938861157,0.9999243
+Male,2004,50-54 years,Non-Hispanic,White,432,7226847,6,0.952142358,0.999940223
+Male,2004,55-59 years,Hispanic,White,48,582094,8.2,0.933222367,0.999917539
+Male,2004,55-59 years,Non-Hispanic,Asian or Pacific Islander,20,305748,6.5,0.947441311,0.999934587
+Male,2004,55-59 years,Non-Hispanic,Black or African American,75,758635,9.9,0.919542817,0.999901138
+Male,2004,55-59 years,Non-Hispanic,White,634,6312232,10,0.918226533,0.99989956
+Male,2004,60-64 years ,Hispanic,White,43,398462,10.8,0.911991802,0.999892085
+Male,2004,60-64 years ,Non-Hispanic,Asian or Pacific Islander,19,220479,8.6,0.930123695,0.999913824
+Male,2004,60-64 years ,Non-Hispanic,Black or African American,75,538700,13.9,0.885877645,0.999860776
+Male,2004,60-64 years ,Non-Hispanic,White,797,4835075,16.5,0.864514403,0.999835163
+Male,2004,65-69 years,Hispanic,White,58,301808,19.2,0.841712458,0.999807825
+Male,2004,65-69 years,Non-Hispanic,Asian or Pacific Islander,28,168873,16.6,0.863707086,0.999834195
+Male,2004,65-69 years,Non-Hispanic,Black or African American,80,415865,19.2,0.841549845,0.99980763
+Male,2004,65-69 years,Non-Hispanic,White,1054,3768546,28,0.76872397,0.999720317
+Male,2004,70-74 years,Hispanic,White,73,224401,32.5,0.730667608,0.99967469
+Male,2004,70-74 years,Non-Hispanic,Asian or Pacific Islander,31,121249,25.6,0.788751155,0.999744328
+Male,2004,70-74 years,Non-Hispanic,Black or African American,85,309884,27.4,0.773217362,0.999725704
+Male,2004,70-74 years,Non-Hispanic,White,1307,3166423,41.3,0.657720987,0.999587231
+Male,2004,75-79 years,Hispanic,White,76,160142,47.5,0.60616664,0.999525421
+Male,2004,75-79 years,Non-Hispanic,Asian or Pacific Islander,37,85675,43.2,0.641793491,0.999568135
+Male,2004,75-79 years,Non-Hispanic,Black or African American,69,218650,31.6,0.738789546,0.999684427
+Male,2004,75-79 years,Non-Hispanic,White,1593,2654873,60,0.501532027,0.999399971
+Male,2004,80-84 years,Hispanic,White,55,94629,58.1,0.517222251,0.999418783
+Male,2004,80-84 years,Non-Hispanic,Asian or Pacific Islander,30,54343,55.2,0.541550677,0.999447951
+Male,2004,80-84 years,Non-Hispanic,Black or African American,48,131758,36.4,0.698143887,0.999635696
+Male,2004,80-84 years,Non-Hispanic,White,1593,1818521,87.6,0.271362466,0.999124013
+Male,2004,85+ years,Hispanic,White,35,55683,62.9,0.477736381,0.999371442
+Male,2004,85+ years,Non-Hispanic,Asian or Pacific Islander,22,34689,63.4,0.473024924,0.999365793
+Male,2004,85+ years,Non-Hispanic,Black or African American,42,82755,50.8,0.578689381,0.999492478
+Male,2004,85+ years,Non-Hispanic,White,1339,1198709,111.7,0.070309953,0.998882965
+Male,2005,10-14 years,Non-Hispanic,White,20,6494254,0.3,0.999432291,0.99999692
+Male,2005,15-19 years,Non-Hispanic,White,26,6771121,0.4,0.998798234,0.99999616
+Male,2005,20-24 years,Non-Hispanic,White,28,6473970,0.4,0.998393561,0.999995675
+Male,2005,25-29 years,Non-Hispanic,White,27,5827287,0.5,0.998136365,0.999995367
+Male,2005,30-34 years,Non-Hispanic,Black or African American,25,1193351,2.1,0.984527567,0.999979051
+Male,2005,30-34 years,Non-Hispanic,White,41,6049363,0.7,0.996347942,0.999993222
+Male,2005,35-39 years,Non-Hispanic,Black or African American,21,1236133,1.7,0.987831294,0.999983012
+Male,2005,35-39 years,Non-Hispanic,White,78,6766635,1.2,0.992386441,0.999988473
+Male,2005,40-44 years,Hispanic,White,27,1403490,1.9,0.985955214,0.999980762
+Male,2005,40-44 years,Non-Hispanic,Black or African American,39,1326103,2.9,0.977471235,0.999970591
+Male,2005,40-44 years,Non-Hispanic,White,174,7787001,2.2,0.983363598,0.999977655
+Male,2005,45-49 years,Hispanic,White,37,1123047,3.3,0.974521443,0.999967054
+Male,2005,45-49 years,Non-Hispanic,Black or African American,57,1265096,4.5,0.964420973,0.999954944
+Male,2005,45-49 years,Non-Hispanic,White,242,8010767,3,0.97680409,0.999969791
+Male,2005,50-54 years,Hispanic,White,33,841456,3.9,0.969290413,0.999960782
+Male,2005,50-54 years,Non-Hispanic,Asian or Pacific Islander,17,404790,4.2,0.966972229,0.999958003
+Male,2005,50-54 years,Non-Hispanic,Black or African American,86,1051894,8.2,0.933809239,0.999918243
+Male,2005,50-54 years,Non-Hispanic,White,420,7371529,5.7,0.954478717,0.999943024
+Male,2005,55-59 years,Hispanic,White,45,627437,7.2,0.942180799,0.99992828
+Male,2005,55-59 years,Non-Hispanic,Asian or Pacific Islander,19,333321,5.7,0.954456914,0.999942998
+Male,2005,55-59 years,Non-Hispanic,Black or African American,83,819551,10.1,0.917530032,0.999898725
+Male,2005,55-59 years,Non-Hispanic,White,662,6601700,10,0.918362243,0.999899723
+Male,2005,60-64 years ,Hispanic,White,53,422192,12.6,0.897295094,0.999874465
+Male,2005,60-64 years ,Non-Hispanic,Asian or Pacific Islander,19,232161,8.2,0.933740453,0.99991816
+Male,2005,60-64 years ,Non-Hispanic,Black or African American,80,555743,14.4,0.881934661,0.999856049
+Male,2005,60-64 years ,Non-Hispanic,White,768,4992785,15.4,0.873701896,0.999846178
+Male,2005,65-69 years,Hispanic,White,59,314429,18.8,0.84549368,0.999812358
+Male,2005,65-69 years,Non-Hispanic,Asian or Pacific Islander,21,180254,11.7,0.90482932,0.999883498
+Male,2005,65-69 years,Non-Hispanic,Black or African American,74,426159,17.4,0.857168741,0.999826356
+Male,2005,65-69 years,Non-Hispanic,White,993,3834874,25.9,0.786026069,0.999741061
+Male,2005,70-74 years,Hispanic,White,80,232373,34.4,0.714850557,0.999655726
+Male,2005,70-74 years,Non-Hispanic,Asian or Pacific Islander,28,127855,21.9,0.819340127,0.999781002
+Male,2005,70-74 years,Non-Hispanic,Black or African American,91,316364,28.8,0.762084831,0.999712357
+Male,2005,70-74 years,Non-Hispanic,White,1317,3161508,41.7,0.654547538,0.999583427
+Male,2005,75-79 years,Hispanic,White,88,169101,52,0.567949125,0.999479601
+Male,2005,75-79 years,Non-Hispanic,Asian or Pacific Islander,29,90088,32.2,0.733505986,0.999678093
+Male,2005,75-79 years,Non-Hispanic,Black or African American,58,221852,26.1,0.783944097,0.999738564
+Male,2005,75-79 years,Non-Hispanic,White,1660,2659183,62.4,0.481328077,0.999375748
+Male,2005,80-84 years,Hispanic,White,67,100729,66.5,0.447215108,0.999334849
+Male,2005,80-84 years,Non-Hispanic,Asian or Pacific Islander,31,57483,53.9,0.552192761,0.99946071
+Male,2005,80-84 years,Non-Hispanic,Black or African American,53,134003,39.6,0.672113009,0.999604486
+Male,2005,80-84 years,Non-Hispanic,White,1560,1850819,84.3,0.298984095,0.99915713
+Male,2005,85+ years,Hispanic,White,42,60112,69.9,0.419236298,0.999301304
+Male,2005,85+ years,Non-Hispanic,Asian or Pacific Islander,21,37796,55.6,0.538576926,0.999444386
+Male,2005,85+ years,Non-Hispanic,Black or African American,43,86185,49.9,0.585858653,0.999501073
+Male,2005,85+ years,Non-Hispanic,White,1503,1251111,120.1,-2.13E-07,0.998798668
+Male,2006,15-19 years,Non-Hispanic,White,19,6778950,0.3,0.999663206,0.999997197
+Male,2006,20-24 years,Hispanic,White,16,1953823,0.8,0.995170645,0.999991811
+Male,2006,20-24 years,Non-Hispanic,White,27,6486116,0.4,0.99852891,0.999995837
+Male,2006,25-29 years,Non-Hispanic,White,36,5985199,0.6,0.99698412,0.999993985
+Male,2006,30-34 years,Non-Hispanic,White,42,5814538,0.7,0.995976194,0.999992777
+Male,2006,35-39 years,Non-Hispanic,Black or African American,28,1244414,2.3,0.9832338,0.999977499
+Male,2006,35-39 years,Non-Hispanic,White,59,6746582,0.9,0.994706819,0.999991255
+Male,2006,40-44 years,Hispanic,White,28,1454639,1.9,0.985946035,0.999980751
+Male,2006,40-44 years,Non-Hispanic,Black or African American,46,1324308,3.5,0.97302925,0.999965265
+Male,2006,40-44 years,Non-Hispanic,White,134,7533774,1.8,0.987165613,0.999982213
+Male,2006,45-49 years,Hispanic,White,31,1180935,2.6,0.980106156,0.99997375
+Male,2006,45-49 years,Non-Hispanic,Black or African American,77,1293433,6,0.952347216,0.999940469
+Male,2006,45-49 years,Non-Hispanic,White,237,8057712,2.9,0.977468452,0.999970587
+Male,2006,50-54 years,Hispanic,White,39,890533,4.4,0.965473469,0.999956206
+Male,2006,50-54 years,Non-Hispanic,Black or African American,75,1093251,6.9,0.944781129,0.999931397
+Male,2006,50-54 years,Non-Hispanic,White,432,7501275,5.8,0.953966394,0.99994241
+Male,2006,55-59 years,Hispanic,White,62,670515,9.2,0.924877171,0.999907534
+Male,2006,55-59 years,Non-Hispanic,Black or African American,103,881087,11.7,0.904496702,0.999883099
+Male,2006,55-59 years,Non-Hispanic,White,596,6899410,8.6,0.929950049,0.999913616
+Male,2006,60-64 years ,Hispanic,White,61,449202,13.6,0.888736595,0.999864204
+Male,2006,60-64 years ,Non-Hispanic,Asian or Pacific Islander,23,245996,9.3,0.924017059,0.999906503
+Male,2006,60-64 years ,Non-Hispanic,Black or African American,91,576788,15.8,0.870408711,0.99984223
+Male,2006,60-64 years ,Non-Hispanic,White,839,5126008,16.4,0.865483622,0.999836325
+Male,2006,65-69 years,Hispanic,White,61,327785,18.6,0.846781601,0.999813902
+Male,2006,65-69 years,Non-Hispanic,Asian or Pacific Islander,33,190415,17.3,0.857451021,0.999826694
+Male,2006,65-69 years,Non-Hispanic,Black or African American,85,436847,19.5,0.839709864,0.999805424
+Male,2006,65-69 years,Non-Hispanic,White,967,3934936,24.6,0.797029254,0.999754253
+Male,2006,70-74 years,Hispanic,White,72,240781,29.9,0.752590081,0.999700973
+Male,2006,70-74 years,Non-Hispanic,Asian or Pacific Islander,27,135807,19.9,0.83617721,0.999801188
+Male,2006,70-74 years,Non-Hispanic,Black or African American,76,325778,23.3,0.807421516,0.999766712
+Male,2006,70-74 years,Non-Hispanic,White,1242,3170180,39.2,0.675230508,0.999608224
+Male,2006,75-79 years,Hispanic,White,78,176376,44.2,0.633142103,0.999557763
+Male,2006,75-79 years,Non-Hispanic,Asian or Pacific Islander,30,94203,31.8,0.736380435,0.999681539
+Male,2006,75-79 years,Non-Hispanic,Black or African American,67,223131,30,0.751551557,0.999699728
+Male,2006,75-79 years,Non-Hispanic,White,1605,2660963,60.3,0.498916041,0.999396835
+Male,2006,80-84 years,Hispanic,White,71,106846,66.5,0.447751629,0.999335492
+Male,2006,80-84 years,Non-Hispanic,Asian or Pacific Islander,28,59957,46.7,0.61248681,0.999532999
+Male,2006,80-84 years,Non-Hispanic,Black or African American,51,137456,37.1,0.69253593,0.999628972
+Male,2006,80-84 years,Non-Hispanic,White,1602,1867035,85.8,0.286327113,0.999141955
+Male,2006,85+ years,Hispanic,White,48,64826,74,0.384415435,0.999259556
+Male,2006,85+ years,Non-Hispanic,Asian or Pacific Islander,30,40723,73.7,0.387550907,0.999263316
+Male,2006,85+ years,Non-Hispanic,Black or African American,47,89393,52.6,0.563470822,0.999474232
+Male,2006,85+ years,Non-Hispanic,White,1381,1314924,105,0.126013036,0.998949749
+Male,2007,15-19 years,Non-Hispanic,White,18,6758697,0.3,0.999779608,0.999997337
+Male,2007,20-24 years,Non-Hispanic,White,30,6463110,0.5,0.998129397,0.999995358
+Male,2007,25-29 years,Non-Hispanic,Black or African American,16,1295064,1.2,0.991696282,0.999987645
+Male,2007,25-29 years,Non-Hispanic,White,34,6099267,0.6,0.997351445,0.999994426
+Male,2007,30-34 years,Non-Hispanic,White,44,5717378,0.8,0.995582042,0.999992304
+Male,2007,35-39 years,Non-Hispanic,Black or African American,17,1253650,1.4,0.990690553,0.99998644
+Male,2007,35-39 years,Non-Hispanic,White,80,6656647,1.2,0.991976981,0.999987982
+Male,2007,40-44 years,Hispanic,White,30,1490364,2,0.985211592,0.999979871
+Male,2007,40-44 years,Non-Hispanic,Black or African American,50,1305269,3.8,0.970050637,0.999961694
+Male,2007,40-44 years,Non-Hispanic,White,134,7269822,1.8,0.986626973,0.999981568
+Male,2007,45-49 years,Hispanic,White,45,1238719,3.6,0.971700794,0.999963672
+Male,2007,45-49 years,Non-Hispanic,Black or African American,51,1307530,3.9,0.969467984,0.999960995
+Male,2007,45-49 years,Non-Hispanic,White,241,8009745,3,0.976905008,0.999969912
+Male,2007,50-54 years,Hispanic,White,43,945674,4.5,0.964075378,0.99995453
+Male,2007,50-54 years,Non-Hispanic,Asian or Pacific Islander,17,443264,3.8,0.970012617,0.999961648
+Male,2007,50-54 years,Non-Hispanic,Black or African American,72,1144327,6.3,0.949521718,0.999937081
+Male,2007,50-54 years,Non-Hispanic,White,394,7646011,5.2,0.959020948,0.99994847
+Male,2007,55-59 years,Hispanic,White,50,702607,7.1,0.94264522,0.999928836
+Male,2007,55-59 years,Non-Hispanic,Asian or Pacific Islander,26,370187,7,0.94341988,0.999929765
+Male,2007,55-59 years,Non-Hispanic,Black or African American,93,912345,10.2,0.916979412,0.999898065
+Male,2007,55-59 years,Non-Hispanic,White,641,6836492,9.4,0.923796795,0.999906238
+Male,2007,60-64 years ,Hispanic,White,64,486414,13.2,0.892257399,0.999868425
+Male,2007,60-64 years ,Non-Hispanic,Asian or Pacific Islander,20,265930,7.5,0.939272035,0.999924792
+Male,2007,60-64 years ,Non-Hispanic,Black or African American,81,620088,13.1,0.893048552,0.999869373
+Male,2007,60-64 years ,Non-Hispanic,White,806,5577559,14.5,0.881470724,0.999855492
+Male,2007,65-69 years,Hispanic,White,64,342640,18.7,0.846208284,0.999813215
+Male,2007,65-69 years,Non-Hispanic,Asian or Pacific Islander,20,200883,10,0.918960075,0.99990044
+Male,2007,65-69 years,Non-Hispanic,Black or African American,93,450394,20.6,0.829776245,0.999793514
+Male,2007,65-69 years,Non-Hispanic,White,1026,4094374,25.1,0.792991971,0.999749412
+Male,2007,70-74 years,Hispanic,White,83,250097,33.2,0.725195458,0.999668129
+Male,2007,70-74 years,Non-Hispanic,Asian or Pacific Islander,36,144423,24.9,0.794092934,0.999750732
+Male,2007,70-74 years,Non-Hispanic,Black or African American,83,332403,25,0.793735009,0.999750303
+Male,2007,70-74 years,Non-Hispanic,White,1206,3192454,37.8,0.686915934,0.999622234
+Male,2007,75-79 years,Hispanic,White,78,182828,42.7,0.646159131,0.99957337
+Male,2007,75-79 years,Non-Hispanic,Asian or Pacific Islander,40,98269,40.7,0.662494096,0.999592954
+Male,2007,75-79 years,Non-Hispanic,Black or African American,63,225410,27.9,0.768884745,0.999720509
+Male,2007,75-79 years,Non-Hispanic,White,1550,2644310,58.6,0.513096016,0.999413836
+Male,2007,80-84 years,Hispanic,White,83,112448,73.8,0.386354406,0.999261881
+Male,2007,80-84 years,Non-Hispanic,Asian or Pacific Islander,46,62307,73.8,0.386220241,0.99926172
+Male,2007,80-84 years,Non-Hispanic,Black or African American,49,139898,35,0.709861864,0.999649745
+Male,2007,80-84 years,Non-Hispanic,White,1567,1889101,82.9,0.310139859,0.999170505
+Male,2007,85+ years,Hispanic,White,52,70638,73.6,0.387998593,0.999263852
+Male,2007,85+ years,Non-Hispanic,Asian or Pacific Islander,31,44171,70.2,0.416632176,0.999298182
+Male,2007,85+ years,Non-Hispanic,Black or African American,43,93512,46,0.618464892,0.999540166
+Male,2007,85+ years,Non-Hispanic,White,1498,1375706,108.9,0.093780514,0.998911105
+Male,2008,15-19 years,Non-Hispanic,White,25,6703549,0.4,0.998890373,0.999996271
+Male,2008,20-24 years,Non-Hispanic,White,29,6437802,0.5,0.998243736,0.999995495
+Male,2008,25-29 years,Non-Hispanic,Black or African American,16,1326472,1.2,0.991940274,0.999987938
+Male,2008,25-29 years,Non-Hispanic,White,26,6206788,0.4,0.998507037,0.999995811
+Male,2008,30-34 years,Hispanic,White,25,1875848,1.3,0.990884974,0.999986673
+Male,2008,30-34 years,Non-Hispanic,Black or African American,18,1175694,1.5,0.98923117,0.99998469
+Male,2008,30-34 years,Non-Hispanic,White,50,5730780,0.9,0.994723795,0.999991275
+Male,2008,35-39 years,Non-Hispanic,Black or African American,18,1253548,1.4,0.990024261,0.999985641
+Male,2008,35-39 years,Non-Hispanic,White,83,6502195,1.3,0.991354046,0.999987235
+Male,2008,40-44 years,Hispanic,White,30,1533746,2,0.985686479,0.99998044
+Male,2008,40-44 years,Non-Hispanic,Black or African American,31,1286275,2.4,0.981899238,0.999975899
+Male,2008,40-44 years,Non-Hispanic,White,108,7012379,1.5,0.989155078,0.999984599
+Male,2008,45-49 years,Hispanic,White,32,1294419,2.5,0.981381348,0.999975278
+Male,2008,45-49 years,Non-Hispanic,Black or African American,43,1318543,3.3,0.974800298,0.999967388
+Male,2008,45-49 years,Non-Hispanic,White,241,7922300,3,0.976628003,0.99996958
+Male,2008,50-54 years,Hispanic,White,36,1000606,3.6,0.971992432,0.999964022
+Male,2008,50-54 years,Non-Hispanic,Black or African American,86,1191230,7.2,0.941785499,0.999927806
+Male,2008,50-54 years,Non-Hispanic,White,365,7768660,4.7,0.96281306,0.999953016
+Male,2008,55-59 years,Hispanic,White,52,738356,7,0.943259772,0.999929573
+Male,2008,55-59 years,Non-Hispanic,Asian or Pacific Islander,22,385936,5.7,0.954455111,0.999942996
+Male,2008,55-59 years,Non-Hispanic,Black or African American,95,945305,10,0.918179193,0.999899503
+Male,2008,55-59 years,Non-Hispanic,White,608,6912178,8.8,0.92863513,0.999912039
+Male,2008,60-64 years ,Hispanic,White,71,522456,13.6,0.888652984,0.999864103
+Male,2008,60-64 years ,Non-Hispanic,Asian or Pacific Islander,23,288134,8,0.93542177,0.999920176
+Male,2008,60-64 years ,Non-Hispanic,Black or African American,85,661596,12.8,0.894841332,0.999871523
+Male,2008,60-64 years ,Non-Hispanic,White,815,5798959,14.1,0.884777993,0.999859458
+Male,2008,65-69 years,Hispanic,White,69,360106,19.2,0.842183635,0.99980839
+Male,2008,65-69 years,Non-Hispanic,Asian or Pacific Islander,29,211182,13.7,0.887463845,0.999862678
+Male,2008,65-69 years,Non-Hispanic,Black or African American,80,470048,17,0.860045237,0.999829805
+Male,2008,65-69 years,Non-Hispanic,White,1004,4343891,23.1,0.809221876,0.999768871
+Male,2008,70-74 years,Hispanic,White,76,262808,28.9,0.760799394,0.999710816
+Male,2008,70-74 years,Non-Hispanic,Asian or Pacific Islander,37,153529,24.1,0.800991536,0.999759003
+Male,2008,70-74 years,Non-Hispanic,Black or African American,80,339526,23.6,0.805474031,0.999764377
+Male,2008,70-74 years,Non-Hispanic,White,1165,3258445,35.8,0.703792035,0.999642467
+Male,2008,75-79 years,Hispanic,White,80,187755,42.6,0.646612289,0.999573913
+Male,2008,75-79 years,Non-Hispanic,Asian or Pacific Islander,32,103092,31,0.743102109,0.999689598
+Male,2008,75-79 years,Non-Hispanic,Black or African American,65,229456,28.3,0.765725265,0.999716721
+Male,2008,75-79 years,Non-Hispanic,White,1550,2621354,59.1,0.508814525,0.999408703
+Male,2008,80-84 years,Hispanic,White,74,118530,62.4,0.481275835,0.999375685
+Male,2008,80-84 years,Non-Hispanic,Asian or Pacific Islander,42,64846,64.8,0.461780292,0.999352312
+Male,2008,80-84 years,Non-Hispanic,Black or African American,53,141976,37.3,0.690638651,0.999626697
+Male,2008,80-84 years,Non-Hispanic,White,1599,1912216,83.6,0.304545288,0.999163797
+Male,2008,85+ years,Hispanic,White,58,77067,75.3,0.374282883,0.999247408
+Male,2008,85+ years,Non-Hispanic,Asian or Pacific Islander,29,47744,60.7,0.495378669,0.999392594
+Male,2008,85+ years,Non-Hispanic,Black or African American,37,98066,37.7,0.687307028,0.999622703
+Male,2008,85+ years,Non-Hispanic,White,1633,1430093,114.2,0.049584272,0.998858116
+Male,2009,20-24 years,Non-Hispanic,White,28,6433946,0.4,0.998371121,0.999995648
+Male,2009,25-29 years,Hispanic,White,20,2038899,1,0.993819325,0.999990191
+Male,2009,25-29 years,Non-Hispanic,White,31,6261404,0.5,0.997871469,0.999995049
+Male,2009,30-34 years,Non-Hispanic,White,48,5813404,0.8,0.995114172,0.999991743
+Male,2009,35-39 years,Hispanic,White,29,1773991,1.6,0.988366055,0.999983653
+Male,2009,35-39 years,Non-Hispanic,Black or African American,28,1244299,2.3,0.983232066,0.999977497
+Male,2009,35-39 years,Non-Hispanic,White,48,6289417,0.8,0.995635396,0.999992368
+Male,2009,40-44 years,Hispanic,White,29,1567839,1.8,0.98657323,0.999981503
+Male,2009,40-44 years,Non-Hispanic,Black or African American,33,1262389,2.6,0.980197465,0.999973859
+Male,2009,40-44 years,Non-Hispanic,White,112,6795053,1.6,0.988253239,0.999983517
+Male,2009,45-49 years,Hispanic,White,40,1353948,3,0.977359676,0.999970457
+Male,2009,45-49 years,Non-Hispanic,Black or African American,48,1330207,3.6,0.971903677,0.999963915
+Male,2009,45-49 years,Non-Hispanic,White,211,7842499,2.7,0.979560418,0.999973095
+Male,2009,50-54 years,Hispanic,White,53,1054398,5,0.960075626,0.999949734
+Male,2009,50-54 years,Non-Hispanic,Black or African American,73,1229480,5.9,0.952477999,0.999940625
+Male,2009,50-54 years,Non-Hispanic,White,413,7835991,5.3,0.958040589,0.999947294
+Male,2009,55-59 years,Hispanic,White,65,778288,8.4,0.932341806,0.999916483
+Male,2009,55-59 years,Non-Hispanic,Asian or Pacific Islander,19,400634,4.7,0.962445081,0.999952575
+Male,2009,55-59 years,Non-Hispanic,Black or African American,115,981716,11.7,0.904295886,0.999882858
+Male,2009,55-59 years,Non-Hispanic,White,576,7035214,8.2,0.933712024,0.999918126
+Male,2009,60-64 years ,Hispanic,White,82,560475,14.6,0.879972047,0.999853696
+Male,2009,60-64 years ,Non-Hispanic,Asian or Pacific Islander,25,311182,8,0.934992333,0.999919661
+Male,2009,60-64 years ,Non-Hispanic,Black or African American,91,710808,12.8,0.8952199,0.999871977
+Male,2009,60-64 years ,Non-Hispanic,White,849,6059620,14,0.885140541,0.999859892
+Male,2009,65-69 years,Hispanic,White,65,379365,17.1,0.859091419,0.999828661
+Male,2009,65-69 years,Non-Hispanic,Asian or Pacific Islander,40,222645,18,0.852152539,0.999820342
+Male,2009,65-69 years,Non-Hispanic,Black or African American,85,489532,17.4,0.85717615,0.999826365
+Male,2009,65-69 years,Non-Hispanic,White,1048,4527727,23.1,0.808943687,0.999768537
+Male,2009,70-74 years,Hispanic,White,81,275434,29.4,0.756715062,0.999705919
+Male,2009,70-74 years,Non-Hispanic,Asian or Pacific Islander,25,163075,15.3,0.874134172,0.999846696
+Male,2009,70-74 years,Non-Hispanic,Black or African American,83,346696,23.9,0.802321047,0.999760597
+Male,2009,70-74 years,Non-Hispanic,White,1203,3344922,36,0.702026183,0.99964035
+Male,2009,75-79 years,Hispanic,White,83,193663,42.9,0.644533479,0.99957142
+Male,2009,75-79 years,Non-Hispanic,Asian or Pacific Islander,36,108258,33.3,0.724638545,0.999667461
+Male,2009,75-79 years,Non-Hispanic,Black or African American,78,232999,33.5,0.722781519,0.999665235
+Male,2009,75-79 years,Non-Hispanic,White,1502,2597514,57.8,0.519701102,0.999421755
+Male,2009,80-84 years,Hispanic,White,87,124837,69.7,0.420726789,0.999303091
+Male,2009,80-84 years,Non-Hispanic,Asian or Pacific Islander,25,67372,37.1,0.692497382,0.999628926
+Male,2009,80-84 years,Non-Hispanic,Black or African American,67,143759,46.6,0.613273822,0.999533942
+Male,2009,80-84 years,Non-Hispanic,White,1589,1921140,82.7,0.312126642,0.999172887
+Male,2009,85+ years,Hispanic,White,68,83948,81,0.326379161,0.999189975
+Male,2009,85+ years,Non-Hispanic,Asian or Pacific Islander,47,51201,91.8,0.236361147,0.999082049
+Male,2009,85+ years,Non-Hispanic,Black or African American,59,103138,57.2,0.524869113,0.999427951
+Male,2009,85+ years,Non-Hispanic,White,1627,1486335,109.5,0.088990105,0.998905361
+Male,2010,15-19 years,Non-Hispanic,White,16,6469102,0.2,0.999938032,0.999997527
+Male,2010,20-24 years,Non-Hispanic,White,22,6455524,0.3,0.999158473,0.999996592
+Male,2010,25-29 years,Non-Hispanic,Black or African American,16,1347518,1.2,0.992097405,0.999988126
+Male,2010,25-29 years,Non-Hispanic,White,29,6290290,0.5,0.998155626,0.99999539
+Male,2010,30-34 years,Non-Hispanic,Black or African American,17,1255200,1.4,0.990704519,0.999986456
+Male,2010,30-34 years,Non-Hispanic,White,41,5920819,0.7,0.996225212,0.999993075
+Male,2010,35-39 years,Non-Hispanic,Black or African American,27,1223123,2.2,0.983589041,0.999977925
+Male,2010,35-39 years,Non-Hispanic,White,56,6050574,0.9,0.994281315,0.999990745
+Male,2010,40-44 years,Hispanic,White,29,1612846,1.8,0.987003746,0.999982019
+Male,2010,40-44 years,Non-Hispanic,Black or African American,34,1256002,2.7,0.979422519,0.99997293
+Male,2010,40-44 years,Non-Hispanic,White,102,6695258,1.5,0.989294095,0.999984765
+Male,2010,45-49 years,Hispanic,White,40,1397873,2.9,0.978133972,0.999971385
+Male,2010,45-49 years,Non-Hispanic,Black or African American,51,1328720,3.8,0.96998681,0.999961617
+Male,2010,45-49 years,Non-Hispanic,White,212,7670400,2.8,0.978948186,0.999972361
+Male,2010,50-54 years,Hispanic,White,54,1114428,4.8,0.961585551,0.999951545
+Male,2010,50-54 years,Non-Hispanic,Black or African American,93,1265880,7.3,0.940724228,0.999926533
+Male,2010,50-54 years,Non-Hispanic,White,386,7888767,4.9,0.96118938,0.99995107
+Male,2010,55-59 years,Hispanic,White,60,823891,7.3,0.941259297,0.999927175
+Male,2010,55-59 years,Non-Hispanic,Asian or Pacific Islander,26,415181,6.3,0.949768428,0.999937377
+Male,2010,55-59 years,Non-Hispanic,Black or African American,93,1018605,9.1,0.925848785,0.999908699
+Male,2010,55-59 years,Non-Hispanic,White,597,7182344,8.3,0.932672221,0.99991688
+Male,2010,60-64 years ,Hispanic,White,84,601933,14,0.885605438,0.99986045
+Male,2010,60-64 years ,Non-Hispanic,Asian or Pacific Islander,32,337954,9.5,0.92302452,0.999905313
+Male,2010,60-64 years ,Non-Hispanic,Black or African American,113,768776,14.7,0.879402853,0.999853013
+Male,2010,60-64 years ,Non-Hispanic,White,847,6340873,13.4,0.890587029,0.999866422
+Male,2010,65-69 years,Hispanic,White,48,401883,11.9,0.902380911,0.999880562
+Male,2010,65-69 years,Non-Hispanic,Asian or Pacific Islander,36,233620,15.4,0.873473,0.999845904
+Male,2010,65-69 years,Non-Hispanic,Black or African American,80,507303,15.8,0.870470091,0.999842303
+Male,2010,65-69 years,Non-Hispanic,White,1070,4682904,22.8,0.811422576,0.999771509
+Male,2010,70-74 years,Hispanic,White,95,287007,33.1,0.725920148,0.999668998
+Male,2010,70-74 years,Non-Hispanic,Asian or Pacific Islander,28,173044,16.2,0.867040479,0.999838191
+Male,2010,70-74 years,Non-Hispanic,Black or African American,81,356234,22.7,0.81235012,0.999772621
+Male,2010,70-74 years,Non-Hispanic,White,1185,3410697,34.7,0.712213013,0.999652564
+Male,2010,75-79 years,Hispanic,White,100,201346,49.7,0.587751363,0.999503343
+Male,2010,75-79 years,Non-Hispanic,Asian or Pacific Islander,40,114041,35.1,0.70944828,0.999649249
+Male,2010,75-79 years,Non-Hispanic,Black or African American,79,239362,33,0.72671948,0.999669956
+Male,2010,75-79 years,Non-Hispanic,White,1370,2603618,52.6,0.563118321,0.999473809
+Male,2010,80-84 years,Hispanic,White,68,132874,51.2,0.57515222,0.999488237
+Male,2010,80-84 years,Non-Hispanic,Asian or Pacific Islander,27,71263,37.9,0.685988091,0.999621122
+Male,2010,80-84 years,Non-Hispanic,Black or African American,61,147615,41.3,0.657330195,0.999586763
+Male,2010,80-84 years,Non-Hispanic,White,1505,1937713,77.7,0.354184256,0.999223311
+Male,2010,85+ years,Hispanic,White,66,90809,72.7,0.395795089,0.9992732
+Male,2010,85+ years,Non-Hispanic,Asian or Pacific Islander,42,55067,76.3,0.365845925,0.999237293
+Male,2010,85+ years,Non-Hispanic,Black or African American,48,108729,44.1,0.63378641,0.999558535
+Male,2010,85+ years,Non-Hispanic,White,1741,1544167,112.7,0.061607508,0.998872531
+Male,2011,20-24 years,Non-Hispanic,White,24,6534915,0.4,0.998937739,0.999996327
+Male,2011,25-29 years,Non-Hispanic,Black or African American,17,1371540,1.2,0.991662732,0.999987605
+Male,2011,25-29 years,Non-Hispanic,White,31,6310864,0.5,0.997903833,0.999995088
+Male,2011,30-34 years,Non-Hispanic,Black or African American,19,1289924,1.5,0.989715397,0.99998527
+Male,2011,30-34 years,Non-Hispanic,White,35,6048888,0.6,0.997174832,0.999994214
+Male,2011,35-39 years,Hispanic,White,17,1813569,0.9,0.994182509,0.999990626
+Male,2011,35-39 years,Non-Hispanic,Black or African American,21,1196995,1.8,0.987367991,0.999982456
+Male,2011,35-39 years,Non-Hispanic,White,66,5809750,1.1,0.992525676,0.99998864
+Male,2011,40-44 years,Hispanic,White,21,1652952,1.3,0.991404404,0.999987295
+Male,2011,40-44 years,Non-Hispanic,Black or African American,28,1259262,2.2,0.983455084,0.999977765
+Male,2011,40-44 years,Non-Hispanic,White,117,6680223,1.8,0.987392635,0.999982486
+Male,2011,45-49 years,Hispanic,White,31,1441056,2.2,0.984058323,0.999978488
+Male,2011,45-49 years,Non-Hispanic,Black or African American,53,1315238,4,0.968390319,0.999959703
+Male,2011,45-49 years,Non-Hispanic,White,205,7399479,2.8,0.978893188,0.999972295
+Male,2011,50-54 years,Hispanic,White,58,1162990,5,0.960404416,0.999950129
+Male,2011,50-54 years,Non-Hispanic,Black or African American,82,1282276,6.4,0.94866286,0.999936051
+Male,2011,50-54 years,Non-Hispanic,White,335,7914063,4.2,0.966694794,0.99995767
+Male,2011,55-59 years,Hispanic,White,61,870080,7,0.943525205,0.999929892
+Male,2011,55-59 years,Non-Hispanic,Asian or Pacific Islander,22,435403,5.1,0.959856888,0.999949472
+Male,2011,55-59 years,Non-Hispanic,Black or African American,66,1055712,6.3,0.949857039,0.999937483
+Male,2011,55-59 years,Non-Hispanic,White,613,7297282,8.4,0.931935413,0.999915996
+Male,2011,60-64 years ,Hispanic,White,74,640796,11.5,0.905680826,0.999884519
+Male,2011,60-64 years ,Non-Hispanic,Asian or Pacific Islander,21,357752,5.9,0.953040844,0.9999413
+Male,2011,60-64 years ,Non-Hispanic,Black or African American,117,820948,14.3,0.883130115,0.999857482
+Male,2011,60-64 years ,Non-Hispanic,White,906,6607497,13.7,0.88763511,0.999862883
+Male,2011,65-69 years,Hispanic,White,87,426809,20.4,0.831984564,0.999796162
+Male,2011,65-69 years,Non-Hispanic,Asian or Pacific Islander,30,247261,12.1,0.900803228,0.999878671
+Male,2011,65-69 years,Non-Hispanic,Black or African American,89,524819,17,0.860556616,0.999830418
+Male,2011,65-69 years,Non-Hispanic,White,1046,4801044,21.8,0.820281634,0.999782131
+Male,2011,70-74 years,Hispanic,White,83,298640,27.8,0.770189326,0.999722073
+Male,2011,70-74 years,Non-Hispanic,Asian or Pacific Islander,42,182942,23,0.810513215,0.999770419
+Male,2011,70-74 years,Non-Hispanic,Black or African American,90,366565,24.6,0.797216673,0.999754477
+Male,2011,70-74 years,Non-Hispanic,White,1222,3506619,34.8,0.711339312,0.999651516
+Male,2011,75-79 years,Hispanic,White,99,209372,47.3,0.607614774,0.999527157
+Male,2011,75-79 years,Non-Hispanic,Asian or Pacific Islander,48,121932,39.4,0.673657293,0.999606338
+Male,2011,75-79 years,Non-Hispanic,Black or African American,86,249246,34.5,0.714211184,0.999654959
+Male,2011,75-79 years,Non-Hispanic,White,1449,2621826,55.3,0.541034191,0.999447332
+Male,2011,80-84 years,Hispanic,White,94,140276,67,0.443081054,0.999329892
+Male,2011,80-84 years,Non-Hispanic,Asian or Pacific Islander,28,75973,36.9,0.694600961,0.999631448
+Male,2011,80-84 years,Non-Hispanic,Black or African American,76,150760,50.4,0.581533333,0.999495888
+Male,2011,80-84 years,Non-Hispanic,White,1621,1949706,83.1,0.308544846,0.999168593
+Male,2011,85+ years,Hispanic,White,60,98582,60.9,0.494357584,0.99939137
+Male,2011,85+ years,Non-Hispanic,Asian or Pacific Islander,42,59975,70,0.417905097,0.999299708
+Male,2011,85+ years,Non-Hispanic,Black or African American,48,113691,42.2,0.649856991,0.999577803
+Male,2011,85+ years,Non-Hispanic,White,1740,1598332,108.9,0.093997828,0.998911365
+Male,2012,20-24 years,Non-Hispanic,White,26,6614862,0.4,0.998722578,0.999996069
+Male,2012,25-29 years,Non-Hispanic,White,28,6329618,0.4,0.998311292,0.999995576
+Male,2012,30-34 years,Hispanic,White,18,2004996,0.9,0.994512976,0.999991022
+Male,2012,30-34 years,Non-Hispanic,Black or African American,16,1319457,1.2,0.991886786,0.999987874
+Male,2012,30-34 years,Non-Hispanic,White,36,6153991,0.6,0.997121722,0.99999415
+Male,2012,35-39 years,Non-Hispanic,Black or African American,20,1193162,1.7,0.988020028,0.999983238
+Male,2012,35-39 years,Non-Hispanic,White,49,5727501,0.9,0.994865256,0.999991445
+Male,2012,40-44 years,Hispanic,White,44,1692822,2.6,0.980321585,0.999974008
+Male,2012,40-44 years,Non-Hispanic,Black or African American,24,1263735,1.9,0.986160758,0.999981009
+Male,2012,40-44 years,Non-Hispanic,White,92,6591232,1.4,0.99035898,0.999986042
+Male,2012,45-49 years,Hispanic,White,35,1475027,2.4,0.982209699,0.999976272
+Male,2012,45-49 years,Non-Hispanic,Black or African American,44,1293988,3.4,0.973639556,0.999965997
+Male,2012,45-49 years,Non-Hispanic,White,157,7146235,2.2,0.983676644,0.99997803
+Male,2012,50-54 years,Hispanic,White,60,1212799,4.9,0.960737309,0.999950528
+Male,2012,50-54 years,Non-Hispanic,Asian or Pacific Islander,16,516918,3.1,0.976184086,0.999969047
+Male,2012,50-54 years,Non-Hispanic,Black or African American,59,1287920,4.6,0.963791722,0.99995419
+Male,2012,50-54 years,Non-Hispanic,White,341,7848496,4.3,0.965762211,0.999956552
+Male,2012,55-59 years,Hispanic,White,51,920885,5.5,0.955808616,0.999944618
+Male,2012,55-59 years,Non-Hispanic,Asian or Pacific Islander,28,454082,6.2,0.950569488,0.999938337
+Male,2012,55-59 years,Non-Hispanic,Black or African American,91,1100970,8.3,0.933060991,0.999917346
+Male,2012,55-59 years,Non-Hispanic,White,598,7422781,8.1,0.934805534,0.999919437
+Male,2012,60-64 years ,Hispanic,White,71,668258,10.6,0.913383492,0.999893754
+Male,2012,60-64 years ,Non-Hispanic,Asian or Pacific Islander,27,371797,7.3,0.941430193,0.99992738
+Male,2012,60-64 years ,Non-Hispanic,Black or African American,99,845193,11.7,0.904303235,0.999882867
+Male,2012,60-64 years ,Non-Hispanic,White,891,6525992,13.7,0.888123884,0.999863469
+Male,2012,65-69 years,Hispanic,White,80,462349,17.3,0.857681401,0.999826971
+Male,2012,65-69 years,Non-Hispanic,Asian or Pacific Islander,33,267017,12.4,0.898919592,0.999876412
+Male,2012,65-69 years,Non-Hispanic,Black or African American,82,564451,14.5,0.88083162,0.999854726
+Male,2012,65-69 years,Non-Hispanic,White,1055,5232795,20.2,0.83384051,0.999798387
+Male,2012,70-74 years,Hispanic,White,107,312324,34.3,0.716252744,0.999657407
+Male,2012,70-74 years,Non-Hispanic,Asian or Pacific Islander,47,193571,24.3,0.799483403,0.999757195
+Male,2012,70-74 years,Non-Hispanic,Black or African American,95,381585,24.9,0.794348335,0.999751038
+Male,2012,70-74 years,Non-Hispanic,White,1269,3659088,34.7,0.712737301,0.999653192
+Male,2012,75-79 years,Hispanic,White,85,218176,39,0.677050575,0.999610406
+Male,2012,75-79 years,Non-Hispanic,Asian or Pacific Islander,44,130756,33.7,0.721330855,0.999663495
+Male,2012,75-79 years,Non-Hispanic,Black or African American,67,257530,26,0.78500478,0.999739836
+Male,2012,75-79 years,Non-Hispanic,White,1419,2654642,53.5,0.55615839,0.999465465
+Male,2012,80-84 years,Hispanic,White,91,146775,62,0.484877309,0.999380003
+Male,2012,80-84 years,Non-Hispanic,Asian or Pacific Islander,39,80820,48.3,0.599514883,0.999517446
+Male,2012,80-84 years,Non-Hispanic,Black or African American,83,155204,53.5,0.55595431,0.99946522
+Male,2012,80-84 years,Non-Hispanic,White,1592,1952418,81.5,0.321896919,0.999184601
+Male,2012,85+ years,Hispanic,White,85,106810,79.6,0.338239388,0.999204194
+Male,2012,85+ years,Non-Hispanic,Asian or Pacific Islander,38,65464,58,0.517844025,0.999419528
+Male,2012,85+ years,Non-Hispanic,Black or African American,56,119217,47,0.610209523,0.999530268
+Male,2012,85+ years,Non-Hispanic,White,1785,1657826,107.7,0.103943,0.998923289
+Male,2013,20-24 years,Non-Hispanic,White,17,6637248,0.3,0.999864628,0.999997439
+Male,2013,25-29 years,Non-Hispanic,White,27,6358792,0.4,0.998459389,0.999995754
+Male,2013,30-34 years,Hispanic,White,17,2035352,0.8,0.995034448,0.999991648
+Male,2013,30-34 years,Non-Hispanic,Black or African American,18,1346357,1.3,0.990849855,0.999986631
+Male,2013,30-34 years,Non-Hispanic,White,38,6245520,0.6,0.996926132,0.999993916
+Male,2013,35-39 years,Non-Hispanic,Black or African American,19,1203139,1.6,0.988829214,0.999984208
+Male,2013,35-39 years,Non-Hispanic,White,44,5742115,0.8,0.995609695,0.999992337
+Male,2013,40-44 years,Hispanic,White,22,1723371,1.3,0.991353413,0.999987234
+Male,2013,40-44 years,Non-Hispanic,Black or African American,22,1257539,1.7,0.987409232,0.999982506
+Male,2013,40-44 years,Non-Hispanic,White,77,6440422,1.2,0.992028964,0.999988044
+Male,2013,45-49 years,Hispanic,White,38,1511705,2.5,0.981034654,0.999974863
+Male,2013,45-49 years,Non-Hispanic,Black or African American,40,1271468,3.1,0.975761199,0.99996854
+Male,2013,45-49 years,Non-Hispanic,White,147,6894229,2.1,0.984216648,0.999978678
+Male,2013,50-54 years,Hispanic,White,53,1264801,4.2,0.967050014,0.999958096
+Male,2013,50-54 years,Non-Hispanic,Black or African American,73,1293278,5.6,0.954920989,0.999943554
+Male,2013,50-54 years,Non-Hispanic,White,325,7755678,4.2,0.967049216,0.999958095
+Male,2013,55-59 years,Hispanic,White,70,967924,7.2,0.941680872,0.99992768
+Male,2013,55-59 years,Non-Hispanic,Asian or Pacific Islander,19,471363,4,0.968380521,0.999959691
+Male,2013,55-59 years,Non-Hispanic,Black or African American,71,1138959,6.2,0.950006693,0.999937662
+Male,2013,55-59 years,Non-Hispanic,White,547,7517654,7.3,0.941311932,0.999927238
+Male,2013,60-64 years ,Hispanic,White,68,700217,9.7,0.92100163,0.999902887
+Male,2013,60-64 years ,Non-Hispanic,Asian or Pacific Islander,26,385911,6.7,0.945806774,0.999932627
+Male,2013,60-64 years ,Non-Hispanic,Black or African American,103,871720,11.8,0.903448978,0.999881843
+Male,2013,60-64 years ,Non-Hispanic,White,815,6579158,12.4,0.898679047,0.999876124
+Male,2013,65-69 years,Hispanic,White,102,496219,20.6,0.830553165,0.999794446
+Male,2013,65-69 years,Non-Hispanic,Asian or Pacific Islander,39,288869,13.5,0.889393073,0.999864991
+Male,2013,65-69 years,Non-Hispanic,Black or African American,84,600849,14,0.885395448,0.999860198
+Male,2013,65-69 years,Non-Hispanic,White,1051,5428872,19.4,0.840528583,0.999806405
+Male,2013,70-74 years,Hispanic,White,97,328878,29.5,0.755997043,0.999705058
+Male,2013,70-74 years,Non-Hispanic,Asian or Pacific Islander,38,203965,18.6,0.84660738,0.999813694
+Male,2013,70-74 years,Non-Hispanic,Black or African American,105,400080,26.2,0.783100048,0.999737552
+Male,2013,70-74 years,Non-Hispanic,White,1310,3890605,33.7,0.721160767,0.999663291
+Male,2013,75-79 years,Hispanic,White,95,229337,41.4,0.656495765,0.999585762
+Male,2013,75-79 years,Non-Hispanic,Asian or Pacific Islander,46,139912,32.9,0.727775373,0.999671222
+Male,2013,75-79 years,Non-Hispanic,Black or African American,75,265758,28.2,0.766615285,0.999717788
+Male,2013,75-79 years,Non-Hispanic,White,1379,2720397,50.7,0.579198915,0.999493089
+Male,2013,80-84 years,Hispanic,White,104,151488,68.7,0.429389278,0.999313477
+Male,2013,80-84 years,Non-Hispanic,Asian or Pacific Islander,46,86178,53.4,0.55678931,0.999466221
+Male,2013,80-84 years,Non-Hispanic,Black or African American,64,160819,39.8,0.670070031,0.999602037
+Male,2013,80-84 years,Non-Hispanic,White,1585,1946062,81.4,0.322675817,0.999185535
+Male,2013,85+ years,Hispanic,White,109,115547,94.3,0.215185441,0.999056661
+Male,2013,85+ years,Non-Hispanic,Asian or Pacific Islander,57,71034,80.2,0.332711971,0.999197567
+Male,2013,85+ years,Non-Hispanic,Black or African American,66,123504,53.4,0.556274915,0.999465604
+Male,2013,85+ years,Non-Hispanic,White,1808,1704495,106.1,0.117277003,0.998939275
+Male,2014,20-24 years,Non-Hispanic,White,16,6609388,0.2,0.999981818,0.999997579
+Male,2014,25-29 years,Non-Hispanic,White,30,6437156,0.5,0.998113787,0.99999534
+Male,2014,30-34 years,Non-Hispanic,Black or African American,19,1362329,1.4,0.990368349,0.999986053
+Male,2014,30-34 years,Non-Hispanic,White,27,6294256,0.4,0.998423077,0.99999571
+Male,2014,35-39 years,Hispanic,White,23,1894755,1.2,0.9918763,0.999987861
+Male,2014,35-39 years,Non-Hispanic,Black or African American,19,1230537,1.5,0.989122484,0.99998456
+Male,2014,35-39 years,Non-Hispanic,White,49,5807562,0.8,0.994963626,0.999991563
+Male,2014,40-44 years,Hispanic,White,19,1753960,1.1,0.99296572,0.999989167
+Male,2014,40-44 years,Non-Hispanic,Black or African American,34,1246039,2.7,0.979241988,0.999972714
+Male,2014,40-44 years,Non-Hispanic,White,78,6241115,1.2,0.991576871,0.999987502
+Male,2014,45-49 years,Hispanic,White,34,1543390,2.2,0.983626751,0.999977971
+Male,2014,45-49 years,Non-Hispanic,Black or African American,43,1245941,3.5,0.973215294,0.999965488
+Male,2014,45-49 years,Non-Hispanic,White,143,6691365,2.1,0.984176075,0.999978629
+Male,2014,50-54 years,Hispanic,White,57,1316695,4.3,0.965893667,0.99995671
+Male,2014,50-54 years,Non-Hispanic,Black or African American,65,1295847,5,0.960163543,0.99994984
+Male,2014,50-54 years,Non-Hispanic,White,294,7660825,3.8,0.969991594,0.999961623
+Male,2014,55-59 years,Hispanic,White,70,1016919,6.9,0.944587083,0.999931165
+Male,2014,55-59 years,Non-Hispanic,Asian or Pacific Islander,25,485188,5.2,0.95902405,0.999948474
+Male,2014,55-59 years,Non-Hispanic,Black or African American,91,1170738,7.8,0.937169342,0.999922271
+Male,2014,55-59 years,Non-Hispanic,White,549,7563141,7.3,0.941456371,0.999927411
+Male,2014,60-64 years ,Hispanic,White,94,738606,12.7,0.895850919,0.999872733
+Male,2014,60-64 years ,Non-Hispanic,Asian or Pacific Islander,32,400829,8,0.935412952,0.999920165
+Male,2014,60-64 years ,Non-Hispanic,Black or African American,99,903088,11,0.910566422,0.999890376
+Male,2014,60-64 years ,Non-Hispanic,White,802,6680480,12,0.901869201,0.999879949
+Male,2014,65-69 years,Hispanic,White,93,529869,17.6,0.855608212,0.999824485
+Male,2014,65-69 years,Non-Hispanic,Asian or Pacific Islander,34,311521,10.9,0.910968403,0.999890858
+Male,2014,65-69 years,Non-Hispanic,Black or African American,101,641335,15.7,0.870647486,0.999842516
+Male,2014,65-69 years,Non-Hispanic,White,1083,5658247,19.1,0.842357299,0.999808598
+Male,2014,70-74 years,Hispanic,White,99,346349,28.6,0.763589917,0.999714161
+Male,2014,70-74 years,Non-Hispanic,Asian or Pacific Islander,46,215737,21.3,0.824157329,0.999786777
+Male,2014,70-74 years,Non-Hispanic,Black or African American,91,417254,21.8,0.820095388,0.999781907
+Male,2014,70-74 years,Non-Hispanic,White,1310,4053224,32.3,0.732428328,0.9996768
+Male,2014,75-79 years,Hispanic,White,126,240632,52.4,0.565261669,0.999476379
+Male,2014,75-79 years,Non-Hispanic,Asian or Pacific Islander,58,149610,38.8,0.67865125,0.999612325
+Male,2014,75-79 years,Non-Hispanic,Black or African American,79,275139,28.7,0.762515005,0.999712872
+Male,2014,75-79 years,Non-Hispanic,White,1404,2804992,50.1,0.584516243,0.999499464
+Male,2014,80-84 years,Hispanic,White,81,156989,51.6,0.571651863,0.99948404
+Male,2014,80-84 years,Non-Hispanic,Asian or Pacific Islander,41,91965,44.6,0.63015216,0.999554178
+Male,2014,80-84 years,Non-Hispanic,Black or African American,64,166733,38.4,0.681843582,0.999616153
+Male,2014,80-84 years,Non-Hispanic,White,1537,1940278,79.2,0.341284687,0.999207845
+Male,2014,85+ years,Hispanic,White,100,125114,79.9,0.33534896,0.999200729
+Male,2014,85+ years,Non-Hispanic,Asian or Pacific Islander,60,77174,77.7,0.35353776,0.999222536
+Male,2014,85+ years,Non-Hispanic,Black or African American,65,128774,50.5,0.580993035,0.99949524
+Male,2014,85+ years,Non-Hispanic,White,1872,1752628,106.8,0.111116894,0.99893189
+Male,2015,25-29 years,Non-Hispanic,White,24,6518073,0.4,0.998929824,0.999996318
+Male,2015,30-34 years,Non-Hispanic,Black or African American,19,1374569,1.4,0.990471933,0.999986177
+Male,2015,30-34 years,Non-Hispanic,White,34,6316732,0.5,0.997511512,0.999994617
+Male,2015,35-39 years,Hispanic,White,17,1945696,0.9,0.994713438,0.999991263
+Male,2015,35-39 years,Non-Hispanic,Black or African American,16,1270431,1.3,0.99149648,0.999987406
+Male,2015,35-39 years,Non-Hispanic,White,49,5912903,0.8,0.995088999,0.999991713
+Male,2015,40-44 years,Hispanic,White,22,1781966,1.2,0.991703528,0.999987654
+Male,2015,40-44 years,Non-Hispanic,Black or African American,32,1225835,2.6,0.980227706,0.999973895
+Male,2015,40-44 years,Non-Hispanic,White,71,6019368,1.2,0.992162816,0.999988205
+Male,2015,45-49 years,Hispanic,White,35,1585714,2.2,0.98359118,0.999977928
+Male,2015,45-49 years,Non-Hispanic,Black or African American,40,1238989,3.2,0.975073347,0.999967716
+Male,2015,45-49 years,Non-Hispanic,White,149,6605747,2.3,0.983187454,0.999977444
+Male,2015,50-54 years,Hispanic,White,58,1361328,4.3,0.966464802,0.999957395
+Male,2015,50-54 years,Non-Hispanic,Black or African American,63,1289122,4.9,0.961239309,0.99995113
+Male,2015,50-54 years,Non-Hispanic,White,297,7485257,4,0.968906522,0.999960322
+Male,2015,55-59 years,Hispanic,White,66,1072583,6.2,0.950677228,0.999938466
+Male,2015,55-59 years,Non-Hispanic,Asian or Pacific Islander,27,500876,5.4,0.95703967,0.999946094
+Male,2015,55-59 years,Non-Hispanic,Black or African American,100,1199466,8.3,0.932463755,0.99991663
+Male,2015,55-59 years,Non-Hispanic,White,563,7598693,7.4,0.940202923,0.999925908
+Male,2015,60-64 years ,Hispanic,White,84,783357,10.7,0.912562418,0.999892769
+Male,2015,60-64 years ,Non-Hispanic,Asian or Pacific Islander,34,416083,8.2,0.933844956,0.999918286
+Male,2015,60-64 years ,Non-Hispanic,Black or African American,113,936745,12.1,0.901386082,0.99987937
+Male,2015,60-64 years ,Non-Hispanic,White,808,6810015,11.9,0.903038965,0.999881351
+Male,2015,65-69 years,Hispanic,White,105,564936,18.6,0.846978304,0.999814138
+Male,2015,65-69 years,Non-Hispanic,Asian or Pacific Islander,32,336771,9.5,0.922747094,0.99990498
+Male,2015,65-69 years,Non-Hispanic,Black or African American,114,686006,16.6,0.863394948,0.999833821
+Male,2015,65-69 years,Non-Hispanic,White,1117,5888127,19,0.843773765,0.999810296
+Male,2015,70-74 years,Hispanic,White,109,367500,29.7,0.754615446,0.999703401
+Male,2015,70-74 years,Non-Hispanic,Asian or Pacific Islander,59,227448,25.9,0.785641941,0.9997406
+Male,2015,70-74 years,Non-Hispanic,Black or African American,81,433989,18.7,0.846328631,0.999813359
+Male,2015,70-74 years,Non-Hispanic,White,1304,4190421,31.1,0.742448563,0.999688814
+Male,2015,75-79 years,Hispanic,White,104,251317,41.4,0.656844047,0.99958618
+Male,2015,75-79 years,Non-Hispanic,Asian or Pacific Islander,55,160338,34.3,0.715892082,0.999656975
+Male,2015,75-79 years,Non-Hispanic,Black or African American,81,285241,28.4,0.765148347,0.99971603
+Male,2015,75-79 years,Non-Hispanic,White,1431,2867048,49.9,0.58569774,0.99950088
+Male,2015,80-84 years,Hispanic,White,80,163531,48.9,0.593968235,0.999510796
+Male,2015,80-84 years,Non-Hispanic,Asian or Pacific Islander,54,97910,55.2,0.541986156,0.999448473
+Male,2015,80-84 years,Non-Hispanic,Black or African American,71,173156,41,0.660001116,0.999589965
+Male,2015,80-84 years,Non-Hispanic,White,1517,1950481,77.8,0.353293411,0.999222243
+Male,2015,85+ years,Hispanic,White,93,135824,68.5,0.43090179,0.99931529
+Male,2015,85+ years,Non-Hispanic,Asian or Pacific Islander,59,84333,70,0.418475838,0.999300392
+Male,2015,85+ years,Non-Hispanic,Black or African American,63,135106,46.6,0.613071344,0.999533699
+Male,2015,85+ years,Non-Hispanic,White,1892,1797249,105.3,0.123953534,0.99894728
+Male,2016,20-24 years,Non-Hispanic,White,17,6397971,0.3,0.999784732,0.999997343
+Male,2016,25-29 years,Non-Hispanic,White,30,6603033,0.5,0.998211437,0.999995457
+Male,2016,30-34 years,Non-Hispanic,Black or African American,16,1401196,1.1,0.992476797,0.999988581
+Male,2016,30-34 years,Non-Hispanic,White,35,6346122,0.6,0.997400873,0.999994485
+Male,2016,35-39 years,Non-Hispanic,Black or African American,16,1306466,1.2,0.991786214,0.999987753
+Male,2016,35-39 years,Non-Hispanic,White,43,6043915,0.7,0.996066841,0.999992885
+Male,2016,40-44 years,Hispanic,White,24,1808890,1.3,0.990934602,0.999986732
+Male,2016,40-44 years,Non-Hispanic,Black or African American,28,1201441,2.3,0.982562539,0.999976695
+Male,2016,40-44 years,Non-Hispanic,White,69,5781631,1.2,0.992046804,0.999988066
+Male,2016,45-49 years,Hispanic,White,31,1629537,1.9,0.986133663,0.999980976
+Male,2016,45-49 years,Non-Hispanic,Black or African American,43,1243580,3.5,0.973160643,0.999965422
+Male,2016,45-49 years,Non-Hispanic,White,144,6594542,2.2,0.983787885,0.999978164
+Male,2016,50-54 years,Hispanic,White,49,1405869,3.5,0.972930191,0.999965146
+Male,2016,50-54 years,Non-Hispanic,Asian or Pacific Islander,22,576170,3.8,0.970153315,0.999961817
+Male,2016,50-54 years,Non-Hispanic,Black or African American,63,1276747,4.9,0.960844223,0.999950656
+Male,2016,50-54 years,Non-Hispanic,White,292,7223604,4,0.968285104,0.999959577
+Male,2016,55-59 years,Hispanic,White,65,1120968,5.8,0.95363661,0.999942014
+Male,2016,55-59 years,Non-Hispanic,Asian or Pacific Islander,22,510558,4.3,0.966060564,0.99995691
+Male,2016,55-59 years,Non-Hispanic,Black or African American,94,1216021,7.7,0.93752587,0.999922699
+Male,2016,55-59 years,Non-Hispanic,White,507,7622098,6.7,0.946520682,0.999933483
+Male,2016,60-64 years ,Hispanic,White,96,827287,11.6,0.905213257,0.999883958
+Male,2016,60-64 years ,Non-Hispanic,Asian or Pacific Islander,38,436121,8.7,0.929326508,0.999912868
+Male,2016,60-64 years ,Non-Hispanic,Black or African American,120,971109,12.4,0.89893425,0.99987643
+Male,2016,60-64 years ,Non-Hispanic,White,766,6915497,11.1,0.909614032,0.999889234
+Male,2016,65-69 years,Hispanic,White,95,601256,15.8,0.870214948,0.999841997
+Male,2016,65-69 years,Non-Hispanic,Asian or Pacific Islander,48,355811,13.5,0.889481664,0.999865097
+Male,2016,65-69 years,Non-Hispanic,Black or African American,96,731495,13.1,0.892538548,0.999868762
+Male,2016,65-69 years,Non-Hispanic,White,1151,6131264,18.8,0.845423071,0.999812274
+Male,2016,70-74 years,Hispanic,White,103,390496,26.4,0.781999406,0.999736233
+Male,2016,70-74 years,Non-Hispanic,Asian or Pacific Islander,49,240813,20.3,0.832285551,0.999796523
+Male,2016,70-74 years,Non-Hispanic,Black or African American,84,449331,18.7,0.846075143,0.999813055
+Male,2016,70-74 years,Non-Hispanic,White,1361,4297247,31.7,0.737837395,0.999683286
+Male,2016,75-79 years,Hispanic,White,131,262072,50,0.585078038,0.999500137
+Male,2016,75-79 years,Non-Hispanic,Asian or Pacific Islander,49,169618,28.9,0.761049671,0.999711116
+Male,2016,75-79 years,Non-Hispanic,Black or African American,81,294251,27.5,0.772400801,0.999724725
+Male,2016,75-79 years,Non-Hispanic,White,1423,2953626,48.2,0.600159726,0.999518219
+Male,2016,80-84 years,Hispanic,White,102,170983,59.7,0.50443308,0.999403449
+Male,2016,80-84 years,Non-Hispanic,Asian or Pacific Islander,50,105222,47.5,0.605660368,0.999524814
+Male,2016,80-84 years,Non-Hispanic,Black or African American,60,181109,33.1,0.725678411,0.999668708
+Male,2016,80-84 years,Non-Hispanic,White,1368,1971664,69.4,0.423294558,0.99930617
+Male,2016,85+ years,Hispanic,White,117,145915,80.2,0.33320904,0.999198163
+Male,2016,85+ years,Non-Hispanic,Asian or Pacific Islander,57,91246,62.5,0.480966895,0.999375315
+Male,2016,85+ years,Non-Hispanic,Black or African American,57,140374,40.6,0.663318049,0.999593942
+Male,2016,85+ years,Non-Hispanic,White,1953,1838575,106.2,0.116016743,0.998937764
+Male,2017,20-24 years,Non-Hispanic,White,18,6278145,0.3,0.999609579,0.999997133
+Male,2017,25-29 years,Non-Hispanic,White,22,6663560,0.3,0.999247215,0.999996698
+Male,2017,30-34 years,Non-Hispanic,Black or African American,18,1432026,1.3,0.991516954,0.99998743
+Male,2017,30-34 years,Non-Hispanic,White,33,6356409,0.5,0.997670753,0.999994808
+Male,2017,35-39 years,Hispanic,White,17,2031390,0.8,0.995020861,0.999991631
+Male,2017,35-39 years,Non-Hispanic,Black or African American,18,1335546,1.3,0.990759589,0.999986522
+Male,2017,35-39 years,Non-Hispanic,White,51,6141422,0.8,0.995074566,0.999991696
+Male,2017,40-44 years,Hispanic,White,25,1840229,1.4,0.990669816,0.999986415
+Male,2017,40-44 years,Non-Hispanic,Black or African American,27,1196321,2.3,0.983176547,0.999977431
+Male,2017,40-44 years,Non-Hispanic,White,64,5693593,1.1,0.992625355,0.999988759
+Male,2017,45-49 years,Hispanic,White,27,1672900,1.6,0.988539278,0.99998386
+Male,2017,45-49 years,Non-Hispanic,Black or African American,50,1248170,4,0.968589032,0.999959941
+Male,2017,45-49 years,Non-Hispanic,White,121,6505494,1.9,0.986487432,0.9999814
+Male,2017,50-54 years,Hispanic,White,56,1441376,3.9,0.969595662,0.999961148
+Male,2017,50-54 years,Non-Hispanic,Asian or Pacific Islander,17,583806,2.9,0.977713298,0.999970881
+Male,2017,50-54 years,Non-Hispanic,Black or African American,62,1256091,4.9,0.960831438,0.999950641
+Male,2017,50-54 years,Non-Hispanic,White,262,6976356,3.8,0.970676908,0.999962445
+Male,2017,55-59 years,Hispanic,White,79,1170798,6.7,0.945721449,0.999932525
+Male,2017,55-59 years,Non-Hispanic,Asian or Pacific Islander,19,521403,3.6,0.971607135,0.99996356
+Male,2017,55-59 years,Non-Hispanic,Black or African American,71,1221902,5.8,0.953536075,0.999941894
+Male,2017,55-59 years,Non-Hispanic,White,505,7556784,6.7,0.94626191,0.999933173
+Male,2017,60-64 years ,Hispanic,White,86,875899,9.8,0.920107432,0.999901815
+Male,2017,60-64 years ,Non-Hispanic,Asian or Pacific Islander,33,453584,7.3,0.941318748,0.999927246
+Male,2017,60-64 years ,Non-Hispanic,Black or African American,123,1012816,12.1,0.900707897,0.999878556
+Male,2017,60-64 years ,Non-Hispanic,White,785,7030183,11.2,0.908866977,0.999888339
+Male,2017,65-69 years,Hispanic,White,95,626703,15.2,0.875566061,0.999848413
+Male,2017,65-69 years,Non-Hispanic,Asian or Pacific Islander,55,368867,14.9,0.877636004,0.999850895
+Male,2017,65-69 years,Non-Hispanic,Black or African American,128,751212,17,0.859881816,0.999829609
+Male,2017,65-69 years,Non-Hispanic,White,1072,6050983,17.7,0.854235143,0.999822839
+Male,2017,70-74 years,Hispanic,White,99,423362,23.4,0.806958827,0.999766158
+Male,2017,70-74 years,Non-Hispanic,Asian or Pacific Islander,48,259973,18.5,0.848001883,0.999815365
+Male,2017,70-74 years,Non-Hispanic,Black or African American,111,483994,22.9,0.810712787,0.999770658
+Male,2017,70-74 years,Non-Hispanic,White,1414,4690768,30.1,0.75057474,0.999698557
+Male,2017,75-79 years,Hispanic,White,116,274292,42.3,0.649264825,0.999577093
+Male,2017,75-79 years,Non-Hispanic,Asian or Pacific Islander,72,179385,40.1,0.667227149,0.999598629
+Male,2017,75-79 years,Non-Hispanic,Black or African American,88,306373,28.7,0.762428278,0.999712768
+Male,2017,75-79 years,Non-Hispanic,White,1492,3084873,48.4,0.598600272,0.99951635
+Male,2017,80-84 years,Hispanic,White,99,178788,55.4,0.540149918,0.999446272
+Male,2017,80-84 years,Non-Hispanic,Asian or Pacific Islander,46,113022,40.7,0.662532096,0.999593
+Male,2017,80-84 years,Non-Hispanic,Black or African American,91,187363,48.6,0.596900569,0.999514312
+Male,2017,80-84 years,Non-Hispanic,White,1550,1999127,77.5,0.355310568,0.999224662
+Male,2017,85+ years,Hispanic,White,115,155150,74.1,0.383769422,0.999258782
+Male,2017,85+ years,Non-Hispanic,Asian or Pacific Islander,57,98376,57.9,0.518729894,0.99942059
+Male,2017,85+ years,Non-Hispanic,Black or African American,72,145908,49.3,0.590416951,0.999506538
+Male,2017,85+ years,Non-Hispanic,White,2033,1868015,108.8,0.094259625,0.998911679
+Male,2018,20-24 years,Non-Hispanic,White,17,6181689,0.3,0.999707192,0.99999725
+Male,2018,25-29 years,Non-Hispanic,White,16,6670014,0.2,1.000000171,0.999997601
+Male,2018,30-34 years,Hispanic,White,16,2131519,0.8,0.995740059,0.999992494
+Male,2018,30-34 years,Non-Hispanic,White,30,6374608,0.5,0.998075646,0.999995294
+Male,2018,35-39 years,Non-Hispanic,Black or African American,23,1361418,1.7,0.987909958,0.999983106
+Male,2018,35-39 years,Non-Hispanic,White,46,6224452,0.7,0.995836958,0.99999261
+Male,2018,40-44 years,Hispanic,White,16,1874176,0.9,0.994880377,0.999991463
+Male,2018,40-44 years,Non-Hispanic,Black or African American,29,1204514,2.4,0.981919673,0.999975924
+Male,2018,40-44 years,Non-Hispanic,White,61,5702766,1.1,0.99307921,0.999989303
+Male,2018,45-49 years,Hispanic,White,31,1705975,1.8,0.986844614,0.999981829
+Male,2018,45-49 years,Non-Hispanic,Black or African American,39,1241757,3.1,0.975805061,0.999968593
+Male,2018,45-49 years,Non-Hispanic,White,121,6354480,1.9,0.986118754,0.999980958
+Male,2018,50-54 years,Hispanic,White,57,1478793,3.9,0.969851569,0.999961455
+Male,2018,50-54 years,Non-Hispanic,Black or African American,69,1234251,5.6,0.955372527,0.999944096
+Male,2018,50-54 years,Non-Hispanic,White,219,6730775,3.3,0.974862553,0.999967463
+Male,2018,55-59 years,Hispanic,White,59,1222250,4.8,0.961738788,0.999951728
+Male,2018,55-59 years,Non-Hispanic,Asian or Pacific Islander,29,536799,5.4,0.956940925,0.999945976
+Male,2018,55-59 years,Non-Hispanic,Black or African American,107,1226998,8.7,0.929265684,0.999912795
+Male,2018,55-59 years,Non-Hispanic,White,513,7466168,6.9,0.9446917,0.99993129
+Male,2018,60-64 years ,Hispanic,White,91,921154,9.9,0.919603408,0.999901211
+Male,2018,60-64 years ,Non-Hispanic,Asian or Pacific Islander,41,468584,8.7,0.929021344,0.999912502
+Male,2018,60-64 years ,Non-Hispanic,Black or African American,114,1047925,10.9,0.911264924,0.999891214
+Male,2018,60-64 years ,Non-Hispanic,White,771,7115878,10.8,0.911629554,0.999891651
+Male,2018,65-69 years,Hispanic,White,110,656407,16.8,0.862227534,0.999832421
+Male,2018,65-69 years,Non-Hispanic,Asian or Pacific Islander,41,381244,10.8,0.912302292,0.999892457
+Male,2018,65-69 years,Non-Hispanic,Black or African American,112,773148,14.5,0.881174925,0.999855138
+Male,2018,65-69 years,Non-Hispanic,White,1033,6095337,16.9,0.860647082,0.999830526
+Male,2018,70-74 years,Hispanic,White,135,454906,29.7,0.754477017,0.999703235
+Male,2018,70-74 years,Non-Hispanic,Asian or Pacific Islander,40,280166,14.3,0.882917979,0.999857228
+Male,2018,70-74 years,Non-Hispanic,Black or African American,108,515294,21,0.827187934,0.999790411
+Male,2018,70-74 years,Non-Hispanic,White,1414,4870837,29,0.759869665,0.999709701
+Male,2018,75-79 years,Hispanic,White,123,289041,42.6,0.647064377,0.999574455
+Male,2018,75-79 years,Non-Hispanic,Asian or Pacific Islander,62,188985,32.8,0.728367336,0.999671932
+Male,2018,75-79 years,Non-Hispanic,Black or African American,84,321909,26.1,0.784354664,0.999739057
+Male,2018,75-79 years,Non-Hispanic,White,1585,3287107,48.2,0.599820907,0.999517813
+Male,2018,80-84 years,Hispanic,White,116,188513,61.5,0.48875944,0.999384658
+Male,2018,80-84 years,Non-Hispanic,Asian or Pacific Islander,61,120946,50.4,0.581329135,0.999495643
+Male,2018,80-84 years,Non-Hispanic,Black or African American,79,193820,40.8,0.662036431,0.999592405
+Male,2018,80-84 years,Non-Hispanic,White,1560,2053395,76,0.368339646,0.999240283
+Male,2018,85+ years,Hispanic,White,123,163334,75.3,0.373893995,0.999246942
+Male,2018,85+ years,Non-Hispanic,Asian or Pacific Islander,65,106167,61.2,0.491344407,0.999387757
+Male,2018,85+ years,Non-Hispanic,Black or African American,64,151916,42.1,0.650617301,0.999578715
+Male,2018,85+ years,Non-Hispanic,White,2020,1889689,106.9,0.110409033,0.998931041
+Male,2019,20-24 years,Non-Hispanic,White,17,6107190,0.3,0.999679211,0.999997216
+Male,2019,25-29 years,Non-Hispanic,White,16,6629094,0.2,0.99998782,0.999997586
+Male,2019,30-34 years,Non-Hispanic,White,40,6440004,0.6,0.996820359,0.999993789
+Male,2019,35-39 years,Hispanic,White,19,2092650,0.9,0.994428048,0.999990921
+Male,2019,35-39 years,Non-Hispanic,Black or African American,21,1375980,1.5,0.989271419,0.999984738
+Male,2019,35-39 years,Non-Hispanic,White,40,6264505,0.6,0.996675226,0.999993615
+Male,2019,40-44 years,Hispanic,White,27,1900100,1.4,0.990148925,0.99998579
+Male,2019,40-44 years,Non-Hispanic,Black or African American,24,1229440,2,0.985718899,0.999980479
+Male,2019,40-44 years,Non-Hispanic,White,64,5759739,1.1,0.992733026,0.999988888
+Male,2019,45-49 years,Hispanic,White,32,1735419,1.8,0.986621145,0.999981561
+Male,2019,45-49 years,Non-Hispanic,Black or African American,30,1229809,2.4,0.981654495,0.999975606
+Male,2019,45-49 years,Non-Hispanic,White,121,6153852,2,0.985600962,0.999980338
+Male,2019,50-54 years,Hispanic,White,49,1508756,3.2,0.974912621,0.999967523
+Male,2019,50-54 years,Non-Hispanic,Asian or Pacific Islander,16,601323,2.7,0.979807882,0.999973392
+Male,2019,50-54 years,Non-Hispanic,Black or African American,42,1209117,3.5,0.973028441,0.999965264
+Male,2019,50-54 years,Non-Hispanic,White,226,6531954,3.5,0.973142668,0.999965401
+Male,2019,55-59 years,Hispanic,White,93,1272431,7.3,0.941039706,0.999926912
+Male,2019,55-59 years,Non-Hispanic,Asian or Pacific Islander,35,551906,6.3,0.94910675,0.999936583
+Male,2019,55-59 years,Non-Hispanic,Black or African American,78,1229152,6.3,0.949071896,0.999936542
+Male,2019,55-59 years,Non-Hispanic,White,405,7373578,5.5,0.956188674,0.999945074
+Male,2019,60-64 years ,Hispanic,White,90,967347,9.3,0.924400305,0.999906962
+Male,2019,60-64 years ,Non-Hispanic,Asian or Pacific Islander,41,479643,8.5,0.930704015,0.99991452
+Male,2019,60-64 years ,Non-Hispanic,Black or African American,108,1077104,10,0.918369192,0.999899731
+Male,2019,60-64 years ,Non-Hispanic,White,741,7156186,10.4,0.915635171,0.999896453
+Male,2019,65-69 years,Hispanic,White,100,690912,14.5,0.881280078,0.999855264
+Male,2019,65-69 years,Non-Hispanic,Asian or Pacific Islander,56,393561,14.2,0.883319984,0.999857709
+Male,2019,65-69 years,Non-Hispanic,Black or African American,122,799724,15.3,0.874760616,0.999847447
+Male,2019,65-69 years,Non-Hispanic,White,1037,6184910,16.8,0.862154814,0.999832334
+Male,2019,70-74 years,Hispanic,White,113,485675,23.3,0.807940162,0.999767334
+Male,2019,70-74 years,Non-Hispanic,Asian or Pacific Islander,53,300333,17.6,0.854811083,0.999823529
+Male,2019,70-74 years,Non-Hispanic,Black or African American,115,549811,20.9,0.827543503,0.999790837
+Male,2019,70-74 years,Non-Hispanic,White,1398,5078323,27.5,0.772390344,0.999724712
+Male,2019,75-79 years,Hispanic,White,114,304229,37.5,0.689458269,0.999625282
+Male,2019,75-79 years,Non-Hispanic,Asian or Pacific Islander,67,199193,33.6,0.721453825,0.999663643
+Male,2019,75-79 years,Non-Hispanic,Black or African American,104,336161,30.9,0.743958531,0.999690624
+Male,2019,75-79 years,Non-Hispanic,White,1567,3427295,45.7,0.620651961,0.999542788
+Male,2019,80-84 years,Hispanic,White,122,198059,61.6,0.488229061,0.999384022
+Male,2019,80-84 years,Non-Hispanic,Asian or Pacific Islander,62,129178,48,0.601680088,0.999520042
+Male,2019,80-84 years,Non-Hispanic,Black or African American,83,200847,41.3,0.657319561,0.99958675
+Male,2019,80-84 years,Non-Hispanic,White,1524,2120861,71.9,0.402654621,0.999281424
+Male,2019,85+ years,Hispanic,White,131,172212,76.1,0.367528201,0.99923931
+Male,2019,85+ years,Non-Hispanic,Asian or Pacific Islander,73,114326,63.9,0.469423296,0.999361475
+Male,2019,85+ years,Non-Hispanic,Black or African American,68,157901,43.1,0.642806909,0.99956935
+Male,2019,85+ years,Non-Hispanic,White,1976,1906803,103.6,0.137657786,0.99896371
+Male,2020,25-29 years,Non-Hispanic,White,26,6520008,0.4,0.998674884,0.999996012
+Male,2020,30-34 years,Non-Hispanic,White,26,6504693,0.4,0.998667053,0.999996003
+Male,2020,35-39 years,Non-Hispanic,Black or African American,20,1383849,1.4,0.989946524,0.999985548
+Male,2020,35-39 years,Non-Hispanic,White,43,6275387,0.7,0.996285725,0.999993148
+Male,2020,40-44 years,Hispanic,White,24,1946730,1.2,0.991718164,0.999987672
+Male,2020,40-44 years,Non-Hispanic,Black or African American,23,1265505,1.8,0.986841998,0.999981825
+Male,2020,40-44 years,Non-Hispanic,White,77,5853809,1.3,0.991029667,0.999986846
+Male,2020,45-49 years,Hispanic,White,27,1761187,1.5,0.989214101,0.999984669
+Male,2020,45-49 years,Non-Hispanic,Black or African American,27,1207681,2.2,0.983353618,0.999977643
+Male,2020,45-49 years,Non-Hispanic,White,112,5929177,1.9,0.986245573,0.99998111
+Male,2020,50-54 years,Hispanic,White,55,1549248,3.6,0.972390372,0.999964499
+Male,2020,50-54 years,Non-Hispanic,Black or African American,48,1200964,4,0.968664727,0.999960032
+Male,2020,50-54 years,Non-Hispanic,White,209,6444965,3.2,0.974953217,0.999967572
+Male,2020,55-59 years,Hispanic,White,75,1315209,5.7,0.95443769,0.999942975
+Male,2020,55-59 years,Non-Hispanic,Asian or Pacific Islander,31,559207,5.5,0.955763463,0.999944564
+Male,2020,55-59 years,Non-Hispanic,Black or African American,85,1221168,7,0.943944747,0.999930395
+Male,2020,55-59 years,Non-Hispanic,White,416,7200901,5.8,0.953815978,0.999942229
+Male,2020,60-64 years ,Hispanic,White,111,1020499,10.9,0.911278347,0.99989123
+Male,2020,60-64 years ,Non-Hispanic,Asian or Pacific Islander,36,492264,7.3,0.941003801,0.999926869
+Male,2020,60-64 years ,Non-Hispanic,Black or African American,114,1102596,10.3,0.915763969,0.999896608
+Male,2020,60-64 years ,Non-Hispanic,White,712,7183401,9.9,0.919329607,0.999900883
+Male,2020,65-69 years,Hispanic,White,118,731820,16.1,0.867513168,0.999838758
+Male,2020,65-69 years,Non-Hispanic,Asian or Pacific Islander,56,405608,13.8,0.886844938,0.999861936
+Male,2020,65-69 years,Non-Hispanic,Black or African American,122,827816,14.7,0.879078526,0.999852624
+Male,2020,65-69 years,Non-Hispanic,White,1038,6295659,16.5,0.864482409,0.999835124
+Male,2020,70-74 years,Hispanic,White,141,517792,27.2,0.774873895,0.99972769
+Male,2020,70-74 years,Non-Hispanic,Asian or Pacific Islander,55,322077,17.1,0.859568785,0.999829233
+Male,2020,70-74 years,Non-Hispanic,Black or African American,135,586258,23,0.809935131,0.999769726
+Male,2020,70-74 years,Non-Hispanic,White,1449,5275703,27.5,0.772917803,0.999725345
+Male,2020,75-79 years,Hispanic,White,129,322811,40,0.668692383,0.999600385
+Male,2020,75-79 years,Non-Hispanic,Asian or Pacific Islander,53,209215,25.3,0.790706473,0.999746672
+Male,2020,75-79 years,Non-Hispanic,Black or African American,100,349269,28.6,0.76319505,0.999713688
+Male,2020,75-79 years,Non-Hispanic,White,1656,3538469,46.8,0.611654685,0.999532001
+Male,2020,80-84 years,Hispanic,White,120,206889,58,0.518219808,0.999419979
+Male,2020,80-84 years,Non-Hispanic,Asian or Pacific Islander,70,137611,50.9,0.577723471,0.99949132
+Male,2020,80-84 years,Non-Hispanic,Black or African American,85,207884,40.9,0.660962809,0.999591118
+Male,2020,80-84 years,Non-Hispanic,White,1525,2165315,70.4,0.414574026,0.999295714
+Male,2020,85+ years,Hispanic,White,125,182182,68.6,0.429719542,0.999313873
+Male,2020,85+ years,Non-Hispanic,Asian or Pacific Islander,71,122557,57.9,0.51880274,0.999420678
+Male,2020,85+ years,Non-Hispanic,Black or African American,62,163597,37.9,0.68590317,0.99962102
+Male,2020,85+ years,Non-Hispanic,White,1970,1921637,102.5,0.146934312,0.998974832
